@@ -1,0 +1,143 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.podcasts{
+    background-color: rgb(45, 44, 44);
+}
+.podcasts-common{
+  width:95%;
+  
+}
+.podcasts-cmn {
+  margin-left: 5%;
+  padding:1.5rem 0 2rem 0;
+  
+}
+.podcasts-h1{
+  color:white;
+  font-size:2.5rem;
+  margin-left: 5%;
+  margin-top: 2rem;
+  letter-spacing: 2px;
+  font-family: mode;
+}
+.podcasts-number{
+  color:white;
+  font-size:2.5rem;
+  font-family: cabin;
+}
+.podcasts-card {
+  height:auto;
+  cursor: pointer;
+  
+  padding: 0 2rem 1rem 2rem; 
+}
+
+.podcasts-card:hover,.podcasts-image:hover,.podcasts-card:hover > * {
+  background-color: rgb(103, 102, 102);
+  opacity: 1;
+  border-radius: 15%; 
+}
+
+.podcasts-card:hover > .podcasts-image {
+  animation-name: animate;
+  animation-duration: 5s;
+  animation-direction:alternate;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in;
+  position: relative;
+}
+@keyframes animate1 {
+  
+}
+
+.podcasts-image {
+  height: 12rem;
+  width: 100%;
+  border-radius: 50%;
+  margin-bottom: .7rem;
+  transition: 1000ms;
+  
+}
+.podcasts-image1{
+  margin-bottom: 1rem;
+  letter-spacing: 3px;
+}
+.podcasts-movie{
+  text-align: center;
+  color:white;
+  font-family: coco;
+  font-size: 1.4rem;
+  letter-spacing: 2px;
+  text-overflow: ellipsis;
+    overflow: hidden;
+    width:105%;
+    white-space: nowrap;
+font-family: cabin;
+}
+.podcasts-director{
+  font-family: cabin;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width:100%;
+  text-align: center;
+  white-space: nowrap;
+  color:rgb(180, 184, 160);
+  letter-spacing: 1px;
+}
+.podcasts-singer{
+  font-family: cabin;
+  letter-spacing: 1.4px;
+  font-size:1.4rem;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width:100%;
+  white-space: nowrap;
+  color:rgb(194, 199, 183);
+}
+
+@media screen and (max-width:749px) {
+.podcasts-common{
+  width:85%;
+  
+}
+.podcasts-cmn {
+  
+  margin-left: 18%;
+  padding:1rem 0 0rem 0;
+}
+.podcasts-card {
+  padding: 0 1rem .5rem 1rem; 
+}
+.podcasts-image {
+  height: 10rem;
+}
+.podcasts-h1{
+  font-size: 1.8rem;
+  margin-top: 1rem;
+}
+.podcasts-director{
+  font-size: 1.4rem;
+}
+}
+
+@media screen and (min-width:750px) and (max-width:1010px) {
+  .podcasts-common{
+    width:85%;
+    margin:auto;
+  }
+  .podcasts-card {
+    padding: 0 1rem .5rem 1rem; 
+  }
+  .podcasts-image {
+    height: 10rem;
+  }
+  .podcasts-h1{
+    font-size: 2.4rem;
+   
+  }
+  .podcasts-director{
+    font-size: 1.7rem;
+  }
+}

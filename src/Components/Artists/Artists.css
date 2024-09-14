@@ -1,0 +1,142 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    
+  }
+  .artists-common{
+    background-color: rgb(45, 44, 44);
+  }
+  .artists-cmn {
+    margin:auto;
+    width:85%;
+  }
+  .artists-h1{
+    color:white;
+    font-size:2.5rem;
+    padding: 2rem 0 2rem 5%;
+    letter-spacing: 2px;
+    font-family: mode;
+  }
+  .artists-container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+  }
+  .artists-number{
+    color:white;
+    font-size:2.5rem;
+    font-family: cabin;
+  }
+  .artists-card {
+    height:auto;
+    cursor: pointer;
+    padding: 0 2rem 1rem 2rem; 
+  }
+  
+  .artists-card:hover,.artists-image:hover,.artists-card:hover > * {
+    background-color: rgb(103, 102, 102);
+    opacity: 1;
+    border-radius: 15%; 
+  }
+  
+  .artists-card:hover > .artists-image {
+    animation-name: animate;
+    animation-duration: 5s;
+    animation-direction:alternate;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+    position: relative;
+  }
+  @keyframes animate1 {
+    
+  }
+  
+  .artists-image {
+    height: 10rem;
+    width: 100%;
+    border-radius: 50%;
+    margin-bottom: .7rem;
+    transition: 1000ms;
+    
+  }
+  
+  .artists-movie{
+    text-align: center;
+    color:white;
+    font-family: coco;
+    font-size: 1.4rem;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    text-overflow: ellipsis;
+      overflow: hidden;
+      width:105%;
+      white-space: nowrap;
+  font-family: cabin;
+  }
+  .artists-director{
+    font-family: cabin;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width:100%;
+    white-space: nowrap;
+    color:rgb(180, 184, 160);
+    letter-spacing: 1px;
+  }
+  .artists-singer{
+    font-family: cabin;
+    letter-spacing: 1.4px;
+    font-size:1.4rem;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width:100%;
+    white-space: nowrap;
+    color:rgb(194, 199, 183);
+  }
+
+@media screen and (max-width:745px) {
+.artists-cmn {
+    margin:auto;
+    width:85%;
+  }
+.artists-h1{
+    font-size:2rem;
+}
+.artists-container{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  column-gap: 15px;
+}
+.artists-movie{
+  font-size: 1.1rem;
+  width:100%;
+}
+.artists-card {
+  padding: 0 0rem 1rem 0rem; 
+}
+.artists-image {
+  height:10rem;
+}
+
+}
+
+
+@media screen and (min-width:750px) and (max-width:1010px) {
+.artists-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 5px;
+  row-gap: 1rem;
+} 
+.artists-card {
+  padding: 0 1.5rem .5rem 1.5rem; 
+  text-align: center;
+  
+}
+.artists-image {
+  height:13rem;
+  width: 100%;
+}
+.artists-movie{
+  width: 100%;
+  
+}
+}

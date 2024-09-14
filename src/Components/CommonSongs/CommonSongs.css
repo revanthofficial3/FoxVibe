@@ -1,0 +1,156 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.songlist-cmn1 {
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  background-position-x: right;
+  background-position-y: 0%;
+  background-attachment: scroll;
+}
+.songlist-cmn2 {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.3) 0,
+    rgba(0, 0, 0, 1) 90vh
+  );
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(50px);
+  color: white;
+}
+.gaana-grid {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr 0.4fr;
+  column-gap: 20px;
+  padding: 4rem 0 0 0;
+}
+.ganna-img {
+  place-self: center;
+  height: auto;
+  width: 13rem;
+}
+.gaana-head1-cmn {
+  display: flex;
+  align-items: center;
+}
+.gaana-cmn {
+  position: relative;
+}
+.gaana-category {
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: cabin;
+  letter-spacing: 2px;
+  font-style: italic;
+  font-variant: small-caps;
+}
+.gaana-total {
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-family: cabin;
+  color: silver;
+}
+.gaana-audio-cmn {
+  position: sticky;
+  width: 100%;
+  display: block;
+  bottom: 0px;
+}
+.gaana-tot-hide {
+  display: none;
+}
+
+
+
+.songlist-table {
+  border-collapse: collapse;
+  margin: 2em auto;
+  border: 3px solid grey;
+  min-width: 100%;
+  width: fit-content;
+}
+.songlist-thead {
+  font-family: mode;
+  letter-spacing: 1px;
+  border-bottom: 3px solid grey;
+}
+.songlist-th {
+  padding: 20px;
+  font-size: 1.5rem;
+  color: rgb(207, 199, 199);
+}
+.songlist-bd-cmn {
+  border: 2px solid unset;
+}
+.songlist-bd-cmn:hover {
+  background-color: grey;
+  z-index: -2;
+}
+.songlist-bd {
+  padding: 10px 5px;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+}
+.songlist-index {
+  font-size: 1.5rem;
+  color: #f1edee;
+  font-weight: bold;
+  text-align: center;
+  font-family: cabin;
+}
+.songlist-songname {
+  font-size: 1.5rem;
+  color: #f1edee;
+  letter-spacing: 2px;
+  font-family: cabin;
+  text-transform: capitalize;
+}
+.songlist-musicdirector {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 11rem;
+  margin: auto;
+  white-space: nowrap;
+  color: #f1edee;
+  font-size: 1.5rem;
+  font-family: mode;
+  letter-spacing: 1px;
+  padding: 10px 15px 10px 5px;
+  text-transform: capitalize;
+}
+.songlist-singer {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  font-variant: justify;
+  white-space: nowrap;
+  width: 20rem;
+  margin: auto;
+  padding: 10px 5px 10px 15px;
+  color: #f1edee;
+  font-family: mode;
+  letter-spacing: 1px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.songlist-duration {
+  font-size: 1.5rem;
+  font-family: cabin;
+  letter-spacing: 1px;
+}
+.songlist-download,
+.songlist-download1 {
+  color: #f1edee;
+  text-decoration: none;
+  font-size: 1.5rem;
+  text-align: center;
+  z-index: 999;
+}
+.songlist-download1:active {
+  color: red;
+  z-index: 999;
+}

@@ -1,0 +1,144 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.content-main-common{
+  width:95%; 
+  
+}
+.content-common{
+  width:100%;
+}
+.content-cmn {
+  margin-left: 5%;
+  
+  padding:1.5rem 0 2rem 0;
+}
+.content-h1{
+  color:white;
+  font-size:2.5rem;
+  margin-left: 5%;
+  letter-spacing: 2px;
+  font-family: mode;
+}
+.content-number{
+  color:white;
+  font-size:2.5rem;
+  font-family: cabin;
+}
+.content-card {
+  height:auto;
+  cursor: pointer;
+  padding: 0 2rem 1rem 2rem; 
+}
+
+.content-card:hover,.content-image:hover,.content-card:hover > * {
+  background-color: rgb(103, 102, 102);
+  opacity: 1;
+  border-radius: 15%; 
+}
+
+.content-card:hover > .content-image {
+  animation-name: animate;
+  animation-duration: 5s;
+  animation-direction:alternate;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in;
+  position: relative;
+}
+@keyframes animate1 {
+  
+}
+
+.content-image {
+  height: 12rem;
+  width: 100%;
+  border-radius: 50%;
+  margin-bottom: .7rem;
+  transition: 1000ms;
+  
+}
+.content-image1{
+  margin-bottom: 1rem;
+  letter-spacing: 3px;
+}
+.content-movie{
+  text-align: center;
+  color:white;
+  font-family: coco;
+  font-size: 1.4rem;
+  letter-spacing: 2px;
+  text-overflow: ellipsis;
+  text-transform: capitalize;
+  overflow: hidden;
+  width:105%;
+  white-space: nowrap;
+font-family: cabin;
+}
+.content-director{
+  font-family: cabin;
+  text-overflow: ellipsis;
+  font-size: 1.4rem;
+  text-transform: capitalize;
+  overflow: hidden;
+  width:100%;
+  text-transform: capitalize;
+  white-space: nowrap;
+  color:rgb(180, 184, 160);
+  letter-spacing: 1px;
+}
+.content-singer{
+  font-family: cabin;
+  letter-spacing: 1.4px;
+  font-size:1.4rem;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width:100%;
+  text-transform: capitalize;
+  white-space: nowrap;
+  color:rgb(194, 199, 183);
+}
+
+@media screen and (max-width:749px) {
+.content-common{
+  width:90%; 
+  
+}
+.content-cmn {
+  margin-left: 18%;
+  padding:1rem 0 1rem 0;
+}
+.content-h1{
+  font-size:2rem;
+}
+.content-card {
+  padding: 0 1rem .7rem 1rem; 
+}
+.content-image {
+  height: 10rem;
+}
+.content-movie{
+  font-size: 1.2rem;
+}
+.content-director{
+  font-size: 1.2rem;
+}
+.content-singer{
+  font-size: 1.2rem;
+}
+}
+
+
+
+@media screen and (min-width:750px) and (max-width:1010px) {
+.content-common{
+  width:90%; 
+  margin: auto;
+}
+.content-h1{
+  font-size:2rem;
+}
+.content-card {
+  padding: 0 1rem .7rem 1rem; 
+}
+}

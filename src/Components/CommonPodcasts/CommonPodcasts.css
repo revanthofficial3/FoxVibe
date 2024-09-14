@@ -1,0 +1,254 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    
+  }
+  .CommonPodcasts-cmn1 {
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position: center;
+    background-position-x:right;
+    background-position-y: 0%;
+    background-attachment:scroll;
+  
+  }
+  .CommonPodcasts-cmn2 {
+    
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    background: linear-gradient(180deg,rgba(0,0,0,.3) 0,rgba(0,0,0,1) 90vh);
+    backdrop-filter: blur(10px); 
+    -webkit-backdrop-filter: blur(50px);
+    color:white;
+    
+  }
+  .CommonPodcasts-grid{
+    display: grid;
+    grid-template-columns: .3fr 1fr;
+    column-gap:20px;
+    padding:4rem 2rem 1rem 0;
+  }
+  .ganna-img{
+    place-self: center;
+    height:auto;
+    width:13rem;
+  }
+  .CommonPodcasts-head1-cmn{
+    display: flex;
+    align-items: center;
+  }
+  .CommonPodcasts-cmn{
+    position: relative;
+    
+  }
+  .CommonPodcasts-category{
+    font-size:2rem;
+    font-weight: bold;
+    font-family: cabin;
+    letter-spacing: 2px;
+    font-style: italic;
+    font-variant: small-caps;
+
+  }
+  .CommonPodcasts-total1{
+    font-size:1.25rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding-top: .3rem;
+    padding-bottom: 2rem;
+    font-family: cabin;
+    color:silver;
+  }
+  .CommonPodcasts-total{
+    font-size:1.6rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-family: cabin;
+    color:silver;
+  }
+  .CommonPodcasts-audio-cmn{
+    position:sticky;
+    width:100%;
+    display:block;
+    bottom: 0px;
+    
+  }
+  .CommonPodcasts-tot-hide{
+    display: none;
+  }
+ 
+  
+  
+  .CommonPodcasts-table{
+    border-collapse:collapse;
+    margin:2em auto 0 auto;
+    border:3px solid grey;
+    min-width: 100%; 
+    width: fit-content;
+  }
+  .CommonPodcasts-thead{
+    font-family: mode;
+    letter-spacing: 1px;
+    border-bottom: 3px solid grey;
+  }
+ .CommonPodcasts-th{
+    padding: 20px;
+    font-size: 1.5rem;
+    color:rgb(207, 199, 199);
+  }
+  .CommonPodcasts-bd-cmn{
+    border:2px solid unset;
+    
+  }
+  .CommonPodcasts-bd-cmn:hover{
+    background-color: grey;
+    z-index: -2;
+    
+  }
+  .CommonPodcasts-bd{
+    padding: 10px 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+    
+  }
+  .CommonPodcasts-index{
+    font-size: 1.5rem;
+    color:#f1edee;
+    font-weight: bold;
+    text-align: center;
+    font-family: cabin;
+  }
+  .CommonPodcasts-songname{
+    font-size: 1.5rem;
+    color:#f1edee;
+    letter-spacing: 2px;
+    font-family:cabin;
+  }
+  .CommonPodcasts-musicdirector{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width:11rem;
+    margin: auto;
+    white-space: nowrap;
+    color:#f1edee;
+    font-size: 1.5rem;
+    font-family: mode;
+    letter-spacing: 1px;
+    padding: 10px 15px 10px 5px;
+  }
+  .CommonPodcasts-singer{
+    text-overflow:ellipsis;
+    overflow:hidden;
+    white-space: nowrap;
+    width:20rem;
+    margin: auto;
+    padding: 10px 5px 10px 15px;
+    color:#f1edee;
+    font-family: mode;
+    letter-spacing: 1px; 
+    font-size:1.5rem;
+    font-weight: bold;
+  }
+  .CommonPodcasts-duration{
+    font-size: 1.5rem;
+    font-family: cabin;
+    letter-spacing: 1px;
+    
+  }
+  .CommonPodcasts-download,.CommonPodcasts-download1{
+    color:#f1edee;
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-align: center;
+    z-index: 999;
+  }
+  .CommonPodcasts-download1:active{
+    color:red;
+    z-index: 999;
+  }
+
+  @media screen and (max-width:749px) {
+    .CommonPodcasts-grid{
+      display: grid;
+      grid-template-columns: 1fr;
+      padding:2rem 2rem 0rem 2rem;
+    }
+    .CommonPodcasts-category{
+      font-size: 1.8rem;
+      margin:1rem 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .CommonPodcasts-total1{
+      font-size:1.3rem;
+    }
+    .CommonPodcasts-total{
+      font-size: 1.5rem;
+    }
+    .CommonPodcasts-th{
+      font-size: 1.3rem;
+      padding: 20px 8px;
+    }
+    .CommonPodcasts-index{
+      font-size: 1.3rem;
+    }
+    .CommonPodcasts-songname{
+      font-size: 1.3rem;
+    }
+    .CommonPodcasts-duration{
+      font-size: 1.3rem;
+    }
+    .CommonPodcasts-download1{
+      font-size: 1.3rem;
+    }
+    .commonpodcasts-footer-cmn{
+      padding-bottom: 122px;
+    }
+    .CommonPodcasts-audio-cmn{
+      position: fixed;
+    }
+    .CommonPodcasts-head1-cmn{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+  }
+
+
+
+
+
+
+
+  @media screen and (max-width:420px) {
+    
+    .CommonPodcasts-th-download{
+      display: none;
+    }
+  }
+
+
+
+
+ @media screen and (min-width:750px) and (max-width:1010px) {
+    .CommonPodcasts-grid{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      padding:2rem 2rem 0rem 2rem;
+    }
+    .CommonPodcasts-category{
+      font-size: 2.2rem;
+      margin:1rem 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .CommonPodcasts-total1{
+      font-size:1.5rem;
+    }
+    .CommonPodcasts-total{
+      font-size: 1.8rem;
+    }
+  }

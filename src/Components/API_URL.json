@@ -1,0 +1,2987 @@
+[
+    {
+      "id": 1,
+      "category":"trending",
+      "movie":"indian-2",
+      "musicdirector":"anirudh ravichander",
+      "singer":"SUVI, Aishwarya Suresh,Abby V, Shruthika Samudhrala,Shruthika Samudhrala",
+      "image":"/src/assets/images/content/trending/indian2.jpg"
+      
+    },
+    {
+      "id": 2,
+      "category":"trending",
+      "movie":"aranmanai-4",
+      "musicdirector":"hiphop tamizha",
+      "singer":"Harmaan Nazim, Debanjali B Joshi, Tanu Srivastava, Kushboo Jain ",
+      "image":"/src/assets/images/content/trending/aranmanai.jpg"
+      
+    },
+    {
+      "id": 3,
+      "category":"trending",
+      "movie":"premalu",
+      "musicdirector":"vishnu vijay",
+      "singer":"K G Markose ,vishnu vijay,Devu Mathew, Feji Peter, Priya Prakash.",
+      "image":"/src/assets/images/content/trending/premalu.jpg"
+      
+    },
+    {
+      "id": 4,
+      "category":"trending",
+      "movie":"aavesham",
+      "musicdirector":"sushin shyam",
+      "singer":"Munz, sushin shyam,Paal Dabba,Hanumankind,Nazriya Nazim,Dabzee,Sreenath Bhasi.",
+      "image":"/src/assets/images/content/trending/avesam.jpg"
+      
+    },
+    {
+      "id": 5,
+      "category":"trending",
+      "movie":"guntur kaaram",
+      "musicdirector":"s.thaman",
+      "singer":"Sri Krishna, Sahiti Chaganti,Komanduri Ramachari, Rahul Sipligunj,Gotte Kanakavva,Vishal Mishra.",
+      "image":"/src/assets/images/content/trending/guntur-kaaram.jpg"
+      
+    },
+    {
+      "id": 6,
+      "category":"trending",
+      "movie":"karataka damanaka",
+      "musicdirector":"v.harikrishna",
+      "singer":" Malu Nipanal Singer, Shruthi Prahlada,Bhushan",
+      "image":"/src/assets/images/content/trending/hithalaka-karibyada-maava.jpg"
+      
+    },
+    {
+      "id": 7,
+      "movie":"animal",
+      "category":"trending",
+      "musicdirector":"harshavardhan rameshwar",
+      "singer":"sonu nigam,arijit singh,raghav chaitanya, Vishal Mishra, Jaani. ",
+      "image":"/src/assets/images/content/trending/animal.jpg"
+      
+    },
+    {
+      "id": 8,
+      "movie":"jawan",
+      "category":"trending",
+      "musicdirector":"anirudh ravichander",
+      "singer":"Arijit Singh, Shilpa Rao, Vishal Dadlani, Deepthi Suresh, Raja Kumari, Jonita Gandhi, Badshah, Grini, Jamila El Badaoui.",
+      "image":"/src/assets/images/content/trending/jawan.jpg"
+      
+    },
+    {
+      "id": 9,
+      "movie":"chandhu champion",
+      "category":"trending",
+      "musicdirector":"julius packiam, pritam chakraborty",
+      "singer":"Arijit Singh, Nakash Aziz, Dev Negi,Amit Mishra,Sreerama Chandra,Mame Khan,Kailash Waghmare.",
+      "image":"/src/assets/images/content/trending/chandu-champion.jpg"
+      
+    },
+    {
+      "id": 10,
+      "movie":"rocky aur rani",
+      "category":"trending",
+      "musicdirector":"pritam chakraborty",
+      "singer":"Arijit Singh, Shreya Ghoshal, Jonita Gandhi, Ranveer Singh,Darshan Raval, Bhoomi Trivedi,Sachet Tandon.",
+      "image":"/src/assets/images/content/trending/rocky-aur-rani.jpg"
+      
+    },
+    {
+      "id": 11,
+      "movie":"teri baaton mein aisa",
+      "category":"trending",
+      "musicdirector":"tanishk bagchi, sachin jigar, mitraz",
+      "singer":" Tanishk Bagchi,Mitraz,Asees Kaur,Raghav Chaitanya, Varun Jain.",
+      "image":"/src/assets/images/content/trending/teri-baaton-mein-aisa-uljha-jiya.jpg"
+      
+    },
+
+
+    {
+      "id": 12,
+      "category":"international",
+      "artist":"imagine dragon",
+      "image":"/src/assets/images/content/global/imagine-dragon.jpg"
+      
+    },
+    {
+      "id": 13,
+      "category":"international",
+      "artist":"ariana grande",
+      "image":"/src/assets/images/content/global/ariana-grande1.jpg"
+      
+    },
+    {
+      "id": 14,
+      "category":"international",
+      "artist":"justin bieber",
+      "image":"/src/assets/images/content/global/justin-bieber.jpg"
+      
+    },
+    {
+      "id": 15,
+      "category":"international",
+      "artist":"drake",
+      "image":"/src/assets/images/content/global/drake.jpg"
+      
+    },
+    {
+      "id": 16,
+      "category":"international",
+      "artist":"taylor shift",
+      "image":"/src/assets/images/content/global/taylor-shift.jpg"
+      
+    },
+    {
+      "id": 17,
+      "category":"international",
+      "artist":"beatles",
+      "image":"/src/assets/images/content/global/beatles.jpg"
+      
+    },
+    {
+      "id": 18,
+      "category":"international",
+      "artist":"michael jackson",
+      "image":"/src/assets/images/content/global/michael-jackson.jpg"
+      
+    },
+    {
+      "id": 19,
+      "category":"international",
+      "artist":"adele",
+      "image":"/src/assets/images/content/global/adele.jpg"
+      
+    },
+    {
+      "id": 20,
+      "category":"international",
+      "artist":"ed sheeran",
+      "image":"/src/assets/images/content/global/ed-sheeran.jpg"
+      
+    },
+    {
+      "id": 21,
+      "category":"international",
+      "artist":"billie eilish",
+      "image":"/src/assets/images/content/global/billie-eilish.jpg"
+      
+    },
+    {
+      "id": 22,
+      "category":"international",
+      "artist":"eminem",
+      "image":"/src/assets/images/content/global/eminem.jpg"
+      
+    },
+    {
+      "id": 23,
+      "category":"international",
+      "artist":"the weeknd",
+      "image":"/src/assets/images/content/global/the-weeknd.jpg"
+      
+    },
+
+
+
+    {
+      "id": 24,
+      "category":"bollywood",
+      "movie":"aashique-2",
+      "musicdirector":"ankit tiwari, mithoon, jeet ganuly, raju singh",
+      "singer":"Arijit Singh, Palak Muchhal, Raju Singh",
+      "image":"/src/assets/images/content/bollywood/aashiqui-2.jpg"
+      
+    },
+    {
+      "id": 25,
+      "category":"bollywood",
+      "movie":"jab harry met sejal",
+      "musicdirector":"pritam chakraborty,hitesh sonik",
+      "singer":" Arijit Singh, Shalmali Kholgade and Shefali Alvares",
+      "image":"/src/assets/images/content/bollywood/jab-harry-met-sejal.jpg"
+      
+    },
+    {
+      "id": 26,
+      "category":"bollywood",
+      "movie":"kabir singh",
+      "musicdirector":"harshavardhan rameshwar",
+      "singer":"Mithoon, Amaal Mallik, Vishal Mishra, Sachet Parampara",
+      "image":"/src/assets/images/content/bollywood/kabir-singh.jpg"
+      
+    },
+    {
+      "id": 27,
+      "category":"bollywood",
+      "movie":"2 states",
+      "musicdirector":"shankar mahadevan, loy mendonsa.",
+      "singer":"K. Mohan and Yashita Sharma, Amitabh Bhattacharya,Shankar Ehsaan",
+      "image":"/src/assets/images/content/bollywood/2-states.jpg"
+      
+    },
+    {
+      "id": 28,
+      "category":"bollywood",
+      "movie":"war",
+      "musicdirector":" vishal shekhar, vishal dadlani, sanchit balhara",
+      "singer":"Arijit Singh, Shilpa Rao,Jai Shivshankar, Vishal Dadlani, Benny Dayal",
+      "image":"/src/assets/images/content/bollywood/war.jpg"
+      
+    },
+    {
+      "id": 29,
+      "category":"bollywood",
+      "movie":"simmba",
+      "musicdirector":"tanishk bagchi, chandan saxena, dj chetas",
+      "singer":"Shabbir Ahmed, Tanishk Bagchi, Mika Singh, Neha Kakkar, Kumar Sanu,Rashmi Virag.",
+      "image":"/src/assets/images/content/bollywood/simmba.jpg"
+      
+    },
+    {
+      "id": 30,
+      "category":"bollywood",
+      "movie":"yeh jawani hai deewani",
+      "musicdirector":"pritam chakraborty",
+      "singer":"Kabira,Balam Pichkari,Subhanallah,Ilahi",
+      "image":"/src/assets/images/content/bollywood/yeh-jawaani-hai-deewani.jpg"
+      
+    },
+    {
+      "id": 31,
+      "category":"bollywood",
+      "movie":"kalank",
+      "musicdirector":"pritam chakraborty",
+      "singer":"Arijit Singh,Shreya Ghosha,Neeti Mohan,Remo D'Souza",
+      "image":"/src/assets/images/content/bollywood/kalank.jpg"
+      
+    },
+    {
+      "id": 32,
+      "category":"bollywood",
+      "movie":"zindagi na milegai dobara",
+      "musicdirector":"shankar ehsaan loy",
+      "singer":" Shankar Mahadevan, Ehsaan Noorani, Loy Mendonsa. Ik Junoon",
+      "image":"/src/assets/images/content/bollywood/zindagi-na-milegai-dobara.jpg"
+      
+    },
+    {
+      "id": 33,
+      "category":"bollywood",
+      "movie":"ek villian",
+      "musicdirector":"ankit tiwari, mithoon, sOCH, raju singh",
+      "singer":"Ankit Tiwari,Mithoon, Mohd Irfan,Mustafa Zahid,Adnan Dhool, Momina Mustehsan",
+      "image":"/src/assets/images/content/bollywood/ek-villian.jpg"
+      
+    },
+    {
+      "id": 34,
+      "category":"bollywood",
+      "movie":"tamasha",
+      "musicdirector":"a.r.rahman",
+      "singer":" Arijit Singh, Alka Yagnik,Shashwat Singh,Mohit Chauhan, Suzanne D'Mello.",
+      "image":"/src/assets/images/content/bollywood/tamasha.jpg"
+      
+    },
+    {
+      "id": 35,
+      "category":"bollywood",
+      "movie":"tum mile",
+      "musicdirector":"pritam chakraborty,raju singh",
+      "singer":"neeraj sridhar,javed ali,mohit chauhan,pritam,amanat ali",
+      "image":"/src/assets/images/content/bollywood/tum-mile.jpg"
+      
+    },
+
+
+
+
+    {
+      "id": 36,
+      "category":"kollywood",
+      "movie":"mersal",
+      "musicdirector":"a.r.rahman",
+      "singer":"Shreya Ghoshal,Sid Sriram, Shweta Mohan,G.V. Prakash Kumar, Naresh Iyer.",
+      "image":"/src/assets/images/content/kollywood/mersal1.jpg"
+      
+    },
+    {
+      "id": 37,
+      "category":"kollywood",
+      "movie":"3",
+      "musicdirector":"anirudh ravichander",
+      "singer":"anirudh ravichander, Sathya Prakash, Harish Swaminathan,Vijay Yesudas, Shweta",
+      "image":"/src/assets/images/content/kollywood/3.jpg"
+      
+    },
+    {
+      "id": 38,
+      "category":"kollywood",
+      "movie":"achcham enbathu madamaiyada",
+      "musicdirector":"a.r.rahman",
+      "singer":"Jonita Gandhi, Aditya Rao,Shashaa Tirupati, Sathya Prakash,Sri Rascol.",
+      "image":"/src/assets/images/content/kollywood/achcham-enbathu-madamaiyada.jpg"
+      
+    },
+    {
+      "id": 39,
+      "category":"kollywood",
+      "movie":"jailer",
+      "musicdirector":" anirudh ravichander",
+      "singer":" Dhee, Krishnan,Shilpa Rao, anirudh ravichander, Arunraja Kamaraj.",
+      "image":"/src/assets/images/content/kollywood/jailer.jpg"
+      
+    },
+    {
+      "id": 40,
+      "category":"kollywood",
+      "movie":"kaththi",
+      "musicdirector":"anirudh ravichander",
+      "singer":"Vijay, Sunidhi Chauhan,Vijay,K. J. Yesudas,Anirudh.",
+      "image":"/src/assets/images/content/kollywood/kaththi.jpg"
+      
+    },
+    {
+      "id": 41,
+      "category":"kollywood",
+      "movie":"dharmadurai",
+      "musicdirector":"yuvan shankar raja",
+      "singer":"Srimathumitha,Mathichiyam Bala,Senthildass Velayutham, Surmukhi Raman.",
+      "image":"/src/assets/images/content/kollywood/dharmadurai.jpg"
+      
+    },
+    {
+      "id": 42,
+      "category":"kollywood",
+      "movie":"maari-2",
+      "musicdirector":"yuvan shankar raja",
+      "singer":" Dhanush, Dhee, yuvan shankar raja, Chinnaponnu, Aanandhi, Ilaiyaraaja, M.M. Manasi",
+      "image":"/src/assets/images/content/kollywood/maari-2.jpg"
+      
+    },
+    {
+      "id": 43,
+      "category":"kollywood",
+      "movie":"darbar",
+      "musicdirector":"anirudh ravichander",
+      "singer":"anirudh ravichander, Arjun Chandy,Nakash Aziz,Chandramukhi Muvvala, Priya Murthy Chadalawala, Rachana Mudraboyina.",
+      "image":"/src/assets/images/content/kollywood/darbar.jpg"
+      
+    },
+    {
+      "id": 44,
+      "category":"kollywood",
+      "movie":"soorarai pottru",
+      "musicdirector":"g.v.prakash kumar",
+      "singer":"G.V.Prakash Kumar, Harish, Christin Jos, Govind, Senthil Ganesh,krishna raj",
+      "image":"/src/assets/images/content/kollywood/soorarai-pottru.jpg"
+      
+    },
+    {
+      "id": 45,
+      "category":"kollywood",
+      "movie":"thiruchitambalam",
+      "musicdirector":"anirudh ravichander",
+      "singer":"Nithya Menen, anirudh ravichander, Dhanush,vivek,bharathiraja",
+      "image":"/src/assets/images/content/kollywood/thiruchitambalam.jpg"
+      
+    },
+    {
+      "id": 46,
+      "category":"kollywood",
+      "movie":"vikram vedha",
+      "musicdirector":"sam.c.s",
+      "singer":"Shakthisree Gopalan, anirudh ravichander,Sethu Thankachan, Kannan,Pradeep Kumar",
+      "image":"/src/assets/images/content/kollywood/vikram-vedha.jpg"
+      
+    },
+    {
+      "id": 47,
+      "category":"kollywood",
+      "movie":"vedalam",
+      "musicdirector":"anirudh ravichander",
+      "singer":"anirudh ravichander, Vishal Dadlani,Shruti Haasan,Ravi G",
+      "image":"/src/assets/images/content/kollywood/vedalam.jpg"
+      
+    },
+
+
+
+
+    {
+      "id": 48,
+      "category":"tollywood",
+      "movie":"baahubali-1",
+      "musicdirector":"m.m.keeravani",
+      "singer":"Kaala Bhairava,Deepu, Sony,Daler Mehndi, Mounima,Srinidhi",
+      "image":"/src/assets/images/content/tollywood/baahubali-1.jpg"
+      
+    },
+    {
+      "id": 49,
+      "category":"tollywood",
+      "movie":"geetha govindam",
+      "musicdirector":"gopi sundar",
+      "singer":"· Sid Sriram,Vijay Deverakonda, Chinmayi,Sid Sriram,gopi sundar",
+      "image":"/src/assets/images/content/tollywood/geetha-govindam.jpg"
+      
+    },
+    {
+      "id": 50,
+      "category":"tollywood",
+      "movie":"pushpa",
+      "musicdirector":"devi sri prasad",
+      "singer":"Vijay Prakash,Sid Sriram,Mangli,Ananya Bhat,Vijay Prakash",
+      "image":"/src/assets/images/content/tollywood/pushpa-1.jpg"
+      
+    },
+    {
+      "id": 51,
+      "category":"tollywood",
+      "movie":"arjun reddy",
+      "musicdirector":"harshavardhan rameshwar, radhan",
+      "singer":" Sameera, Alphons Joseph, Nikhita Gandhi, Gowthami, Sowjanya ",
+      "image":"/src/assets/images/content/tollywood/arjun-reddy.jpg"
+      
+    },
+    {
+      "id": 52,
+      "category":"tollywood",
+      "movie":"RRR",
+      "musicdirector":"m.m.keeravani",
+      "singer":"anirudh ravichander,Rahul Sipligunj, Yazin Nizar, Kaala Bhairava, Vijay Prakash, Charu Hariharan, Chandana Bala,Vishal Mishra, Benny Dayal",
+      "image":"/src/assets/images/content/tollywood/rrr.jpg"
+      
+    },
+    {
+      "id": 53,
+      "category":"tollywood",
+      "movie":"ala vaikunthapurramuloo",
+      "musicdirector":"s.thaman",
+      "singer":"Sid Sriram,Anurag Kulkarni, Mangli,Rahul Nambiar, Lady Kash, Rahul Sipligunj, Blazee, Armaan Malik, Shreya Ghoshal,Sri Krishna ",
+      "image":"/src/assets/images/content/tollywood/ala-vaikunthapurramuloo1.jpg"
+      
+    },
+    {
+      "id": 54,
+      "category":"tollywood",
+      "movie":"eega",
+      "musicdirector":"m.m.keeravani",
+      "singer":"Deepu, Sahithi,Sravana Bhargavi, Rahul Sipligunj, Deepu,Vijay Prakash,Shivani, Anuj Gurwara,Sravana Bhargavi, Rahul Sipligunj",
+      "image":"/src/assets/images/content/tollywood/eega.jpg"
+      
+    },
+    {
+      "id": 55,
+      "category":"tollywood",
+      "movie":"macherla niyojakavargam",
+      "musicdirector":"mahathi swara sagar",
+      "singer":"Nakash Aziz, Sanjana,Lipsika, Aditya Iyengar,Sanjith Hegde,Rahul Sipligu",
+      "image":"/src/assets/images/content/tollywood/macherla-niyojakavargam.jpg"
+      
+    },
+    {
+      "id": 56,
+      "category":"tollywood",
+      "movie":"DJ",
+      "musicdirector":"devi sri prasad",
+      "singer":"Raghuram,Bheems Ceciroleo,Geetha Madhuri, Sri Krishna",
+      "image":"/src/assets/images/content/tollywood/dj.jpg"
+      
+    },
+    {
+      "id": 57,
+      "category":"tollywood",
+      "movie":"sarileru neekevvaru",
+      "musicdirector":"devi sri prasad",
+      "singer":"Madhu Priya,Shankar Mahadevan,Nakash Aziz, Lavita Lobo",
+      "image":"/src/assets/images/content/tollywood/sarileru-neekevvaru.jpg"
+      
+    },
+    {
+      "id": 58,
+      "category":"tollywood",
+      "movie":"rangasthalam",
+      "musicdirector":"devi sri prasad",
+      "singer":"devi sri prasad,Rahul Sipligunj,M.M.Manasi,Shiva Nagulu",
+      "image":"/src/assets/images/content/tollywood/rangasthalam.jpg"
+      
+    },
+    {
+      "id": 59,
+      "category":"tollywood",
+      "movie":"baahubali-2",
+      "musicdirector":"m.m.keeravani",
+      "singer":"Daler Mehndi, Mounima,Deepu,Srinidhi Venkatesh, V. Srisoumya,Kaala Bhairava,Kaala Bhairava",
+      "image":"/src/assets/images/content/tollywood/baahubali-2.jpg"
+      
+    },
+    {
+      "id": 60,
+      "category":"tollywood",
+      "movie":"maharshi",
+      "musicdirector":"devi sri prasad",
+      "singer":"Vijay Prakash, devi sri prasad, Shankar Mahadevan, Yazin Nizar, Mahesh Babu, Karthik, Benny Dayal",
+      "image":"/src/assets/images/content/tollywood/maharshi.jpg"
+      
+    },
+
+
+
+
+    {
+      "id": 61,
+      "category":"mollywood",
+      "movie":"premam",
+      "musicdirector":"rajesh murugesan",
+      "singer":"Vijay Yesudas,vineeth srinivasan,shabareesh varma,murali gopi,rajesh murugean",
+      "image":"/src/assets/images/content/mollywood/premam.jpg"
+      
+    },
+    {
+      "id": 62,
+      "category":"mollywood",
+      "movie":"charlie",
+      "musicdirector":"gopi sundar",
+      "singer":"Malgudi Subha,Shakthisree Gopalan, Mohammed Maqbool Mansoor,Shreya Ghosha",
+      "image":"/src/assets/images/content/mollywood/charlie.jpg"
+      
+    },
+    {
+      "id": 63,
+      "category":"mollywood",
+      "movie":"bangalore days",
+      "musicdirector":"gopi sundar",
+      "singer":"Haricharan,Vijay Yesudas, Sachin Warrier, Divya S. Menon,Siddharth Menon, Nazriya Nazim, gopi sundar, gopi sundar",
+      "image":"/src/assets/images/content/mollywood/bangalore-days.jpg"
+      
+    },
+    {
+      "id": 64,
+      "category":"mollywood",
+      "movie":"velipadinte pusthakam",
+      "musicdirector":"shaan rahman",
+      "singer":"Vineeth Sreenivasan, Renjith Unni,M. G. Sreekumar,Shaan Rahman,Madhu Balakrishnan, Vrinda Shameek",
+      "image":"/src/assets/images/content/mollywood/velipadinte-pusthakam.jpg"
+      
+    },
+    {
+      "id": 65,
+      "category":"mollywood",
+      "movie":"CIA",
+      "musicdirector":"gopi sundar",
+      "singer":"Haricharan, Sayanora Philip,gopi sundar,Dulquer Salmaan, Vaikom Vijayalakshmi, G. Sreeram.",
+      "image":"/src/assets/images/content/mollywood/cia.jpg"
+      
+    },
+    {
+      "id": 66,
+      "category":"mollywood",
+      "movie":"ee kaattu",
+      "musicdirector":"deepak dev",
+      "singer":" Prithviraj Sukumaran, Narain, Bhavana, Mishti.",
+      "image":"/src/assets/images/content/mollywood/ee-kaattu.jpg"
+      
+    },
+    {
+      "id": 67,
+      "category":"mollywood",
+      "movie":"ennu nintu moideen",
+      "musicdirector":"ramesh narayan, m.jayachandran",
+      "singer":"Shreya Ghoshal, Vijay Yesudas,Mohammed Maqbool Mansoor,Shreya Ghoshal,M. Jayachandran,Sujatha Mohan, Yesudas,Madhushree Narayan",
+      "image":"/src/assets/images/content/mollywood/ennu-ninte-moideen.jpg"
+      
+    },
+    {
+      "id": 68,
+      "category":"mollywood",
+      "movie":"hemanthamen",
+      "musicdirector":"rahul raj",
+      "singer":"Vijay Yesudas,Vineeth Sreenivasan",
+      "image":"/src/assets/images/content/mollywood/hemanthamen.jpg"
+      
+    },
+    {
+      "id": 69,
+      "category":"mollywood",
+      "movie":"kumbalangi nights",
+      "musicdirector":"sushin shyam",
+      "singer":"sushin shyam, Sithara,Sooraj Santhosh, Anne Amie,Akhil Unnikrishnan ,Yadav",
+      "image":"/src/assets/images/content/mollywood/kumbalangi-nights.jpg"
+      
+    },
+    {
+      "id": 70,
+      "category":"mollywood",
+      "movie":"sufiyum sujatayam",
+      "musicdirector":"m.jayachandran",
+      "singer":"Sudeep Palanad, Amritha Suressh, B.k. Harinarayanan",
+      "image":"/src/assets/images/content/mollywood/sufiyum-sujatayum.jpg"
+      
+    },
+    {
+      "id": 71,
+      "category":"mollywood",
+      "movie":"nayattu",
+      "musicdirector":"martin prakkat",
+      "singer":"vishnu vijay, Madhuvanthi Narayan,vishnu vijay, Vedan",
+      "image":"/src/assets/images/content/mollywood/nayattu.jpg"
+      
+    },
+    {
+      "id": 72,
+      "category":"mollywood",
+      "movie":"uyare",
+      "musicdirector":"gopi sundar",
+      "singer":"Vijay Yesudas, Sithara,Shakthisree Gopala",
+      "image":"/src/assets/images/content/mollywood/uyare.jpg"
+      
+    },
+
+
+
+    {
+      "id": 73,
+      "category":"sandalwood",
+      "movie":"KGF-1",
+      "musicdirector":"ravi basrur",
+      "singer":"Ananya Bhat, Sachin Basrur, Santhosh Venky,Vijay Prakash, Sachin Basrur,,Abhinav Bhat",
+      "image":"/src/assets/images/content/sandalwood/kgf.jpg"
+      
+    },
+    {
+      "id": 74,
+      "category":"sandalwood",
+      "movie":"KGF-2",
+      "musicdirector":"ravi basrur",
+      "singer":"Shabbir Ahmed, Brijesh Shandilya, Mohan Krishna, Laxman Datta Naik, Saaj Bhatt, Santhosh Venky, Sandesh Datta Naik, ",
+      "image":"/src/assets/images/content/sandalwood/kgf2.jpg"
+      
+    },
+    {
+      "id": 75,
+      "category":"sandalwood",
+      "movie":"kantara",
+      "musicdirector":"ajaneesh loknath",
+      "singer":"Vijay Prakash, Ananya Bhat,Mime Ramdas, Rishab Shetty,Sai Vignesh,B. Ajaneesh Loknath, Mime Ramdas",
+      "image":"/src/assets/images/content/sandalwood/kantara.jpg"
+      
+    },
+    {
+      "id": 76,
+      "category":"sandalwood",
+      "movie":"raajakumara",
+      "musicdirector":"v.harikrishna",
+      "singer":"Shashank Sheshagiri,Puneeth Rajkumar,Vijay Prakash,Santhosh Venky, Priya Himesh.",
+      "image":"/src/assets/images/content/sandalwood/raajakumara.jpg"
+      
+    },
+    {
+      "id": 77,
+      "category":"sandalwood",
+      "movie":"anna bond",
+      "musicdirector":"v.harikrishna",
+      "singer":"ranjeeth,shreya goshal,sonu nigam,puneeth rajkumar.",
+      "image":"/src/assets/images/content/sandalwood/anna-bond.jpg"
+      
+    },
+    {
+      "id": 78,
+      "category":"sandalwood",
+      "movie":"mufti",
+      "musicdirector":"ravi basrur",
+      "singer":"Vyasraj Sosale, Mohan, Srinivas, ravi basrur",
+      "image":"/src/assets/images/content/sandalwood/mufti.jpg"
+      
+    },
+    {
+      "id": 79,
+      "category":"sandalwood",
+      "movie":"bell bottom",
+      "musicdirector":"ajaneesh loknath",
+      "singer":"Vijay Prakash,Kadabagere Muniraju,Sangeetha Ravindranath",
+      "image":"/src/assets/images/content/sandalwood/bell-bottom.jpg"
+      
+    },
+    {
+      "id": 80,
+      "category":"sandalwood",
+      "movie":"chowka",
+      "musicdirector":"arjun janya",
+      "singer":"Vijay Prakash,Anuradha Bhat, Tippu,Antara Mitra,Chaitra H ,Puneeth Rajkumar",
+      "image":"/src/assets/images/content/sandalwood/Chowka.jpg"
+      
+    },
+    {
+      "id": 81,
+      "category":"sandalwood",
+      "movie":"kirik party",
+      "musicdirector":"dhananjay ranjan",
+      "singer":"Indu Nagaraj, Bharath Bj,Shreya Ghoshal,B. Ajaneesh Loknath, Varun Ramachandra,Vijay Prakash, Shruthi,Sangeetha Ravindranath",
+      "image":"/src/assets/images/content/sandalwood/kirik-party.jpg"
+      
+    },
+    {
+      "id": 82,
+      "category":"sandalwood",
+      "movie":"victory-2",
+      "musicdirector":"arjun janya",
+      "singer":"Janya, Bhat,Vijay Prakash,Sangeetha Ravindranath",
+      "image":"/src/assets/images/content/sandalwood/victory-2.jpg"
+      
+    },
+    {
+      "id": 83,
+      "category":"sandalwood",
+      "movie":"tagaru",
+      "musicdirector":"charan raj",
+      "singer":"Anthony Daasan,Raksha Achar,Ananya Bhat,Siddharth Belmannu,Sanjith Hegde.",
+      "image":"/src/assets/images/content/sandalwood/tagaru.jpg"
+      
+    },
+    {
+      "id": 84,
+      "category":"sandalwood",
+      "movie":"raana",
+      "musicdirector":"chandan shetty",
+      "singer":"Chandan Shetty, Divya Ramachandra,Ananya Bhat",
+      "image":"/src/assets/images/content/sandalwood/ranna.jpg"
+      
+    },
+    {
+      "id": 85,
+      "category":"sandalwood",
+      "movie":"sarkari hi pra shaale kasaragodu",
+      "musicdirector":"vasuki vaibhav",
+      "singer":"vasuki vaibhav,madhuri seshadri,asha bhat,sunidhi,vijay prakash,jogila sidharaju.",
+      "image":"/src/assets/images/content/sandalwood/sarkari-hi-pra-shaale-kasaragodu.jpg"
+      
+    },
+
+
+
+    {
+      "id": 86,
+      "category":"punjabi",
+      "movie":"the legend of maula jatt",
+      "musicdirector":"sarmad abdul ghafoor",
+      "singer":"Avtar Tari,Sreejesh Nair,Khaqan Haider Ghazi ",
+      "image":"/src/assets/images/content/punjabi/The-Legend-of-Maula-Jatt.jpg"
+      
+    },
+    {
+      "id": 87,
+      "category":"punjabi",
+      "movie":"mastaney",
+      "musicdirector":"sharan art",
+      "singer":"Mix Singh,Mr Rubal",
+      "image":"/src/assets/images/content/punjabi/Mastaney.jpg"
+      
+    },
+    {
+      "id": 88,
+      "category":"punjabi",
+      "movie":"carry on jatta-3",
+      "musicdirector":"jassi katyal",
+      "singer":"gippy grewal,ammy virk,simar kaur,jassie gill",
+      "image":"/src/assets/images/content/punjabi/Carry-on-Jatta-3.jpg"
+      
+    },
+    {
+      "id": 89,
+      "category":"punjabi",
+      "movie":"carry on jatta-2",
+      "musicdirector":"jay k(Jassi Katyal),gurmeet singh,sukhe musical doctorz",
+      "singer":"Happy Raikoti,Jaani",
+      "image":"/src/assets/images/content/punjabi/Carry-on-Jatta-2.jpg"
+      
+    },
+    {
+      "id": 90,
+      "category":"punjabi",
+      "movie":"chal mera putt-2",
+      "musicdirector":"janjot singh",
+      "singer":"Amrinder Gill, Gurshabad Singh,Gurshabad Singh,Nimrat Khaira, Amrinder Gill,Amrinder Gill, Gurshabad Singh,Amrinder Gill",
+      "image":"/src/assets/images/content/punjabi/Chal-Mera-Putt-2.jpg"
+      
+    },
+    {
+      "id": 91,
+      "category":"punjabi",
+      "movie":"saunkan saunkne",
+      "musicdirector":"amarjit singh",
+      "singer":"Raj Ranjodh,Gurlez Akhtar,Nimrat Khaira, Ammy Virk,Nimrat Khaira, Ammy Virk, Miss Pooja,Ammy Virk",
+      "image":"/src/assets/images/content/punjabi/Saunkan-Saunkne.jpg"
+      
+    },
+    {
+      "id": 92,
+      "category":"punjabi",
+      "movie":"honsla rakh",
+      "musicdirector":"amarjit singh",
+      "singer":"Diljit Dosanjh,Raj Ranjodh",
+      "image":"/src/assets/images/content/punjabi/Honsla-Rakh.jpg"
+      
+    },
+    {
+      "id": 93,
+      "category":"punjabi",
+      "movie":"shadaa",
+      "musicdirector":"diljit dosanjh",
+      "singer":"Diljit Dosanjh,Raj Ranjodh,Shipra Goyal",
+      "image":"/src/assets/images/content/punjabi/Shadaa.jpg"
+      
+    },
+    {
+      "id": 94,
+      "category":"punjabi",
+      "movie":"sardaarji",
+      "musicdirector":"jatinder shah,nick dhammu",
+      "singer":"Diljit Dosanjh,Tarunam,Kaur B",
+      "image":"/src/assets/images/content/punjabi/Sardaarji.jpg"
+      
+    },
+    {
+      "id": 95,
+      "category":"punjabi",
+      "movie":"manje bistre",
+      "musicdirector":"jassi katyal,jaison thind,huraira zafar",
+      "singer":"Gippy Grewal,Nimrat Khaira,Ammy Virk,Nacchatar Gill,Khan Saab,Karamjit Anmol",
+      "image":"/src/assets/images/content/punjabi/Manje-Bistre.jpg"
+      
+    },
+    {
+      "id": 96,
+      "category":"punjabi",
+      "movie":"muklawa",
+      "musicdirector":"gurmeet singh",
+      "singer":"Ammy Virk, Mannat Noor,Happy Raikoti, Harpi Gill,Kamal Khan,Minda, Vijay Yamla,Sukhy Maan",
+      "image":"/src/assets/images/content/punjabi/Muklawa.jpg"
+      
+    },
+    {
+      "id": 97,
+      "category":"punjabi",
+      "movie":"sajjan singh rangroot",
+      "musicdirector":"jatinder shah",
+      "singer":"Diljit Dosanjh,Raj Ranjodh",
+      "image":"/src/assets/images/content/punjabi/Sajjan-Singh-Rangroot.jpg"
+      
+    },
+    {
+      "id": 98,
+      "category":"punjabi",
+      "movie":"qismat",
+      "musicdirector":"b.praak,sukh.e",
+      "singer":"B Praak,Divya Bhatt,Ammy Virk,Kamal Khan,Ammy Virk, Neetu Bhalla,Gurnam Bhullar,B Praak",
+      "image":"/src/assets/images/content/punjabi/Qismat.jpg"
+      
+    },
+
+
+
+    {
+      "id": 99,
+      "category":"kpop",
+      "movie":"BTS",
+      "singer":"Jin,Suga,J-Hope, RM, Jimin, V,Jungkook",
+      "image":"/src/assets/images/content/kpop/bts.jpg"
+      
+    },
+    {
+      "id": 100,
+      "category":"kpop",
+      "movie":"twice",
+      "singer":"Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, Tzuyu.",
+      "image":"/src/assets/images/content/kpop/twice.jpg"
+      
+    },
+    {
+      "id": 101,
+      "category":"kpop",
+      "movie":"stray kids",
+      "singer":"Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N.",
+      "image":"/src/assets/images/content/kpop/stray-kids.jpg"
+      
+    },
+    {
+      "id": 102,
+      "category":"kpop",
+      "movie":"ATEEZ",
+      "singer":" Hongjoong, Seonghwa, Yunho, Yeosang, San, Mingi, Wooyoung,Jongho. ",
+      "image":"/src/assets/images/content/kpop/ATEEZ1.jpg"
+      
+    },
+    {
+      "id": 103,
+      "category":"kpop",
+      "movie":"blackpink",
+      "singer":"Jisoo, Jennie, Rosé,Lisa",
+      "image":"/src/assets/images/content/kpop/blackpink.jpg"
+      
+    },
+    {
+      "id": 104,
+      "category":"kpop",
+      "movie":"BTOB",
+      "singer":" Seo Eun-kwang, Lee Min-hyuk, Lee Chang-sub, Im Hyun-sik, Peniel Shin, Yook Sung-jae.",
+      "image":"/src/assets/images/content/kpop/BTOB.jpg"
+      
+    },
+    {
+      "id": 105,
+      "category":"kpop",
+      "movie":"le sserafim",
+      "singer":"Sakura, Kim Chae-won, Huh Yun-jin, Kazuha,Hong Eun-chae",
+      "image":"/src/assets/images/content/kpop/le-sserafim.jpg"
+      
+    },
+    {
+      "id": 106,
+      "category":"kpop",
+      "movie":"EXO",
+      "singer":" Xiumin, Suho, Lay, Baekhyun, Chen, Chanyeol, D.O., Kai, Sehun.",
+      "image":"/src/assets/images/content/kpop/exo.jpg"
+      
+    },
+    {
+      "id": 107,
+      "category":"kpop",
+      "movie":"TXT",
+      "singer":"Yeonjun, Soobin, Beomgyu, Taehyun, HueningKai",
+      "image":"/src/assets/images/content/kpop/txt1.jpg"
+      
+    },
+    {
+      "id": 108,
+      "category":"kpop",
+      "movie":"NCT",
+      "singer":"Jeonghan, Joshua, Jun, Hoshi, Wonwoo, Woozi, DK, Mingyu, The8",
+      "image":"/src/assets/images/content/kpop/nct.jpg"
+      
+    },
+    {
+      "id": 109,
+      "category":"kpop",
+      "movie":"red velvet",
+      "singer":" Irene, Seulgi, Wendy, Joy.",
+      "image":"/src/assets/images/content/kpop/red-velvet.jpg"
+      
+    },
+    {
+      "id": 110,
+      "category":"kpop",
+      "movie":"monsta x",
+      "singer":"Shownu, Minhyuk, Kihyun, Hyungwon, Joohoney, I.M",
+      "image":"/src/assets/images/content/kpop/monsta-x.jpg"
+      
+    },
+
+
+
+    {
+      "id": 111,
+      "category":"90's tamil songs",
+      "movie":"bombay",
+      "musicdirector":"a.r.rahman",
+      "singer":"K. S. Chithra,Remo Fernandes,g.v.prakash kumar, Hariharan, Shweta Mohan, Shuba, Anupama Deshpande, Pallavi",
+      "image":"/src/assets/images/content/tamil-song/bombay.jpg"
+      
+    },
+    {
+      "id": 112,
+      "category":"90's tamil songs",
+      "movie":"gentleman",
+      "musicdirector":"a.r.rahman",
+      "singer":" S. P. Balasubrahmanyam, Sujatha Mohan,Swarnalatha, Shahul Hameed, Malgudi Subha,g.v.prakash kumar, Suresh Peters, S. Janaki",
+      "image":"/src/assets/images/content/tamil-song/gentleman.jpg"
+      
+    },
+    {
+      "id": 113,
+      "category":"90's tamil songs",
+      "movie":"jeans",
+      "musicdirector":"a.r.rahman",
+      "singer":"P. Unnikrishnan, S. P. B. Pallavi,P. Unnikrishnan, Sujatha Mohan,Nithyasree Mahadevan,Hariharan, Anuradha Sriram",
+      "image":"/src/assets/images/content/tamil-song/jeans.jpg"
+      
+    },
+    {
+      "id": 114,
+      "category":"90's tamil songs",
+      "movie":"jodi",
+      "musicdirector":"a.r.rahman",
+      "singer":"Srinivas, Timmy,S. Janaki, Unni Menon,Mahalakshmi Iyer, Srinivas,Sirkazhi G. Sivachidambaram, Swarnalatha",
+      "image":"/src/assets/images/content/tamil-song/jodi.jpg"
+      
+    },
+    {
+      "id": 115,
+      "category":"90's tamil songs",
+      "movie":"kadhal mannan",
+      "musicdirector":"m.s.viswanathan",
+      "singer":"S. P.Balasubrahmanyam,Hariharan,K.S.Chithra,Bharadwaj, Annupamaa,Ada Ali Azad, Febi Mani",
+      "image":"/src/assets/images/content/tamil-song/kadhal-mannan.jpg"
+      
+    },
+    {
+      "id": 116,
+      "category":"90's tamil songs",
+      "movie":"guna",
+      "musicdirector":"ilayaraja",
+      "singer":"S.Janaki, Ustad Sultan Khan,K.J.Yesudas,S.Varalakshmi,Kamal Haasan.",
+      "image":"/src/assets/images/content/tamil-song/guna.jpg"
+      
+    },
+    {
+      "id": 117,
+      "category":"90's tamil songs",
+      "movie":"kadhalan",
+      "musicdirector":"a.r.rahman",
+      "singer":"P. Unnikrishnan,A.S.Laxmi Narayanan,V.S.Murthy",
+      "image":"/src/assets/images/content/tamil-song/kadhalan.jpg"
+      
+    },
+    {
+      "id": 118,
+      "category":"90's tamil songs",
+      "movie":"roja",
+      "musicdirector":"a.r.rahman",
+      "singer":"Baba Sehgal, Shweta Shetty,S.P.Balasubrahmanyam, Sujatha Mohan,K. S. Chithra",
+      "image":"/src/assets/images/content/tamil-song/roja.jpg"
+      
+    },
+    {
+      "id": 119,
+      "category":"90's tamil songs",
+      "movie":"mr.Romeo",
+      "musicdirector":"a.r.rahman",
+      "singer":"Hariharan, Udit Narayan,Noel James, Anto, Srinivas, Chandran,Swarnalatha, Unni Menon, Srinivas, Sujatha Mohan ",
+      "image":"/src/assets/images/content/tamil-song/mr-romeo.jpg"
+      
+    },
+    {
+      "id": 120,
+      "category":"90's tamil songs",
+      "movie":"taj mahal",
+      "musicdirector":"a.r.rahman",
+      "singer":"Kalpana Raghavendar, Clinton Cerejo, Palakkad Sreeram, Chandran,Ganga Sitharasu, Febi Mani,Sujatha Mohan",
+      "image":"/src/assets/images/content/tamil-song/taj-mahal.jpg"
+      
+    },
+    {
+      "id": 121,
+      "category":"90's tamil songs",
+      "movie":"thalapathi",
+      "musicdirector":"ilayaraja",
+      "singer":"Udit Narayan,Noel James, Anto, Febi Mani,Sujatha Mohan",
+      "image":"/src/assets/images/content/tamil-song/thalapathi.jpg"
+      
+    },
+    {
+      "id": 122,
+      "category":"90's tamil songs",
+      "movie":"kadhalar dhinam",
+      "musicdirector":"a.r.rahman",
+      "singer":"Kavita Krishnamurthy, Unni Menon, M. G. Sreekumar,Unni Menon,M. G. Sreekumar, Srinivas, Ganga Sitharasu, Kanchana",
+      "image":"/src/assets/images/content/tamil-song/kadhalar-dhinam.jpg"
+      
+    },
+    {
+      "id": 123,
+      "category":"90's tamil songs",
+      "movie":"suryavamsam",
+      "musicdirector":"s.a.rajkumar",
+      "singer":"Hariharan, Swarnalatha,devan Ekambaram, Yugendran,S.A.Rajkumar, Sujatha",
+      "image":"/src/assets/images/content/tamil-song/suryavamsa.jpg"
+      
+    },
+    {
+      "id": 124,
+      "category":"90's tamil songs",
+      "movie":"vaali",
+      "musicdirector":"ilayaraja",
+      "singer":"ariharan, Ajith Kumar, Febi Mani,S.P.Balasubrahmanyam,Swarnalatha,P. Unnikrishnan,Anuradha Sriram",
+      "image":"/src/assets/images/content/tamil-song/vaali.jpg"
+      
+    },
+
+
+
+
+
+
+    {
+      "id": 125,
+      "category":"artists",
+      "director":"ilayaraja",
+      "image":"/src/assets/images/songlist/artists/ilayaraja.jpg"      
+    },
+    {
+      "id": 126,
+      "category":"artists",
+      "director":"a.r.rahman",
+      "image":"/src/assets/images/songlist/artists/a.r.rahman.jpg" 
+    },
+    {
+      "id": 127,
+      "category":"artists",
+      "director":"deva",
+      "image":"/src/assets/images/songlist/artists/deva.jpg" 
+    },
+    {
+      "id": 128,
+      "category":"artists",
+      "director":"harris jayaraj",
+      "image":"/src/assets/images/songlist/artists/harris-jayaraj.jpg" 
+    },
+    {
+      "id": 129,
+      "category":"artists",
+      "director":"yuvan shankar raja",
+      "image":"/src/assets/images/songlist/artists/yuvan-shankar-raja3.jpg" 
+    },
+    {
+      "id": 130,
+      "category":"artists",
+      "director":"anirudh ravichander",
+      "image":"/src/assets/images/songlist/artists/anirudh.jpg" 
+    },
+    {
+      "id": 131,
+      "category":"artists",
+      "director":"g.v.prakash kumar",
+      "image":"/src/assets/images/songlist/artists/g.v.prakash-kumar.jpg" 
+    },
+    {
+      "id": 132,
+      "category":"artists",
+      "director":"d.imman",
+      "image":"/src/assets/images/songlist/artists/d.imman1.jpg" 
+    },
+    {
+      "id": 133,
+      "category":"artists",
+      "director":"santhosh narayanan",
+      "image":"/src/assets/images/songlist/artists/santhosh-narayanan1.jpg" 
+    },
+    {
+      "id": 134,
+      "category":"artists",
+      "director":"vidyasagar",
+      "image":"/src/assets/images/songlist/artists/vidyasagar.jpg" 
+    },
+    {
+      "id": 135,
+      "category":"artists",
+      "director":"devi sri prasad",
+      "image":"/src/assets/images/songlist/artists/devi-sri-prasad2.jpg" 
+    },
+    {
+      "id": 136,
+      "category":"artists",
+      "director":"s.thaman",
+      "image":"/src/assets/images/songlist/artists/s.s.thaman.jpg" 
+    },
+    {
+      "id": 137,
+      "category":"artists",
+      "director":"m.m.keeravani",
+      "image":"/src/assets/images/songlist/artists/keeravani.jpg" 
+    },
+    {
+      "id": 138,
+      "category":"artists",
+      "director":"vijay antony",
+      "image":"/src/assets/images/songlist/artists/vijay-antony.jpg" 
+    },
+    {
+      "id": 139,
+      "category":"artists",
+      "director":"mani sharma",
+      "image":"/src/assets/images/songlist/artists/mani-sharma-telugu.jpg" 
+    },
+    {
+      "id": 140,
+      "category":"artists",
+      "director":"micky j. meyer",
+      "image":"/src/assets/images/songlist/artists/Mickey J. Meyer-telugu.jpg" 
+    },
+    {
+      "id": 141,
+      "category":"artists",
+      "director":"m.jayachandran",
+      "image":"/src/assets/images/songlist/artists/m.jayachandran-kerala.jpg" 
+    },
+    {
+      "id": 142,
+      "category":"artists",
+      "director":"jhonson",
+      "image":"/src/assets/images/songlist/artists/Johnson-kerala.jpg" 
+    },
+    {
+      "id": 143,
+      "category":"artists",
+      "director":"v.harikrishna",
+      "image":"/src/assets/images/songlist/artists/V. Harikrishna-kannada.jpg" 
+    },
+    {
+      "id": 144,
+      "category":"artists",
+      "director":"sadhu kokila",
+      "image":"/src/assets/images/songlist/artists/Sadhu Kokila-kannada.jpg" 
+    },
+
+
+
+    {
+      "id": 145,
+      "category":"artists1",
+      "director":"pritam chakraborty",
+      "image":"/src/assets/images/songlist/artists/pritam-hindi-1-2.jpg" 
+    },
+    {
+      "id": 146,
+      "category":"artists1", 
+      "director":"gurmeet singh",
+      "image":"/src/assets/images/songlist/artists/gurmeet-singh-hindi-20.jpg"
+    },
+    {
+      "id": 147,
+      "category":"artists1",
+      "director":"amit trivedi",
+      "image":"/src/assets/images/songlist/artists/amit-trivedi-hindi-2.jpg"
+    },
+    {
+      "id": 148,
+      "category":"artists1",
+      "director":"vishal bhardwaj",
+      "image":"/src/assets/images/songlist/artists/Vishal Bhardwaj-hindi-4.jpg" 
+    },
+    {
+      "id": 149,
+      "category":"artists1",
+      "director":"vishal dadlani",
+      "image":"/src/assets/images/songlist/artists/Vishal Dadlani-hindi-5.jpg" 
+    },
+    {
+      "id": 150,
+      "category":"artists1",
+      "director":"salim merchant",
+      "image":"/src/assets/images/songlist/artists/Salim Merchant-hindi-6.jpg" 
+    },
+    {
+      "id": 151,
+      "category":"artists1",
+      "director":"shantanu moitra",
+      "image":"/src/assets/images/songlist/artists/Shantanu Moitra-hindi-7.jpg" 
+    },
+    {
+      "id": 152,
+      "category":"artists1",
+      "director":"ram sampath",
+      "image":"/src/assets/images/songlist/artists/Ram Sampath-hindi-8.jpg" 
+    },
+    {
+      "id": 153,
+      "category":"artists1",
+      "director":"sneha khanwalkar",
+      "image":"/src/assets/images/songlist/artists/Sneha Khanwalkar-hindi-9.jpg" 
+    },
+    {
+      "id": 154,
+      "category":"artists1",
+      "director":"ashok patki",
+      "image":"/src/assets/images/songlist/artists/Ashok Patki-hindi-17.jpg" 
+    },
+    {
+      "id": 155,
+      "category":"artists1",
+      "director":"piyush mishra",
+      "image":"/src/assets/images/songlist/artists/Piyush Mishra-hindi-11.jpg" 
+    },
+    {
+      "id": 156,
+      "category":"artists1",
+      "director":"sandesh shandilya",
+      "image":"/src/assets/images/songlist/artists/Sandesh Shandilya-hindi-12.jpg" 
+    },
+    {
+      "id": 157,
+      "category":"artists1",
+      "director":"mithun sharma",
+      "image":"/src/assets/images/songlist/artists/Mithun Sharma-hindi-13.jpg" 
+    },
+    {
+      "id": 158,
+      "category":"artists1",
+      "director":"ismail darbar",
+      "image":"/src/assets/images/songlist/artists/Ismail Darbar-hindi-14.jpg" 
+    },
+    {
+      "id": 159,
+      "category":"artists1",
+      "director":"anu malik",
+      "image":"/src/assets/images/songlist/artists/Anu Malik-hindi-15.jpg" 
+    },
+    {
+      "id": 160,
+      "category":"artists1",
+      "director":"rajesh roshan",
+      "image":"/src/assets/images/songlist/artists/Rajesh Roshan-hindi-16.jpg" 
+    },
+    {
+      "id": 161,
+      "category":"artists1",
+      "director":"babbu mann",
+      "image":"/src/assets/images/songlist/artists/Babbu Mann-hindi-17.jpg" 
+    },
+    {
+      "id": 162,
+      "category":"artists1",
+      "director":"jassi katyal",
+      "image":"/src/assets/images/songlist/artists/jassi-katyal-hindi-18.jpg" 
+    },
+    {
+      "id": 163,
+      "category":"artists1",
+      "director":"amarjit singh",
+      "image":"/src/assets/images/songlist/artists/amarjit-singh-hindi-19.jpg" 
+    },
+    {
+      "id": 164,
+      "category":"artists1",
+      "director":"shankar mahadevan",
+      "image":"/src/assets/images/songlist/artists/Shankar Mahadevan-hindi-3-2.jpg" 
+    },
+
+
+
+
+    {
+      "id": 165,
+      "category":"podcasts-trending",
+      "podcastsname":"Hidden Brain",
+      "podcastssummary":"Shankar Vedantam uses science and storytelling to reveal the unconscious patterns that drive human behavior, shape our choices and direct our relationships.",
+      "image":"/src/assets/images/podcasts/trending/hidden-brain-img.jpg" 
+    },
+    {
+      "id": 284,
+      "category":"podcasts-trending",
+      "podcastsname":"A Slight Change Of Plan",
+      "podcastssummary":" Maya Shankar blends compassionate storytelling with the science of human behavior to help us understand who we are and who we become in the face of a big change. Maya is no stranger to change. “My whole childhood revolved around the violin, but that changed in a moment when I injured my hand playing a single note,” says Shankar, who was studying under Itzhak Perlman at the Juilliard School at the time. “I was forced to try and figure out who I was, and who I could be, without the violin.",
+      "image":"/src/assets/images/podcasts/trending/2-slight-change-of-plan.jpg" 
+    },
+    {
+      "id": 166,
+      "category":"podcasts-trending",
+      "podcastsname":"Dr.Laurie Marbas",
+      "podcastssummary":"On the Dr. Laurie Marbas Podcast, Dr. Marbas brings to you nutrition and lifestyle medicine experts & extraordinary guests to empower and inspire you with their knowledge and stories of plant-based lifestyle so that you can be your healthiest self. Work with Dr. Marbas visit: https://www.drmarbas.com/",
+      "image":"/src/assets/images/podcasts/trending/3-dr.laurie-marbas.jpg" 
+    },
+    {
+      "id": 167,
+      "category":"podcasts-trending",
+      "podcastsname":"The Dream Show With Jane Teresa Anderson",
+      "podcastssummary":"Internationally acclaimed dream analyst and author of Bird of Paradise (Taming the Unconscious to Bring Your Dreams to Fruition), Jane Teresa Anderson, interprets her guests’ dreams and shares dream interpretation tips and insights. A new episode is published every four weeks..",
+      "image":"/src/assets/images/podcasts/trending/4-dream-show-with-jane-teresa-anderson.jpg" 
+    },
+    {
+      "id": 168,
+      "category":"podcasts-trending",
+      "podcastsname":"Biscuits And Jam",
+      "podcastssummary":"In the South, food and music go hand in hand. They define much of what we think of as Southern culture, and they say a lot about our past, our present, and our future. Each week, Sid Evans, Editor in Chief of Southern Living, sits down with musicians, chefs, and other Southern icons to hear the stories of how they grew up, what inspires them, and why they feel connected to the region. Through honest conversations, Sid explores childhood memories, the family meals they still think about, and the intersection of food and music in their lives.",
+      "image":"/src/assets/images/podcasts/trending/5-biscuits-and-jam.jpg" 
+    },
+    {
+      "id": 169,
+      "category":"podcasts-trending",
+      "podcastsname":"The Confession Of Anthony Raimondi",
+      "podcastssummary":"In 1978, Pope John Paul I was found dead in his bed just 33 days after he was elected. The official story is that he suffered a fatal heart attack. But in the years since his death, some have claimed he was murdered to cover up crimes in the Vatican. The question of the Pope’s death has never been definitively answered, but there is one man who claims to know the truth. A man from one of New York City’s crime families who has deep ties to the Italian mafia. He was there the day of the Pope’s death and witnessed his murder firsthand. Or, at least, that’s what he says. His name is Anthony Raimondi, and these are his confessions.",
+      "image":"/src/assets/images/podcasts/trending/6-the-confession-of-anthony-raimondi.jpg" 
+    },
+    {
+      "id": 170,
+      "category":"podcasts-trending",
+      "podcastsname":"Guilty Pleasures",
+      "podcastssummary":"Comedians Zach Kornfeld, Kelsey Darragh, and Garrick Bernard take turns sharing their favorite guilty pleasure movies and TV shows and invite their funniest friends along to feel good about feeling guilty.",
+      "image":"/src/assets/images/podcasts/trending/7-guilty-pleasures.jpg" 
+    },
+    {
+      "id": 171,
+      "category":"podcasts-trending",
+      "podcastsname":"Teal Swan",
+      "podcastssummary":"A podcast for everyone who wants to get inspired towards authenticity, freedom and joy. Featuring the 'AskTeal' episodes, meditations and inspiration by author and public speaker Teal Swan.",
+      "image":"/src/assets/images/podcasts/trending/8-teal-swan.jpg" 
+    },
+    {
+      "id": 172,
+      "category":"podcasts-trending",
+      "podcastsname":"The Best Life Podcasts",
+      "podcastssummary":"Welcome to The Best Life podcast! Here we talk about everything from: success, money, relationships, entrepreneurship, productivity, honest communication, positive psychology, and an abundance mindset. Creating a life that YOU choose.",
+      "image":"/src/assets/images/podcasts/trending/9-the-best-life-podcasts.jpg" 
+    },
+    {
+      "id": 173,
+      "category":"podcasts-trending",
+      "podcastsname":"Personality Hacker",
+      "podcastssummary":"Make better decisions based on how your mind works. Personality Hacker teaches you the coding language of your mind and how to use it to create great relationships - a fulfilling career and happiness. Are you born with your personality, or does it develop over time? What is intuition? What's the fastest way to use your natural gifts to improve overall happiness? Join Joel Mark Witt and Antonia Dodge as they discuss small changes in your personality and relationships that have big impact.",
+      "image":"/src/assets/images/podcasts/trending/10-personality-hacker.jpg"
+    },
+    {
+      "id": 174,
+      "category":"podcasts-trending",
+      "podcastsname":"The Genius Life",
+      "podcastssummary":"You don't have to be born a Genius to become one. Follow health and science journalist, New York Times bestselling author, TV personality and nutrition expert Max Lugavere as he speaks to the most insightful minds of our time about what it means to live like a Genius.",
+      "image":"/src/assets/images/podcasts/trending/11-the-genius-life.jpg" 
+    },
+    {
+      "id": 175,
+      "category":"podcasts-trending",
+      "podcastsname":"The Rules To The Game",
+      "podcastssummary":"Join us as we discuss various topics ranging from Law to the Natural Sciences. High Frequency Radio is a Talk Show like none other!",
+      "image":"/src/assets/images/podcasts/trending/12-the-rules-to-the-game.jpg" 
+    },
+
+
+
+
+
+    {
+      "id": 176,
+      "category":"podcasts-technology",
+      "podcastssummary":"TechStuff is a show about technology. And it’s not just how technology works. Join host Jonathan Strickland as he explores the people behind the tech, the companies that market it and how technology affects our lives and culture.",
+      "podcastsname":"Techstuff",
+      "image":"/src/assets/images/podcasts/technology/1-techstuff.jpg" 
+    },
+    {
+      "id": 177,
+      "category":"podcasts-technology",
+      "podcastsname":"Chips With Everything",
+      "podcastssummary":"Is your phone watching you? Can texting make you smarter? Are your kids real? Note to Self explores these and other essential quandaries facing anyone trying to preserve their humanity in the digital age. WNYC Studios is a listener-supported producer of other leading podcasts, including Radiolab, Death, Sex & Money, Snap Judgment, Here’s the Thing with Alec Baldwin, Nancy and many others. © WNYC Studios",
+      "image":"/src/assets/images/podcasts/technology/2-chips-with-everything.jpg" 
+    },
+    {
+      "id": 178,
+      "category":"podcasts-technology",
+      "podcastsname":"Pivot",
+      "podcastssummary":"Every Tuesday and Friday, tech journalist Kara Swisher and NYU Professor Scott Galloway offer sharp, unfiltered insights into the biggest stories in tech, business, and politics. They make bold predictions, pick winners and losers, and bicker and banter like no one else. After all, with great power comes great scrutiny. From New York Magazine and the Vox Media Podcast Network.",
+      "image":"/src/assets/images/podcasts/technology/3-pivot.jpg" 
+    },
+    {
+      "id": 179,
+      "category":"podcasts-technology",
+      "podcastsname":"Build For Tomorrow",
+      "podcastssummary":"Want to take control of the future? In each episode of this podcast, Entrepreneur magazine editor in chief Jason Feifer takes something that seems concerning or confusing today, and then learns its surprising history, what important things we’re missing, and the solutions that can make us smarter and better. (The show was previously called Pessimists Archive.)",
+      "image":"/src/assets/images/podcasts/technology/4-build-for-tomorrow.jpg" 
+    },
+    {
+      "id": 180,
+      "category":"podcasts-technology",
+      "podcastsname":"A16Z Podcasts",
+      "podcastssummary":"The a16z Podcast discusses tech and culture trends, news, and the future – especially as ‘software eats the world’. It features industry experts, business leaders, and other interesting thinkers and voices from around the world. This podcast is produced by Andreessen Horowitz (aka “a16z”), a Silicon Valley-based venture capital firm. Multiple episodes are released every week; visit a16z.com for more details and to sign up for our newsletters and other content as well!",
+      "image":"/src/assets/images/podcasts/technology/5-a16z-podcasts.jpg" 
+    },
+    {
+      "id": 181,
+      "category":"podcasts-technology",
+      "podcastsname":"Future Tense",
+      "podcastssummary":"A critical look at new technologies, new approaches and new ways of thinking, from politics to media to environmental sustainability.",
+      "image":"/src/assets/images/podcasts/technology/6-future-tense.jpg" 
+    },
+    {
+      "id": 182,
+      "category":"podcasts-technology",
+      "podcastsname":"Catalyst Podcasts",
+      "podcastssummary":"Welcome to Catalyst, the Launch by NTT DATA Podcast. Catalyst is an ongoing discussion for digital leaders dissatisfied with the status quo and optimistic about what’s possible through smart technology and great people. In this studio we believe in shipping software over slideware, that fast will follow smooth, and aiming to create digital experiences that move millions is a worthy pursuit.",
+      "image":"/src/assets/images/podcasts/technology/7-catalyst-podcasts.jpg" 
+    },
+    {
+      "id": 183,
+      "category":"podcasts-technology",
+      "podcastsname":"Flash Forward",
+      "podcastssummary":"Flash Forward is a show about possible (and not so possible) future scenarios. What would the warranty on a sex robot look like? How would diplomacy work if we couldn’t lie? Could there ever be a fecal transplant black market? (Complicated, it wouldn’t, and yes, respectively, in case you’re curious.) Hosted and produced by award winning science journalist Rose Eveleth, each episode combines audio drama and journalism to go deep on potential tomorrows, and uncovers what those futures might really be like. The future is going to be weird, so let's get ready for it together.",
+      "image":"/src/assets/images/podcasts/technology/8-flash-forward.jpg" 
+    },
+    {
+      "id": 184,
+      "category":"podcasts-technology",
+      "podcastsname":"The Internet Of Things Podcast- Stacy On IOT",
+      "podcastssummary":"Stacey Higginbotham (formerly Sr. Editor at Fortune) and co-host Kevin Tofel discuss the latest news and analysis of the Internet of Things. Covers Consumer IoT, Industrial IoT and Enterprise IoT. Guests include Vint Cerf, Om Malik, and people from Amazon.com, AT&T, IBM Watson and more.",
+      "image":"/src/assets/images/podcasts/technology/9-the-internet-of-things-podcast=stacy-on-iot.png" 
+    },
+    {
+      "id": 185,
+      "category":"podcasts-technology",
+      "podcastsname":"Tech Life",
+      "podcastssummary":"DNA science. Artificial intelligence. Smartphones and 3D printers. Science and technology have transformed the world we live in. But how did we get here? It wasn’t by accident. Well, sometimes it was. It was also the result of hard work, teamwork, and competition. And incredibly surprising moments.",
+      "image":"/src/assets/images/podcasts/technology/10-tech-life.jpg" 
+    },
+    {
+      "id": 186,
+      "category":"podcasts-technology",
+      "podcastsname":"American Innovation",
+      "podcastssummary":"Hosted by bestselling author Steven Johnson (“How We Got To Now”), American Innovations uses immersive scenes to tell the stories of the scientists, engineers, and ordinary people behind the greatest discoveries of the past century.Listen to American Innovations on the Wondery App or wherever you get your podcasts. You can binge all episodes ad-free on Wondery+. Join Wondery+ in the Wondery App or on Apple Podcasts. Start your free trial by visiting https://wondery.com/links/american-innovations/",
+      "image":"/src/assets/images/podcasts/technology/11-american-innovation.jpg" 
+    },
+    {
+      "id": 187,
+      "category":"podcasts-technology",
+      "podcastsname":"Analog(ue)",
+      "podcastssummary":"So many podcasts are about our digital devices. Analog(ue) is a show about how these devices make us feel and how they change our lives for the better, but also for the worse. Hosted by Casey Liss and Myke Hurley.",
+      "image":"/src/assets/images/podcasts/technology/12-analog(ue).png" 
+    },
+    {
+      "id": 188,
+      "category":"podcasts-technology",
+      "podcastsname":"Tech Break",
+      "podcastssummary":"Tech Break brings you technology news and updates as they happen. So stay informed and discover new gadgets, apps, unboxings, beta releases, interviews, and essential excerpts from our shows. With Tech Break there is no set schedule and our hosts will publish new content as it develops. This feed has been discontinued, but you can find the clips in our archives.",
+      "image":"/src/assets/images/podcasts/technology/13-tech-break.jpg" 
+    },
+
+
+
+
+    {
+      "id": 189,
+      "category":"podcasts-health-and-wellbeing",
+      "podcastsname":"Daily Boost Motivation and Coaching",
+      "podcastssummary":" the Daily Boost Podcast will help you clarify what you want, create a roadmap to get it—and, most importantly—stay motivated every day until you get it. Improve Productivity and Time Management. Break Bad Habits and Increase Discipline. Communicate Better. Enhance Relationships. Discover your purpose, feel more grateful, and even grow your business. The Daily Boost Podcast is real-life, helpful, practical knowledge, motivation, and coaching that you can use immediately. Subscribe, listen, and review the Daily Boost Podcast. If you prefer no commercials, additional personal growth tools, and weekly coaching to achieve your goals, subscribe to Daily Boost Premium at https://dailyboostpremium.com.",
+      "image":"/src/assets/images/podcasts/Health-and-wellBeing/1-daily-boost-motivation-and-coaching.jpg" 
+    },
+    {
+      "id": 190,
+      "category":"podcasts-health-and-wellbeing",
+      "podcastsname":"Ben Greenfield Life",
+      "podcastssummary":"Free fitness, nutrition, biohacking, fat loss, anti-aging and cutting-edge health advice from BenGreenfieldLife.com! Tune in to the latest research, interviews with exercise, diet and medical professionals, and an entertaining mash-up of ancestral wisdom and modern science, along with Q&A's and mind-body-spirit optimizing content from America's top personal trainer.",
+      "image":"/src/assets/images/podcasts/Health-and-wellBeing/2-Ben Greenfield Life.jpg" 
+    },
+    {
+      "id": 191,
+      "category":"podcasts-health-and-wellbeing",
+      "podcastsname":"The Human Upgrade With Dave Asprey",
+      "podcastssummary":"For a decade, Dave Asprey, “the father of biohacking,” elevated what you knew about the capabilities of your mind and body across a thousand episodes of Bulletproof Radio. Now, he’s evolving it even further in his plan to upgrade humanity. You’re invited to expand your knowledge, explore your own performance and embrace possibility with The Human Upgrade™.Every guest you listen to, every topic you learn about, every new idea you discover on this podcast moves you forward.Join The Human Upgrade™ with Dave Asprey on this next evolution to upgrade your mind, body and life.",
+      "image":"/src/assets/images/podcasts/Health-and-wellBeing/3-The Human Upgrade With Dave Asprey.jpg" 
+    },
+    {
+      "id": 192,
+      "category":"podcasts-health-and-wellbeing",
+      "podcastsname":"Half Size Me",
+      "podcastssummary":"A weekly weight loss podcast. Half Size Me helps you achieve weight loss and maintenance in a sustainable way… that works best for you!",
+      "image":"/src/assets/images/podcasts/Health-and-wellBeing/4-Half Size Me.jpg" 
+    },
+    {
+      "id": 193,
+      "category":"podcasts-health-and-wellbeing",
+      "podcastsname":"The School of Greatness",
+      "podcastssummary":"Lewis Howes is a New York Times best-selling author, 2x All-American athlete, keynote speaker, and entrepreneur. The School of Greatness shares inspiring interviews from the most successful people on the planet—world-renowned leaders in business, entertainment, sports, science, health, and literature—to inspire YOU to unlock your inner greatness and live your best life.",
+      "image":"/src/assets/images/podcasts/Health-and-wellBeing/5-The School of Greatness.jpg" 
+    },
+    {
+      "id": 194,
+      "category":"podcasts-health-and-wellbeing",
+      "podcastsname":"Beyond The To-Do List-Productivity for Work & Life",
+      "podcastssummary":"Erik Fisher has recorded meaningful conversations with productivity experts, authors, and creatives for 12 years as they share their insights on how to implement productivity strategies in both your professional and personal life. The goal as you listen is to help you gain perspective, practical knowledge, and productivity insights for living a whole life that goes Beyond The To-Do List.",
+      "image":"/src/assets/images/podcasts/Health-and-wellBeing/6-Beyond The To-Do List-Productivity for Work & Life.jpg" 
+    },
+    {
+      "id": 195,
+      "category":"podcasts-health-and-wellbeing",
+      "podcastsname":"Young and Profiting with Hala",
+      "podcastssummary":"Join Hala Taha as she interviews some of the brightest minds in the world―turning their wisdom into actionable advice you can use in your life no matter your age, profession or industry. Our subject matter ranges from enhancing productivity, how to gain influence, the art of side hustles and more! If you’re smart and like to continually improve yourself, hit the subscribe button, because you’ll love it here at Young and Profiting Podcast. Part of the YAP Media Network.",
+      "image":"/src/assets/images/podcasts/Health-and-wellBeing/7-Young and Profiting with Hala.png" 
+    },
+    {
+      "id": 196,
+      "category":"podcasts-health-and-wellbeing",
+      "podcastsname":"The Rich Roll Podcast",
+      "podcastssummary":"A master-class in personal and professional development, ultra-athlete, wellness evangelist and bestselling author Rich Roll delves deep with the world's brightest and most thought provoking thought leaders to educate, inspire and empower you to unleash your best, most authentic self. More at: https://richroll.com",
+      "image":"/src/assets/images/podcasts/Health-and-wellBeing/8-The Rich Roll Podcast.jpg" 
+    },
+    {
+      "id": 197,
+      "category":"podcasts-health-and-wellbeing",
+      "podcastsname":"Nutition Facts with Dr.Greger",
+      "podcastssummary":"Have you ever wondered if there’s a natural way to lower your high blood pressure, guard against Alzheimer’s, lose weight, and feel better? Well, as it turns out, there is. Michael Greger, M.D. FACLM, founder of NutritionFacts.org and New York Times best-selling author of How Not to Die, How Not to Diet, and the just-released How Not to Age, uncovers the best evidence-based nutrition that may add years to our life and life to our years.",
+      "image":"/src/assets/images/podcasts/Health-and-wellBeing/9-Nutition Facts with Dr.Greger.jpg" 
+    },
+    {
+      "id": 198,
+      "category":"podcasts-health-and-wellbeing",
+      "podcastsname":"Food Psych Podcast with Christy Harrison",
+      "podcastssummary":"Helping people make peace with food since 2013. Registered dietitian nutritionist, certified intuitive eating counselor, and journalist Christy Harrison, MPH, RD, CEDS talks with guests and answers listener questions about making peace with food, healing from disordered eating, learning body acceptance, practicing intuitive eating, escaping harmful wellness culture, and more--all from a body-positive, anti-diet perspective. Along the way, Christy shares her own journey from disordered eater and dieter to food writer and anti-diet dietitian.",
+      "image":"/src/assets/images/podcasts/Health-and-wellBeing/10-Food Psych Podcast with Christy Harrison.png" 
+    },
+    {
+      "id": 199,
+      "category":"podcasts-health-and-wellbeing",
+      "podcastsname":"Sigma Nutrition Radio",
+      "podcastssummary":"Discussions about the science of nutrition, dietetics and health. The podcast that educates through nuanced conversations, exploring evidence and cultivating critical thinking. Hosted by Danny Lennon.",
+      "image":"/src/assets/images/podcasts/Health-and-wellBeing/11-Sigma Nutrition Radio.png" 
+    },
+    {
+      "id": 200,
+      "category":"podcasts-health-and-wellbeing",
+      "podcastsname":"Dr.Jockers Functional Nutrition",
+      "podcastssummary":"Join Dr David Jockers, Doctor of Natural Medicine and Functional Nutritionist as he shares science-based solutions to improve your health. Dr Jockers' work has been published in various popular media outlets including ABC, Fox News, The Hallmark Channel - Home & Family TV Show and the Dr Oz Show. On this podcast, Dr Jockers shares his best strategies to reduce inflammation, burn fat, improve your brain, natural detoxification, gut health, immune health and much more. ",
+      "image":"/src/assets/images/podcasts/Health-and-wellBeing/Dr.Jockers Functional Nutrition.png" 
+    },
+
+
+
+
+    {
+      "id": 201,
+      "category":"podcasts-story-telling",
+      "podcastsname":"Snap Judgment",
+      "podcastssummary":"Hosted by Laura Cathcart Robbins, a writer and a recovery thriver and survivor, Laura found herself in an all too familiar position. In September 2018, she was the only black woman in the room at Brave Magic, a famed writer’s retreat. After it was over, she wrote about her “only one” experience in The Huffington Post and comments started flooding into her DM. These comments were from people from all races, ethnicities, creeds, and nationalities who had felt “othered”. Laura beautifully interviews a person about their Only One story each episode and addresses as many of those DM’s as possible in the process.",
+      "image":"/src/assets/images/podcasts/story-telling/1-Snap Judgment.png" 
+    },
+    {
+      "id": 202,
+      "category":"podcasts-story-telling",
+      "podcastsname":"The Moth",
+      "podcastssummary":"1 phone call. 1 hour. No names. No holds barred. Thats the premise behind Beautiful Stories from Anonymous People, hosted by comedian Chris Gethard (the Chris Gethard Show, Broad City, This American Life, and one of Time Outs 10 best comedians of 2015). Every week, Chris opens the phone line to one anonymous caller, and he cant hang up first, no matter what. From shocking confessions and family secrets to philosophical discussions and shameless self-promotion, anything can and will happen! Theme song by Shellshag.",
+      "image":"/src/assets/images/podcasts/story-telling/2-The Moth.jpg" 
+    },
+    {
+      "id": 203,
+      "category":"podcasts-story-telling",
+      "podcastsname":"Criminal",
+      "podcastssummary":"Criminal is the first of its kind. A show about people who’ve done wrong, been wronged, or gotten caught somewhere in the middle. Hosted by Phoebe Judge. Named a Best Podcast of 2023 by the New York Times. Part of the Vox Media Podcast Network.",
+      "image":"/src/assets/images/podcasts/story-telling/3-Criminal.jpg" 
+    },
+    {
+      "id": 204,
+      "category":"podcasts-story-telling",
+      "podcastsname":"Revisionist History",
+      "podcastssummary":"Revisionist History is Malcolm Gladwell's journey through the overlooked and the misunderstood. Every episode re-examines something from the past—an event, a person, an idea, even a song—and asks whether we got it right the first time. From Pushkin Industries. Because sometimes the past deserves a second chance.To get early access to ad-free episodes and extra content, subscribe to Pushkin+ in Apple Podcasts are pushkin.fm/pus.iHeartMedia is the exclusive podcast partner of Pushkin Industries.",
+      "image":"/src/assets/images/podcasts/story-telling/4-Revisionist History.jpg" 
+    },
+    {
+      "id": 205,
+      "category":"podcasts-story-telling",
+      "podcastsname":"Risk!",
+      "podcastssummary":"If you like The Moth, This American Life or Snap Judgment, take a walk on the wilder side with RISK! Your colorful host Kevin Allison (of the legendary comedy group The State) helms this surprisingly uncensored show where people tell jaw-dropping true stories they never thought they'd dare to share in public. RISK! is hilarious, heart-wrenching and remarkably real. Think you've heard it all? Fasten your seatbelt.",
+      "image":"/src/assets/images/podcasts/story-telling/5-Risk!.jpg" 
+    },
+    {
+      "id": 206,
+      "category":"podcasts-story-telling",
+      "podcastsname":"Seroiusly...",
+      "podcastssummary":"Serial returns with a history of Guantánamo told by people who lived through key moments in Guantánamo’s evolution, who know things the rest of us don’t about what it’s like to be caught inside an improvised justice system. Serial Productions makes narrative podcasts whose quality and innovation transformed the medium. “Serial” began in 2014 as a spinoff of the public radio show “This American Life.” In 2020, we joined the New York Times Company. Our shows have reached many millions of listeners and have won nearly every major journalism award for audio, including the first-ever Peabody Award given to a podcast. Subscribe to our newsletter for the latest Serial Productions news: https://bit.ly/3FIOJj9 Have thoughts or feedback on our shows? Email us at serialshows@nytimes.com",
+      "image":"/src/assets/images/podcasts/story-telling/6-Seroiusly....jpg" 
+    },
+    {
+      "id": 207,
+      "category":"podcasts-story-telling",
+      "podcastsname":"Modern Love",
+      "podcastssummary":"For 20 years, the Modern Love column has given New York Times readers a glimpse into the complicated love lives of real people. Since its start, the column has evolved into a TV show, three books and a podcast. Each week, host Anna Martin brings you stories and conversations about love in all its glorious permutations, dumb pitfalls and life-changing moments. New episodes every Wednesday. Listen to this podcast in New York Times Audio, our new iOS app for news subscribers. Download now at nytimes.com/audioapp",
+      "image":"/src/assets/images/podcasts/story-telling/7-Modern Love.jpg" 
+    },
+    {
+      "id": 208,
+      "category":"podcasts-story-telling",
+      "podcastsname":"StoryCorps",
+      "podcastssummary":"Stories of the human heart. A candid, unscripted conversation between two people about what's really important in life: love, loss, family, friendship. When the world seems out of hand, tune in to StoryCorps and be reminded of the things that matter most.",
+      "image":"/src/assets/images/podcasts/story-telling/8-StoryCorps.jpg" 
+    },
+    {
+      "id": 209,
+      "category":"podcasts-story-telling",
+      "podcastsname":"Only One In The Room",
+      "podcastssummary":"Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it’s like to be alive right now. It’s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago.",
+      "image":"/src/assets/images/podcasts/story-telling/9-Only One In The Room.jpg" 
+    },
+    {
+      "id": 210,
+      "category":"podcasts-story-telling",
+      "podcastsname":"Short Cuts",
+      "podcastssummary":"Nick van der Kolk's Love and Radio features in-depth, otherworldly-produced interviews with an eclectic range of subjects, from the seedy to the sublime. Get inside the mind of a rogue taxidermist. Find out what it's like to experience a stroke firsthand. Or spend time with an artist who gives away her life savings every night. You've never heard anything like it before.",
+      "image":"/src/assets/images/podcasts/story-telling/10-Short Cuts.jpg" 
+    },
+    {
+      "id": 211,
+      "category":"podcasts-story-telling",
+      "podcastsname":"Live Less Ordinary",
+      "podcastssummary":"Eavesdrop on life as it's lived. Earshot brings you intimate stories exploring the human experience.",
+      "image":"/src/assets/images/podcasts/story-telling/11-Live Less Ordinary.jpg" 
+    },
+    {
+      "id": 212,
+      "category":"podcasts-story-telling",
+      "podcastsname":"Ear Hustle",
+      "podcastssummary":"What's the one secret you've never told anybody? Welcome to The Secret Room, a podcast about the true stories no one ever tells. Hosted by Ben Hamm.",
+      "image":"/src/assets/images/podcasts/story-telling/12-Ear Hustle.png" 
+    },
+    
+    
+
+
+    {
+      "id": 213,
+      "category":"podcasts-business",
+      "podcastsname":"Marketplace",
+      "podcastssummary":"Freakonomics co-author Stephen J. Dubner uncovers the hidden side of everything. Why is it safer to fly in an airplane than drive a car? How do we decide whom to marry? Why is the media so full of bad news? Also: things you never knew you wanted to know about wolves, bananas, pollution, search engines, and the quirks of human behavior. Join the Freakonomics Radio Plus membership program for weekly member-only episodes of Freakonomics Radio. You’ll also get every show in our network without ads. To sign up, visit our show page on Apple Podcasts or go to freakonomics.com/plus.",
+      "image":"/src/assets/images/podcasts/business/1-Marketplace.png" 
+    },
+    {
+      "id": 214,
+      "category":"podcasts-business",
+      "podcastsname":"Planet Money",
+      "podcastssummary":"Wanna see a trick? Give us any topic and we can tie it back to the economy. At Planet Money, we explore the forces that shape our lives and bring you along for the ride. Don't just understand the economy understand the world.deeper? Subscribe to Planet Money+ and sponsor-free episodes of Planet Money, The Indicator, and Planet Money Summer School. Plus access to bonus content. It's a new way to support the show you love. Learn more at plus.npr.org/planetmoney",
+      "image":"/src/assets/images/podcasts/business/2-Planet Money.jpg" 
+    },
+    {
+      "id": 215,
+      "category":"podcasts-business",
+      "podcastsname":"Behind the Review",
+      "podcastssummary":"It’s no secret that business owners want to receive positive reviews and customers want to have a positive experience. In Behind the Review, Yelp and Entrepreneur dig a little deeper on both accounts. Hosted by Yelp’s Small Business Expert, Emily Washcovick, Behind the Review features conversations with reviewers and business owners about their experiences—whether it was one star or five stars—giving listeners behind-the-scenes insights into what was really going on. Restaurants, plumbers, florists, salon owners, fitness entrepreneurs, and more share how they create unique customer experiences that generate reviews and offer real-life lessons that business owners in any industry can apply to their own operations.",
+      "image":"/src/assets/images/podcasts/business/3-Behind the Review.png"
+    },
+    {
+      "id": 216,
+      "category":"podcasts-business",
+      "podcastsname":"Jayson Waller Unleased",
+      "podcastssummary":"Dive into the electrifying universe of 'Jayson Waller Unleashed' – where every episode is a high-voltage journey! This isn't just a podcast; it's a front-row seat to the mind of Jayson Waller, a man whose mood swings are as legendary as his business acumen. From the euphoric highs to fiery lows, Waller's bipolar experiences aren't just shared; they're celebrated in a whirlwind of raw, unbridled emotion. In this high-octane show, Waller, a maestro of moods, navigates the extremes of building a billion-dollar empire. Expect a rollercoaster of insights, from zen-like wisdom to impassioned rants that might just have you questioning reality – yes, even alien encounters are on the table! But the real clincher? The stellar lineup of guests. ",
+      "image":"/src/assets/images/podcasts/business/4-Jayson Waller Unleased.jpg" 
+    },
+    {
+      "id": 217,
+      "category":"podcasts-business",
+      "podcastsname":"The Kara Goldin Show",
+      "podcastssummary":"Kara Goldin, founder of Hint, sits down with today’s most fascinating entrepreneurs, disruptors, and change-makers for a no-holds-barred discussion of how they overcame long odds on the road to start-up success. Guests such as Guy Kawasaki (Apple, Canva), Julie Bornstein (The Yes, Stitch Fix), Mindy Grossman (WW), and Amy Errett (Madison Reed) share wisdom and anecdotes that will inspire you – and challenge you to think differently about achieving your goals. For more on the podcast as well as updates on all of Kara’s latest ventures, check out karagoldin.com.",
+      "image":"/src/assets/images/podcasts/business/5-The Kara Goldin Show.jpg" 
+    },
+    {
+      "id": 218,
+      "category":"podcasts-business",
+      "podcastsname":"My First Million",
+      "podcastssummary":"Sam Parr and Shaan Puri brainstorm new business ideas based on trends & opportunities they see in the market. Sometimes they bring on famous guests to brainstorm with them.",
+      "image":"/src/assets/images/podcasts/business/6-My First Million.jpg" 
+    },
+    {
+      "id": 219,
+      "category":"podcasts-business",
+      "podcastsname":"Econ Talk",
+      "podcastssummary":"EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford's Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it's like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006. All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.",
+      "image":"/src/assets/images/podcasts/business/7-Econ Talk.jpg" 
+    },
+    {
+      "id": 220,
+      "category":"podcasts-business",
+      "podcastsname":"Money Talks from The Economist",
+      "podcastssummary":"Take a seat at the table and learn about the biggest stories in financial markets, the economy and business. Each week our editors and correspondents explore how economics influences the world we live in and share their insights across a range of topics. From inflation and recession risk to all things crypto and even the commercial success of K-pop, we have you covered. Published every Thursday.For more information about Economist Podcasts+, including how to get access, please visit our FAQs page at https://myaccount.economist.com/s/article/What-is-Economist-Podcasts.",
+      "image":"/src/assets/images/podcasts/business/8-Money Talks from The Economist.jpg" 
+    },
+    {
+      "id": 221,
+      "category":"podcasts-business",
+      "podcastsname":"The James Altucher Show",
+      "podcastssummary":"James Altucher interviews the world’s leading peak performers in every area of life. But instead of giving you the typical success story, James digs deeper to find the “Choose Yourself” story—these are the moments we relate to… when someone rises up from personal struggle to reinvent themselves. The James Altucher Show brings you into the lives of peak-performers: billionaires, best-selling authors, rappers, astronauts, athletes, comedians, actors, and the world champions in every field, all who forged their own paths, found financial freedom and harnessed the power to create more meaningful and fulfilling lives.",
+      "image":"/src/assets/images/podcasts/business/9-The James Altucher Show.jpg" 
+    },
+    {
+      "id": 222,
+      "category":"podcasts-business",
+      "podcastsname":"Master in Business",
+      "podcastssummary":"Bloomberg Radio host Barry Ritholtz has in-depth discussions with the people and ideas that shape markets, investing and business.",
+      "image":"/src/assets/images/podcasts/business/10-Master in Business.jpg" 
+    },
+    {
+      "id": 223,
+      "category":"podcasts-business",
+      "podcastsname":"Startup Stories-Mixergy",
+      "podcastssummary":"Business tips for startups by proven entrepreneurs",
+      "image":"/src/assets/images/podcasts/business/11-Startup Stories-Mixergy.jpg" 
+    },
+    {
+      "id": 224,
+      "category":"podcasts-business",
+      "podcastsname":"Masters of Scale",
+      "podcastssummary":"On Masters of Scale, iconic business leaders share lessons and strategies that have helped them grow the world's most fascinating companies. Founders, CEOs, and dynamic innovators join candid conversations about their triumphs and challenges with a set of luminary hosts, including founding host Reid Hoffman (LinkedIn co-founder and Greylock partner). From navigating early prototypes to expanding brands globally, Masters of Scale provides priceless insights to help anyone grow their dream enterprise.",
+      "image":"/src/assets/images/podcasts/business/Masters of Scale.jpg" 
+    },
+
+
+
+
+    {
+      "id": 225,
+      "category":"podcasts-science",
+      "podcastsname":"Science Friday",
+      "podcastssummary":"Brain fun for curious people.",
+      "image":"/src/assets/images/podcasts/science/1-Science Friday.jpg" 
+    },
+    {
+      "id": 226,
+      "category":"podcasts-science",
+      "podcastsname":"Stuff To Blow Your Mind",
+      "podcastssummary":"Deep in the back of your mind, you’ve always had the feeling that there’s something strange about reality. There is. Join Robert Lamb and Joe McCormick as they examine neurological quandaries, cosmic mysteries, evolutionary marvels and our transhuman future.",
+      "image":"/src/assets/images/podcasts/science/2-Stuff To Blow Your Mind.jpg" 
+    },
+    {
+      "id": 227,
+      "category":"podcasts-science",
+      "podcastsname":"Unexpected Element",
+      "podcastssummary":"The news you know, the science you don’t. Unexpected Elements looks beyond everyday narratives to discover a goldmine of scientific stories and connections from around the globe. From Afronauts, to why we argue, to a deep dive on animal lifespans: see the world in a new way.",
+      "image":"/src/assets/images/podcasts/science/3-Unexpected Element.jpg" 
+    },
+    {
+      "id": 228,
+      "category":"podcasts-science",
+      "podcastsname":"Science Vs",
+      "podcastssummary":"There are a lot of fads, blogs and strong opinions, but then there’s SCIENCE. Science Vs is the show from Gimlet that finds out what’s fact, what’s not, and what’s somewhere in between. We do the hard work of sifting through all the science so you don't have to and cover everything from 5G and Pandemics, to Vaping and Fasting Diets.",
+      "image":"/src/assets/images/podcasts/science/4-Science Vs.jpg" 
+    },
+    {
+      "id": 229,
+      "category":"podcasts-science",
+      "podcastsname":"Invisibilia",
+      "podcastssummary":"Unseeable forces control human behavior and shape our ideas, beliefs, and assumptions. Invisibilia—Latin for invisible things—fuses narrative storytelling with science that will make you see your own life differently.",
+      "image":"/src/assets/images/podcasts/science/5-Invisibilia.jpg" 
+    },
+    {
+      "id": 230,
+      "category":"podcasts-science",
+      "podcastsname":"Curiosity Daily",
+      "podcastssummary":"The award-winning Curiosity Daily podcast from CuriosityDaily.com will help you get smarter about the world around you. In less than 10 minutes, you’ll get a unique mix of research-based life hacks, the latest science and technology news, and more. Nate Bonham and Calli Gade will help you learn about your mind and body, outer space and the depths of the sea, and how history shaped the world into what it is today.Head to discovery+ to stream even more science content, from Animal Planet to Science Channel. Go to discoveryplus.com/curiosity to start your 7-day free trial today. Terms Apply.",
+      "image":"/src/assets/images/podcasts/science/6-Curiosity Daily.jpg" 
+    },
+    {
+      "id": 231,
+      "category":"podcasts-science",
+      "podcastsname":"Wow in the World",
+      "podcastssummary":"The #1 science podcast for kids and their grown-ups. Hosts Mindy Thomas and Guy Raz share stories about the latest news in science, technology, and innovation. Stories that give kids hope, agency and make us all say 'WOW'! New episodes come out every Monday for free. Listen 1-week early and to all episodes ad-free with Wondery+, Wondery+ Kids on Apple Podcasts, or Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+      "image":"/src/assets/images/podcasts/science/7-Wow in the World.jpg" 
+    },
+    {
+      "id": 232,
+      "category":"podcasts-science",
+      "podcastsname":"The Life Scientific",
+      "podcastssummary":"You might think you know what it takes to lead a happier life… more money, a better job, or Instagram-worthy vacations. You’re dead wrong. Yale professor Dr. Laurie Santos has studied the science of happiness and found that many of us do the exact opposite of what will truly make our lives better. Based on the psychology course she teaches at Yale -- the most popular class in the university’s 300-year history -- Laurie will take you through the latest scientific research and share some surprising and inspiring stories that will change the way you think about happiness.",
+      "image":"/src/assets/images/podcasts/science/8-The Life Scientific.jpg" 
+    },
+    {
+      "id": 233,
+      "category":"podcasts-science",
+      "podcastsname":"Science With Dr.Karl",
+      "podcastssummary":"Join Dr Karl Kruszelnicki, Lucy Smith and their scientific guests, with a bunch of curious triple j listeners for a weekly injection of science, myth-bashing and answers!",
+      "image":"/src/assets/images/podcasts/science/9-Science With Dr.Karl.jpg" 
+    },
+    {
+      "id": 234,
+      "category":"podcasts-science",
+      "podcastsname":"The Science of Everything",
+      "podcastssummary":"I discuss a variety of topics in both the natural and social sciences, exploring the many fascinating insights that the scientific method yields about the world around us.",
+      "image":"/src/assets/images/podcasts/science/10-The Science of Everything.jpg" 
+    },
+    {
+      "id": 235,
+      "category":"podcasts-science",
+      "podcastsname":"Science Rules! with Bill Nye",
+      "podcastssummary":"Bill Nye is on a mission to change the world — one voicemail at a time. Bill and science writer Corey S. Powell take your burning questions and put them to the world's leading experts on just about every topic in the universe. Should you stop eating cheeseburgers to combat climate change? Could alien life be swimming inside the moons of Jupiter and Saturn? Does your pet parakeet learn to sing the way that you learned to speak? Bill, Corey, and their special guests will answer those questions and convince you that... science rules!",
+      "image":"/src/assets/images/podcasts/science/11-Science Rules! with Bill Nye.jpg" 
+    },
+    {
+      "id": 236,
+      "category":"podcasts-science",
+      "podcastsname":"overhead at National Geographic",
+      "podcastssummary":"Come dive into one of the curiously delightful conversations overheard at National Geographic’s headquarters, as we follow explorers, photographers, and scientists to the edges of our big, weird, beautiful world. Hosted by Peter Gwin and Amy Briggs.",
+      "image":"/src/assets/images/podcasts/science/overhead at National Geographic.jpg" 
+    },
+
+
+
+
+    {
+      "id": 237,
+      "category":"podcasts-lifestyle",
+      "podcastsname":"Out Travel The System",
+      "podcastssummary":"Gravy shares stories of the changing American South through the foods we eat. Gravy showcases a South that is constantly evolving, accommodating new immigrants, adopting new traditions, and lovingly maintaining old ones. It uses food as a means to explore all of that, to dig into lesser-known corners of the region, complicate stereotypes, document new dynamics, and give voice to the unsung folk who grow, cook, and serve our daily meals.",
+      "image":"/src/assets/images/podcasts/lifestyle/1-Out Travel The System.png" 
+    },
+    {
+      "id": 238,
+      "category":"podcasts-lifestyle",
+      "podcastsname":"Armchair Explorer",
+      "podcastssummary":"The world's greatest adventurers tell their best story from the road. Each episode is cut documentary style and set to music and cinematic effects to create an immersive storytelling experience. 'Best travel podcasts 2020'- The Guardian, 'Thrilling Stuff'-Sunday Times, 'Ear Candy for Listeners' - Washington Post",
+      "image":"/src/assets/images/podcasts/lifestyle/2-Armchair Explorer.jpg" 
+    },
+    {
+      "id": 239,
+      "category":"podcasts-lifestyle",
+      "podcastsname":"Let's Go Together",
+      "podcastssummary":"Let’s Go Together, a new podcast from Travel + Leisure, features diverse voices sharing their unique travel experiences and inspiring others to explore the world. Each week host Kellee Edwards, award-winning travel expert, speaks to guests about inclusivity, including episodes that introduce an adventurer who climbed Machu Picchu in his wheelchair and the first documented black woman to visit every country in the world. Come back every Wednesday for a new episode!",
+      "image":"/src/assets/images/podcasts/lifestyle/3-Let's Go Together.jpg" 
+    },
+    {
+      "id": 240,
+      "category":"podcasts-lifestyle",
+      "podcastsname":"Focus on the Family with Jim Daly",
+      "podcastssummary":"Become a champion for your family in the time it takes to enjoy a cup of coffee! Every episode of the Focus on the Family Christian podcast helps you confidently guide your loved ones through the unique challenges faced by today’s Christian families. With over 40 years of trusted, compassionate stories of redemption, hosts Jim Daly and John Fuller connect you to biblically sound marriage and parenting help that is relatable, practical, and interesting. Listen/Learn/Apply/ThriveInChrist!",
+      "image":"/src/assets/images/podcasts/lifestyle/4-Focus on the Family with Jim Daly.jpg" 
+    },
+    {
+      "id": 241,
+      "category":"podcasts-lifestyle",
+      "podcastsname":"Homemade",
+      "podcastssummary":"Allrecipes podcast, Homemade, celebrates good food, the people who make it, and the stories and traditions of beloved recipes. On the show, hosts Sabrina Medora (national food writer and hospitality industry insider) and Martie Duncan (author and Next Food Network Star finalist), talk to cooks of all stripes to reveal the memories and traditions behind their favorite foods.",
+      "image":"/src/assets/images/podcasts/lifestyle/5-Homemade.jpg" 
+    },
+    {
+      "id": 242,
+      "category":"podcasts-lifestyle",
+      "podcastsname":"The Dice Tower",
+      "podcastssummary":"Tom Vasel and Eric Summerer take a look at board games, card games, and the people who design, publish, and play them. Top ten lists, Q&A, tales of horror, and more await you!",
+      "image":"/src/assets/images/podcasts/lifestyle/6-The Dice Tower.png" 
+    },
+    {
+      "id": 243,
+      "category":"podcasts-lifestyle",
+      "podcastsname":"Proof",
+      "podcastssummary":"We take America's Test Kitchen's inquisitive and relentless approach to telling unexpected, funny, and thought-provoking narratives about food and drink. This is not a recipe show. And this is not a show about celebrity chefs or what they like to eat. Proof plunges into history, culture, science, and the psyche to uncover the hidden backstories that feed your food-obsessed brain. A production of America's Test Kitchen.",
+      "image":"/src/assets/images/podcasts/lifestyle/7-Proof.jpg" 
+    },
+    {
+      "id": 244,
+      "category":"podcasts-lifestyle",
+      "podcastsname":"The Food Programme",
+      "podcastssummary":"Food with a side of science and history. Every other week, co-hosts Cynthia Graber and Nicola Twilley serve up a brand new episode exploring the hidden history and surprising science behind a different food- or farming-related topic, from aquaculture to ancient feasts, from cutlery to chile peppers, and from microbes to Malbec. We interview experts, visit labs, fields, and archaeological digs, and generally have lots of fun while discovering new ways to think about and understand the world through food. Find us online at gastropod.com, follow us on Twitter @gastropodcast, and like us on Facebook at facebook.com/gastropodcast.",
+      "image":"/src/assets/images/podcasts/lifestyle/8-The Food Programme.jpg" 
+    },
+    {
+      "id": 245,
+      "category":"podcasts-lifestyle",
+      "podcastsname":"Doughboys",
+      "podcastssummary":"The podcast about chain restaurants. Comedians Mike Mitchell and Nick Wiger review fast food/sit-down chains and generally argue about food/everything.",
+      "image":"/src/assets/images/podcasts/lifestyle/9-Doughboys.jpg" 
+    },
+    {
+      "id": 246,
+      "category":"podcasts-lifestyle",
+      "podcastsname":"FamilyLife Today",
+      "podcastssummary":"FamilyLife Today® is a weekday podcast featuring fun, engaging conversations that help families grow together with Jesus while pursuing the relationships that matter most.",
+      "image":"/src/assets/images/podcasts/lifestyle/10-FamilyLife Today.jpg" 
+    },
+    {
+      "id": 247,
+      "category":"podcasts-lifestyle",
+      "podcastsname":"The Kitchen Cabinet",
+      "podcastssummary":"A podcast for getting things done. Popular Mechanics Editor Jacqueline Detwiler hosts a rotating cast of characters who answer tough questions and provide tips for being smart about life.",
+      "image":"/src/assets/images/podcasts/lifestyle/11-The Kitchen Cabinet.jpg" 
+    },
+    {
+      "id": 248,
+      "category":"podcasts-lifestyle",
+      "podcastsname":"The Food chain",
+      "podcastssummary":"Most Americans now have more choices when it comes to food than any other group of people in the history of the world. We are so, so lucky to live in a time and place when we get to choose between feasting on fresh vegetables from the farmer’s market… and ordering a meat lover’s pizza delivered right to our door. With such a ridiculous abundance of options, how do we actually decide what’s for dinner? On Why We Eat What We Eat, host Cathy Erway investigates the unseen forces that shape our eating habits. We’ll tackle a kale conspiracy, how to get your kids to quit being so picky, visiting the epicenter of the potluck scene, and more. Brought to you by Blue Apron and Gimlet Creative.",
+      "image":"/src/assets/images/podcasts/lifestyle/The Food chain.jpg" 
+    },
+
+
+
+
+    {
+      "id": 249,
+      "category":"podcasts-documentary",
+      "podcastsname":"BackStory",
+      "podcastssummary":"BackStory is a weekly public podcast hosted by U.S. historians Ed Ayers, Brian Balogh, Nathan Connolly and Joanne Freeman. We're based in Charlottesville, Va. at Virginia Humanities. There’s the history you had to learn, and the history you want to learn - that’s where BackStory comes in. Each week BackStory takes a topic that people are talking about and explores it through the lens of American history. Through stories, interviews, and conversations with our listeners, BackStory makes history engaging and fun.",
+      "image":"/src/assets/images/podcasts/documentary/1-In The Dark.png" 
+    },
+    {
+      "id": 250,
+      "category":"podcasts-documentary",
+      "podcastsname":"Revolutions",
+      "podcastssummary":"A weekly podcasting exploring great political revolutions. Now: The Russian Revolution Next: ???",
+      "image":"/src/assets/images/podcasts/documentary/2-Revolutions.jpg" 
+    },
+    {
+      "id": 251,
+      "category":"podcasts-documentary",
+      "podcastsname":"The History of WW-2",
+      "podcastssummary":"A biweekly history podcast covering the last great war. Join Ray Harris Jr as he explores World War Two in intimate detail. The History of WWII Podcast is produced and narrated by Ray Harris Jr. Ray has a degree in history from James Madison University. I’ve been obsessed with the events and people",
+      "image":"/src/assets/images/podcasts/documentary/3-The History of WW-2.jpg" 
+    },
+    {
+      "id": 252,
+      "category":"podcasts-documentary",
+      "podcastsname":"The Civil War& Reconstruction",
+      "podcastssummary":"A history podcast in which Rich & Tracy weave together a chronological narrative of the Civil War era. Visit us at www.civilwarpodcast.org",
+      "image":"/src/assets/images/podcasts/documentary/4-The Civil War& Reconstruction.jpg" 
+    },
+    {
+      "id": 253,
+      "category":"podcasts-documentary",
+      "podcastsname":"The History of Rome",
+      "podcastssummary":"A weekly podcast tracing the history of the Roman Empire, beginning with Aeneas's arrival in Italy and ending with the exile of Romulus Augustulus, last Emperor of the Western Roman Empire. Now complete!",
+      "image":"/src/assets/images/podcasts/documentary/5-The History of Rome.jpg" 
+    },
+    {
+      "id": 254,
+      "category":"podcasts-documentary",
+      "podcastsname":"The History of China",
+      "podcastssummary":"A journey through the 5000 years of history documented by one of the world's oldest continuous civilizations. For all the episodes for free, as well as additional content, please subscribe and/or visit http://thehistoryofchina.wordpress.com.",
+      "image":"/src/assets/images/podcasts/documentary/6-The History of China.jpg" 
+    },
+    {
+      "id": 255,
+      "category":"podcasts-documentary",
+      "podcastsname":"Someone Knows Something",
+      "podcastssummary":"Angel Carlick was a vibrant youth worker, nicknamed ‘Happy-Go-Lucky’ by her loved ones. She had plans after graduation to become legal guardian of her brother and work to support struggling youth at her local resource centre. But just days before she was set to graduate in 2007, at age 18, Angel disappeared. Months later, her remains were found in a remote area in the Canadian north. In the highly-anticipated 8th season of Someone Knows Something, award-winning investigator David Ridgen delves into the cold case that has haunted Whitehorse for more than 15 years.",
+      "image":"/src/assets/images/podcasts/documentary/7-Someone Knows Something.jpg" 
+    },
+    {
+      "id": 256,
+      "category":"podcasts-documentary",
+      "podcastsname":"History of Japan",
+      "podcastssummary":"This podcast, assembled by a former PhD student in History at the University of Washington, covers the entire span of Japanese history. Each week we'll tackle a new topic, ranging from prehistoric Japan to the modern day.",
+      "image":"/src/assets/images/podcasts/documentary/8-History of Japan.jpg" 
+    },
+    {
+      "id": 257,
+      "category":"podcasts-documentary",
+      "podcastsname":"The History of Being Human",
+      "podcastssummary":"History, anatomy and physiology, philosophy, psychology, anthropology. The podcast that attempts to resurrect sense and meaning from the dust of a billion factoids.",
+      "image":"/src/assets/images/podcasts/documentary/9-The History of Being Human.jpg" 
+    },
+    {
+      "id": 258,
+      "category":"podcasts-documentary",
+      "podcastsname":"The Teacher's Pet",
+      "podcastssummary":"Lyn and Chris Dawson appear to have the perfect marriage. He's a star footballer and popular high school teacher. She's a devoted wife and mother. They share a beautiful home above Sydney's northern beaches. But when Lyn goes missing, dark secrets are buried. This is no fairytale, but a sordid story of strangely close twin brothers, teenage student lovers, and probable murder. The Australian's Hedley Thomas digs deep into a cold case which has been unsolved for 36 years, uncovering startling new evidence.",
+      "image":"/src/assets/images/podcasts/documentary/10-The Teacher's Pet.jpg" 
+    },
+    {
+      "id": 259,
+      "category":"podcasts-documentary",
+      "podcastsname":"Accused",
+      "podcastssummary":"A soft-hearted prison minister was found killed in her Kentucky apartment, and Newport police zeroed in on an ex-convict she’d counseled. Thirty years later, the conviction is overturned and the case is once again unsolved. The Cincinnati Enquirer investigates: Was William Virgil wrongly convicted for murder?",
+      "image":"/src/assets/images/podcasts/documentary/11-Accused.jpg" 
+    },
+    {
+      "id": 260,
+      "category":"podcasts-documentary",
+      "podcastsname":"Missing",
+      "podcastssummary":"Missing is a true crime podcast that tells stories of missing people, homicides, and injustices. Starting in 2015 with the disappearance of Maura Murray, Missing has covered the vanishings of Brianna Maitland, Brandon Lawson, Phoenix Coldon, Trenny Gibson, Daniel Robinson, Jessica Stacks, Erica Franolich, Cieha Taylor, Calvin Johnny Hunt, Abbie Flynn, Tabitha Queen, Raymond Green, Alicia Markovich, Niqui",
+      "image":"/src/assets/images/podcasts/documentary/Missing.jpg" 
+    },
+
+
+
+
+    {
+      "id": 261,
+      "category":"podcasts-fiction",
+      "podcastsname":"Welcome to Night Vale",
+      "podcastssummary":"Ten years ago, over three hundred men, women and children disappeared from a small town in Tennessee, never to be heard from again. In this podcast, American Public Radio reporter Lia Haddock asks the question once more, 'What happened to the people of Limetown?' Limetown is produced by Two-Up, the producers of 36 Questions, The Wilderness and Shipworm.",
+      "image":"/src/assets/images/podcasts/fiction/1-Welcome to Night Vale.jpg" 
+    },
+    {
+      "id": 262,
+      "category":"podcasts-fiction",
+      "podcastsname":"The Adventure Zone",
+      "podcastssummary":"Justin, Travis and Griffin McElroy from My Brother, My Brother and Me have recruited their dad Clint for a campaign of high adventure. Join the McElroys as they find their fortune and slay an unconscionable number of ... you know, kobolds or whatever in ... The Adventure Zone..",
+      "image":"/src/assets/images/podcasts/fiction/2-The Adventure Zone.jpg" 
+    },
+    {
+      "id": 263,
+      "category":"podcasts-fiction",
+      "podcastsname":"The Archers",
+      "podcastssummary":" Dr. Bright provides therapy for the strange and unusual; their sessions have been recorded for research purposes. Visit www.thebrightsessions.com for more information and additional content. Created by Lauren Shippen",
+      "image":"/src/assets/images/podcasts/fiction/3-The Archers.jpg" 
+    },
+    {
+      "id": 264,
+      "category":"podcasts-fiction",
+      "podcastsname":"Alice Isn't Dead",
+      "podcastssummary":"Tanis is a bi-weekly podcast from the Public Radio Alliance, and is hosted by Nic Silver. Tanis is a serialized docudrama about a fascinating and surprising mystery: the myth of Tanis. Tanis is an exploration of the nature of truth, conspiracy, and information. Tanis is what happens when the lines of science and fiction start to blur... Support TANIS to hear exclusive MINI and BONUS EPISODES and more! http://patreon.com/tanispodcast Please rate and review on iTunes if you enjoy TANIS! http://itunes.com/tanis For more information, including supporting materials for each episode visit: http://tanispodcast.com",
+      "image":"/src/assets/images/podcasts/fiction/4-Alice Isn't Dead.jpg" 
+    },
+    {
+      "id": 265,
+      "category":"podcasts-fiction",
+      "podcastsname":"S-Town",
+      "podcastssummary":"S-Town is a podcast hosted by Brian Reed from Serial Productions, a New York Times company. The story follows a man named John who despises his Alabama town and decides to do something about it. He asks Brian to investigate the son of a wealthy family who's allegedly been bragging that he got away with murder. But when someone else ends up dead, the search for the truth leads to a nasty feud, a hunt for hidden treasure, and an unearthing of the mysteries of one man's life.",
+      "image":"/src/assets/images/podcasts/fiction/5-S-Town.jpg" 
+    },
+    {
+      "id": 266,
+      "category":"podcasts-fiction",
+      "podcastsname":"The Black Tapes",
+      "podcastssummary":"The Black Tapes is a weekly podcast from the creators of Pacific Northwest Stories, and is hosted by Alex Reagan. The Black Tapes Podcast is a serialized docudrama about one journalist's search for truth, her subject's mysterious past, and the literal and figurative ghosts that haunt them both. Do you believe?",
+      "image":"/src/assets/images/podcasts/fiction/6-The Black Tapes.png" 
+    },
+    {
+      "id": 267,
+      "category":"podcasts-fiction",
+      "podcastsname":"Within the Wires",
+      "podcastssummary":"When Carly Parker’s friend Yumiko goes missing under very mysterious circumstances, Carly’s search for her friend leads her headfirst into an ancient mysterious game known only as Rabbits. Soon Carly begins to suspect that Rabbits is much more than just a game, and that the key to understanding Rabbits, might be the key to the survival of our species, and the Universe as we know it.",
+      "image":"/src/assets/images/podcasts/fiction/7-Within the Wires.jpg" 
+    },
+    {
+      "id": 268,
+      "category":"podcasts-fiction",
+      "podcastsname":"We're Alive",
+      "podcastssummary":"Lockdown  A small group of inmates and prison guards are trapped in the T-block at Twin Towers Jail. They are forced to work together and find a way to escape while the rest of the world ends around them.“Goldrush” - Set 17 years after the main events of “A Story of Survival”this is a recollection story that describes the efforts of the four Soldiers as they attempt a side mission to retrieve a suspected stash of gold bullion.",
+      "image":"/src/assets/images/podcasts/fiction/8-We're Alive.jpg" 
+    },
+    {
+      "id": 269,
+      "category":"podcasts-fiction",
+      "podcastsname":"The Magnus Archives",
+      "podcastssummary":"“Make your statement, face your fear.” A weekly horror fiction podcast examining what lurks in the archives of the Magnus Institute, an organisation dedicated to researching the esoteric and the weird. Join Jonathan Sims as he explores the archive, but be warned, as he looks into its depths something starts to look back… New episodes every Thursday produced by Rusty Quill, featuring guest actors, short stories, serial plots and more. The Magnus Protocol launches in January 2024.",
+      "image":"/src/assets/images/podcasts/fiction/9-The Magnus Archives.jpg" 
+    },
+    {
+      "id": 270,
+      "category":"podcasts-fiction",
+      "podcastsname":"Small Town Horror",
+      "podcastssummary":"Ryan Jennings ran from the horrors of Crayton 18 years ago. Now is is coming back to face his greatest fears and search for answers.Hosted on Acast. See acast.com/privacy for more information.",
+      "image":"/src/assets/images/podcasts/fiction/10-Small Town Horror.jpg" 
+    },
+    {
+      "id": 271,
+      "category":"podcasts-fiction",
+      "podcastsname":"LifeAfter-The Message",
+      "podcastssummary":"From GE Podcast Theater and Panoply, The Message and its sequel, LifeAfter, take listeners on journeys to the limits of technology. In The Message, an alien transmission from decades ago becomes an urgent puzzle with life or death consequences. In LifeAfter, Ross, a low level employee at the FBI, spends his days conversing online with his wife Charlie – who died eight months ago. But the technology behind this digital resurrection leads Ross down a dangerous path that threatens his job, his own life, and maybe even the world. Winner of the Cannes Gold Lion.",
+      "image":"/src/assets/images/podcasts/fiction/11-LifeAfter-The Message.jpg" 
+    },
+    {
+      "id": 272,
+      "category":"podcasts-fiction",
+      "podcastsname":"Darkest Night",
+      "podcastssummary":"Darkest Night is a binaural audio drama that places you, the listener, at the center of a recovered memory that sounds as though it’s happening around you in real time. Each chapter delves into the last memories of the recently deceased, slowly revealing a horrifying master plan. Who is weaving this master conspiracy, and what is their ultimate goal? Subscribe now to find out, and wear headphones for the best, most terrifying results. Darkest Night is narrated by Lee Pace (The Hobbit Films, Guardians of the Galaxy, Pushing Daisies. Halt & Catch Fire, etc). Darkest Night features acting performances from Denis O'Hare (American Horror Story), Maynard James Keenan, Missi Pyle (The Artist & Dodgeball), RuPaul, Michelle Visage, and Jeffery Bowyer-Chapman.",
+      "image":"/src/assets/images/podcasts/fiction/Darkest Night.jpg" 
+    },
+
+
+
+
+    {
+      "id": 273,
+      "category":"podcasts-tamil",
+      "podcastsname":"Mohammad Bin Thuglaq Tamil Play",
+      "podcastssummary":"This is a political Sattire written by Thiru Cho.Download free Aurality (mobile app for tamil audiobooks). All views, opinions expressed through this play belongs to Mr.Cho and their playwright team and do not necessarily express as the participants in this play reading or that of the production team BArts and Aurality Sharing this for educational awareness purposes only",
+      "image":"/src/assets/images/podcasts/tamil/1-Mohammad Bin Thuglaq Tamil Play (திரு. சோ அவர்களின் முகம்மது பின் துக்ளக்).jpg" 
+    },
+    {
+      "id": 274,
+      "category":"podcasts-tamil",
+      "podcastsname":"Ramayanam",
+      "image":"/src/assets/images/podcasts/tamil/2-ramayanam.jpg" 
+    },
+    {
+      "id": 275,
+      "category":"podcasts-tamil",
+      "podcastsname":"kovil palangal",
+      "image":"/src/assets/images/podcasts/tamil/3-kovil palangal.jpg" 
+    },
+    {
+      "id": 276,
+      "category":"podcasts-tamil",
+      "podcastsname":"D.J.Muruga",
+      "image":"/src/assets/images/podcasts/tamil/4-D.J.Muruga.jpg" 
+    },
+    {
+      "id": 277,
+      "category":"podcasts-tamil",
+      "podcastsname":"Kadhai Osai Tamil Audiobooks with Deepika",
+      "image":"/src/assets/images/podcasts/tamil/5-kadhai-osai-tamil-audiobooks-with-deepika.jpg" 
+    },
+    {
+      "id": 278,
+      "category":"podcasts-tamil",
+      "podcastsname":"Anpudan Waikato",
+      "podcastssummary":"From Arasan FM, Anpudan Waikato is a Tamil show featuring news, music, interviews, and current affairs. It connects the Tamil community in NZ with their culture and global happenings. Engage by sending requests and feedback to vanakkam@arasan.co.nz. Making it a platform for interaction and cultural exchange.",
+      "image":"/src/assets/images/podcasts/tamil/6-anpudan-waikato.jpg" 
+    },
+    {
+      "id": 279,
+      "category":"podcasts-tamil",
+      "podcastsname":"Otaku Talks Otakutalks",
+      "podcastssummary":"Welcome Minnas!...I'm Spike and This is OtakuTalks!. Here we talk about anime",
+      "image":"/src/assets/images/podcasts/tamil/7-otaku-talks-otakutalks.jpg" 
+    },
+    {
+      "id": 280,
+      "category":"podcasts-tamil",
+      "podcastsname":"The Tamil Creator Ara Ehamparam",
+      "podcastssummary":"Ara Ehamparam (@araehamparam) is the podcast host of 'The Tamil Creator'.  He's an entrepreneur, FIRE believer and admirer of creators. On this momentous 100th episode of #TheTamilCreator, Ara's wife, Claudia (@claudiangele), turns the tables on our usual host to find out more about him. They explore why he started 'The Tamil Creator' podcast, special messages from his best friend & guest on EP 44 of the podcast @vas_saranga [founder of @theonlineactor] as well as his favourite (& only sister) Shagana, how he got the nickname 'Tamil Nelly', his various entrepreneurial ventures, his unparalleled passion for Google calendar, the value of giving more than you take, his innate desire to embody the message of Nike, and much more - you don't wanna miss this episode!",
+      "image":"/src/assets/images/podcasts/tamil/8-the-tamil-creator-ara-ehamparam.jpg" 
+    },
+    {
+      "id": 281,
+      "category":"podcasts-tamil",
+      "podcastsname":"Kadhai Ketkum Neram",
+      "podcastssummary":"Raa Raa (Ramya Saravanan) is an author and has published books both in Tamil and English. She writes stories for children and for an older audience as well. She narrates her stories and short (feel good and motivating) snippets in Kadhai Ketkum Neram. Besides narrating stories written by renowned authors in the public domain, she also narrates content written by her that includes short stories, sleep stories, short snippets, motivational, and much more. Kadhai Ketkum Neram (KKN) serves as a platform to reach you all with diverse content. Kadhai Ketkum Neram (KKN) will always strives to give good and original content to you.",
+      "image":"/src/assets/images/podcasts/tamil/9-kadhai-ketkum-neram.jpg" 
+    },
+    {
+      "id": 282,
+      "category":"podcasts-tamil",
+      "podcastsname":"Naange Pesuvom Tamil Podcast Kathiravan",
+      "podcastssummary":"Tamil podcast where we discuss films and life, in a free breezy mode",
+      "image":"/src/assets/images/podcasts/tamil/10-naange-pesuvom-tamil-podcast-kathiravan.jpg" 
+    },
+    {
+      "id": 283,
+      "category":"podcasts-tamil",
+      "podcastsname":"Tamil Short Stories Under The Tree",
+      "podcastssummary":"These podcasts are all about short stories and spiritual stories found across India. The stories are mainly concentrated on the Indian region but over the course of time would spread to the world stage too. That would be possible only with the help of you. So go ahead and spread this podcast to reach more listeners.",
+      "image":"/src/assets/images/podcasts/tamil/11-tamil-short-stories-under-the-tree-under.jpg" 
+    },
+
+
+    {
+      "ok":"id 284 use pannita podcasts trending -1"
+    },
+
+
+    {
+      "id": 285,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Hello FM",
+      "radiofq":"106.4",
+      "radiosummary":"Hello FM 106.4 radio is a tamil radio broadcasting from Chennai Tamilnadu.Tune to Hello FM radio to listen to your favourite tamil songs and top kollywood songs.Hello FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Hello FM radio to listen now.",
+      "image":"/src/assets/images/radio/hellofm.jpg",
+      "radioaudio":"https://radios.crabdance.com:8002/3"
+    },
+    {
+      "id": 286,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Radio Mirchi FM",
+      "radiofq":"98.3",
+      "radiosummary":"Radio Mirchi 98.3 Chennai is a Tamil Fm radio having broadcasting from chennai and coimbatore at 98.3MHZ.Listen to radio Mirchi to listen to your favourite tamil songs and top kollywood songs.",
+      "image":"/src/assets/images/radio/radiomirchi.jpg",
+      "radioaudio":"https://sp14.instainternet.com/8128/stream"
+    },
+    {
+      "id": 287,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Suryan FM",
+      "radiofq":"93.5",
+      "radiosummary":"Suryan FM 93.5 radio is a tamil radio broadcasting from Chennai India.Tune to Suryan FM 93.5 tamil radio to listen to your favourite tamil songs and top kollywood songs.Suryan FM 93.5 contains a huge variety of programs telecasting wonderful tamil songs.Tune to Suryan FM 93.5 radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/suryanfm.jpg",
+      "radioaudio":"https://tamil.crabdance.com:8002/2"
+    },
+    {
+      "id": 288,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Minnal FM",
+      "radiofq":"101.1",
+      "radiosummary":"Minnal FM radio is a tamil radio broadcasting from Malayasia.Tune to Minnal FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Minnal FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Minnal FM radio to listen now.",
+      "image":"/src/assets/images/radio/minnalfm.jpg",
+      "radioaudio":"https://22243.live.streamtheworld.com/MINNAL_FMAAC.aac"
+    },
+    {
+      "id": 289,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"RadioGilli FM",
+      "radiofq":"106.5",
+      "radiosummary":"Radio Gilli 106.5 FM is the number one tamil radio station broadcasting from UAE.Tune to Radio Gilli 106.5 FM tamil radio to listen to your favourite tamil songs and top Gilli shows.Radio Gilli 106.5 FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Radio Gilli 106.5 FM radio to listen super hit programs and shows Tune to radio illi radio station by visiting radiosindia website for live streaming .Radio gilli programs include MISS YOU by Hasinie SOORYODHAYAM by UTHRAA GILLI MORNING by Nivi SHARE AUTO by UTHRAA ONE TWO THREE by Anjana CINE TIME by Hasinie TN1065 Pradeep LOSE CONTROL by Arun LESA LESA",
+      "image":"/src/assets/images/radio/radiogilli1.jpg",
+      "radioaudio":"https://stream4.rcast.net/66462"
+    },
+    {
+      "id": 290,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"TamilSun FM",
+      "radiofq":"",
+      "radiosummary":"Tamil sun FM is a Tamil Fm radio having broadcasting from Tamilnadu.Tune to tamil sun fm Tamil to listen to your favourite tamil songs and top kollywood songs.Tamil sun fm tamil contains a huge variety of programs telecasting wonderful tamil songs.Tune to tsmil sun Fm to listen now.",
+      "image":"/src/assets/images/radio/tamilsunfm.jpg",
+      "radioaudio":"https://usa2.fastcast4u.com/proxy/tamilsun?mp=/;"
+    },
+    {
+      "id": 291,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"ShakthiFM",
+      "radiofq":"",
+      "radiosummary":"Shakthi FM radio is a tamil radio broadcasting from Srilanka.Tune to Shakthi FM radio to listen to your favourite tamil songs and top kollywood songs.Shakthi FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Shakthi FM radio to listen now.",
+      "image":"/src/assets/images/radio/shakthifm.jpg",
+      "radioaudio":"https://mbc.thestreamtech.com:8086/index.html"
+    },
+    {
+      "id": 292,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Big FM",
+      "radiofq":"92.7",
+      "radiosummary":"Big FM 92.7 Chennai radio is a tamil radio broadcasting from Chennai.Tune to Big FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Big FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Big FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/bigfmtamil.jpg",
+      "radioaudio":"https://tamil.crabdance.com:8002/4"
+    },
+    {
+      "id": 293,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Ilayaraja FM",
+      "radiofq":"",
+      "radiosummary":"Ilayaraja Radio radio is a tamil radio broadcasting from India.Tune to Ilayaraja Radio tamil radio to listen to your favourite tamil songs and top kollywood songs.Ilayaraja Radio contains a huge variety of programs telecasting wonderful tamil songs.Tune to Ilayaraja Radio radio to listen super hit songs",
+      "image":"/src/assets/images/radio/ilayarajaradio.jpg",
+      "radioaudio":"https://sp14.instainternet.com/8090/stream"
+    },
+    {
+      "id": 294,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"a.r.rahman FM",
+      "radiofq":"",
+      "radiosummary":"Ar Rahman radio is a tamil radio broadcasting from India.Tune to Ar Rahman tamil radio to listen to your favourite tamil songs and top kollywood songs.Ar Rahman contains a huge variety of programs telecasting wonderful tamil songs.Tune to Ar Rahman radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/arrahmanradio.jpg",
+      "radioaudio":"https://stream-169.zeno.fm/0cys2h41w0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY3lzMmg0MXcwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InYwSzdiS0V5VGlPSl82UG5BMWlZa0EiLCJpYXQiOjE3MjEzOTg5NDAsImV4cCI6MTcyMTM5OTAwMH0.3AKBNciblOpAl8TU7qmDTqetygKx3XzhWOidW9ZrocA"
+    },
+    {
+      "id": 295,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"HarrisJayaraj FM",
+      "radiofq":"",
+      "radiosummary":"harris jayaraj radio is a tamil radio broadcasting from India.Tune to harris jayaraj tamil radio to listen to your favourite tamil songs and top kollywood songs.harris jayaraj contains a huge variety of programs telecasting wonderful tamil songs.Tune to harris jayaraj radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/harrisjayaraj.jpg",
+      "radioaudio":"https://stream-156.zeno.fm/0bhsthssutzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwYmhzdGhzc3V0enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InJOLW1KWXBZUm95LWFOOTZ1MHFidnciLCJpYXQiOjE3MjEzOTkyMDAsImV4cCI6MTcyMTM5OTI2MH0.GkLisimFGYFB6ndCb0PCECuEfu4XlkWt2-Z6CHgkkrY"
+    },
+    {
+      "id": 296,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"S.P.B FM",
+      "radiofq":"",
+      "radiosummary":"SPB Hits radio is a tamil radio broadcasting from India.Tune to SPB Hits tamil radio to listen to your favourite tamil songs and top kollywood songs.SPB Hits contains a huge variety of programs telecasting wonderful tamil songs.Tune to SPB Hits radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/spbradio1.jpg",
+      "radioaudio":"https://ec3.yesstreaming.net:4040/stream"
+    },
+    {
+      "id": 297,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Yuvan FM",
+      "radiofq":"",
+      "radiosummary":"YSR radio FM radio is a tamil radio broadcasting from India.Tune to YSR radio FM tamil radio to listen to your favourite tamil songs and top kollywood songs.YSR radio FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to YSR radio FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/ysrradio.jpg",
+      "radioaudio":"https://ec3.yesstreaming.net:4055/stream"
+    },
+    {
+      "id": 298,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Ajith FM",
+      "radiofq":"",
+      "radiosummary":"Ajith FM radio is a tamil radio broadcasting from India.Tune to Ajith FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Ajith FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Ajith FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/ajithfm.jpg",
+      "radioaudio":"https://stream-163.zeno.fm/ntkhu40k17zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJudGtodTQwazE3enV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjgzNG5VZGpwVFBlYVhQQXIzUFhyUEEiLCJpYXQiOjE3MjEzOTk1NzAsImV4cCI6MTcyMTM5OTYzMH0.f3YYWV1DhR-tCFL9S6f1uRL5jlP5Ev0ALeKA8_ltv7o"
+    },
+    {
+      "id": 299,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Vijay FM",
+      "radiofq":"",
+      "radiosummary":"Vijay radio radio is a tamil radio broadcasting from India.Tune to Vijay radio tamil radio to listen to your favourite tamil songs and top kollywood songs.Vijay radio contains a huge variety of programs telecasting wonderful tamil songs.Tune to Vijay radio radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/vijayradio.jpg",
+      "radioaudio":"https://stream-152.zeno.fm/3w6g61p7pa0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzdzZnNjFwN3BhMHV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlpLUmc2WUNVU2YtRGtYbS1GVFNzTXciLCJpYXQiOjE3MjEzOTk2MzAsImV4cCI6MTcyMTM5OTY5MH0.hD4VZ-0-wpHQ6lcVXYN5pV0CSq0jjOFFWwQ_X77tf94"
+    },
+    {
+      "id": 357,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Yesudas FM",
+      "radiofq":"",
+      "radiosummary":"",
+      "image":"/src/assets/images/radio/kj-yesudas-radio.jpg",
+      "radioaudio":"https://stream-161.zeno.fm/trtwuyqdmrgtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0cnR3dXlxZG1yZ3R2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlSVFdzT3N0UzUtX3BRMklkYVFFRXciLCJpYXQiOjE3MjE0NDc2NDgsImV4cCI6MTcyMTQ0NzcwOH0.-_TkzJxcuKCh4jhHtzOEX1_NoZj-mJWBpHdMUKf5HJo"
+    },
+    {
+      "id": 358,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"deva FM",
+      "radiofq":"",
+      "radiosummary":"",
+      "image":"/src/assets/images/radio/deva-radio.jpg",
+      "radioaudio":"https://stream-162.zeno.fm/ijpae65onobuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpanBhZTY1b25vYnV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InE4N2NsUW9tU0JxRUhVNFQyRGlublEiLCJpYXQiOjE3MjE0NDc3MzMsImV4cCI6MTcyMTQ0Nzc5M30.wYItrONVnJNh6AXljAkbl2MtZSalGqS_qHCeV4dYiQg"
+    },
+    {
+      "id": 359,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"K.S.Chitra FM",
+      "radiofq":"",
+      "radiosummary":"KS Chitra Radio plays the evergreen songs sung by chinna kuyil.KS Chitra Radio plays the super hit songs in Tamil language.Listen to KS Chitra Radio Tamil radio station online.",
+      "image":"/src/assets/images/radio/ks-chitra.jpg",
+      "radioaudio":"https://stream-164.zeno.fm/aad4e51qz7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhYWQ0ZTUxcXo3enV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IktpWVVvVjR0Umh1eW12ZTVQblhkQ2ciLCJpYXQiOjE3MjE0NDgxOTUsImV4cCI6MTcyMTQ0ODI1NX0.YgBO0bBu_yoDy7KnqVUoViR-r0atnGLb1bvFy2zM4KE"
+    },
+    {
+      "id": 300,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Vadivelu FM",
+      "radiofq":"",
+      "radiosummary":"Vadivelu Comedy Radio radio is a tamil radio broadcasting from India.Tune to Vadivelu Comedy Radio tamil radio to listen to your favourite tamil songs and top kollywood songs.Vadivelu Comedy Radio contains a huge variety of programs telecasting wonderful tamil songs.Tune to Vadivelu Comedy Radio radio to listen super hit songs",
+      "image":"/src/assets/images/radio/vadivelucomedy.jpg",
+      "radioaudio":"https://stream-155.zeno.fm/02n962ezyp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwMm45NjJlenlwOHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlJZclRfMlh6VFRLclFCRVY4NmQ5NkEiLCJpYXQiOjE3MjEzOTk2ODEsImV4cCI6MTcyMTM5OTc0MX0.vuMApKY5eud7SJHWvO1CeqDCTvk235JVbjSyfl7HLHw"
+    },
+    {
+      "id": 310,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"TamilComedyRadio FM",
+      "radiofq":"",
+      "radiosummary":"Taml Comedy Radio radio is a tamil radio broadcasting from Tamilnadu.Tune to Taml Comedy Radio tamil radio to listen to your favourite tamil songs and top kollywood songs.Taml Comedy Radio contains a huge variety of programs telecasting wonderful tamil songs.Tune to Taml Comedy Radio radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/tamilcomedyradio.jpg",
+      "radioaudio":"https://stream-163.zeno.fm/tmgktm50dzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0bWdrdG01MGR6enV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1RLVhGXzlfUVllMzR3WDV2QW9ObUEiLCJpYXQiOjE3MjE0MDEwNTksImV4cCI6MTcyMTQwMTExOX0.y9NudYlyX5T_cuviPDFfUbzsS1JQTDiBcOPRPlZud3o"
+    },
+    {
+      "id": 301,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"InbaThamilOli FM",
+      "radiofq":"",
+      "radiosummary":"Inba thamil oli radio is a tamil radio broadcasting from Australia.Tune to Inba thamil oli FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Inba thamil oli FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Inba thamil oli FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/inbathamiloli.jpg",
+      "radioaudio":"https://usa7.fastcast4u.com/proxy/ozmediae?mp=/1"
+    },
+    {
+      "id": 302,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"DanceTamizha FM",
+      "radiofq":"",
+      "radiosummary":"Dance Tamizha radio is a tamil radio broadcasting from India.Tune to Dance Tamizha tamil radio to listen to your favourite tamil songs and top kollywood songs.Dance Tamizha contains a huge variety of programs telecasting wonderful tamil songs.Tune to Dance Tamizha radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/dancetamizha.jpg",
+      "radioaudio":"https://strw3.openstream.co/791"
+    },
+    {
+      "id": 303,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"RadioBeatRetro FM",
+      "radiofq":"",
+      "radiosummary":"",
+      "image":"/src/assets/images/radio/radiobeatretro.jpg",
+      "radioaudio":"https://www.liveradio.es/http://5.63.151.52:7142/stream"
+    },
+    {
+      "id": 304,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"RadioBeat FM",
+      "radiofq":"",
+      "radiosummary":"",
+      "image":"/src/assets/images/radio/radiobeat.jpg",
+      "radioaudio":"https://strw3.openstream.co/673?aw_0_1st.collectionid%3D3372%26stationId%3D3372%26publisherId%3D697%26k%3D1721400243"
+    },
+    {
+      "id": 305,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"TamilOsai FM",
+      "radiofq":"",
+      "radiosummary":"Tamil Osai FM radio is a tamil radio broadcasting from Sri Lanka.Tune to Tamil Osai FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Tamil Osai FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Tamil Osai FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/tamilosaifm.jpg",
+      "radioaudio":"https://usa15.fastcast4u.com/proxy/tamilosaifm?mp=/1"
+    },
+    {
+      "id": 306,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"RadioBeatLove FM",
+      "radiofq":"",
+      "radiosummary":"Radio Beat Love radio is a tamil radio broadcasting from India.Tune to Radio Beat Love tamil radio to listen to your favourite tamil songs and top kollywood songs.Radio Beat Love contains a huge variety of programs telecasting wonderful tamil songs.Tune to Radio Beat Love radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/radiobeatlove.jpg",
+      "radioaudio":"https://strw3.openstream.co/1993"
+    },
+    {
+      "id": 307,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"TheLeader FM",
+      "radiofq":"",
+      "radiosummary":"Leader FM radio is a tamil radio broadcasting from India.Tune to Leader FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Leader FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Leader FM radio to listen super hit songs",
+      "image":"/src/assets/images/radio/theleaderfm.jpg",
+      "radioaudio":"https://stream-163.zeno.fm/wg4b845c2wzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3ZzRiODQ1YzJ3enV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjdmWDhkcE90U0VDeHpuOWM2N2ZsaGciLCJpYXQiOjE3MjE0MDA2OTksImV4cCI6MTcyMTQwMDc1OX0.FHS7kzpTDca9UA5W-fVYjowypPlH0VM8suDR4yUwddU"
+    },
+    {
+      "id": 308,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"A9Radio FM",
+      "radiofq":"",
+      "radiosummary":"A9 Radio Old Hits is a tamil radio broadcasting from UK.Tune to A9 Radio Old Hits to listen to your favourite tamil songs and top kollywood songs.A9 Tamil contains a huge variety of programs telecasting wonderful tamil songs.Tune to A9 Radio Old Hits to listen now.",
+      "image":"/src/assets/images/radio/a9radio (1).jpg",
+      "radioaudio":"https://a9oldhits-a9media.radioca.st/stream"
+    },
+    {
+      "id": 309,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Isaiyaruvi FM",
+      "radiofq":"",
+      "radiosummary":"Isaiyaruvi FM radio is a tamil radio broadcasting from India.Tune to Isaiyaruvi FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Isaiyaruvi FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Isaiyaruvi FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/isaiyaruvifm.jpg",
+      "radioaudio":"https://cp1.hostcrate.com/8910/stream"
+    },
+    {
+      "id": 311,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Thaalam FM",
+      "radiofq":"",
+      "radiosummary":"Thaalam FM radio is a tamil radio broadcasting from Canada.Tune to Thaalam FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Thaalam FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Thaalam FM radio to listen now.",
+      "image":"/src/assets/images/radio/thaalamfm3.jpg",
+      "radioaudio":"https://ec4.yesstreaming.net:1990/stream"
+    },
+    {
+      "id": 312,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"SLBCtamil",
+      "radiofq":"",
+      "radiosummary":"SLBC Tamil national service FM radio is a tamil radio broadcasting from Srilanka.Tune to SLBC Tamil national service FM tamil radio to listen to your favourite tamil songs and top kollywood songs.SLBC Tamil national service FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to SLBC Tamil national service FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/slbctamil.jpg",
+      "radioaudio":"https://www.liveradio.es/http://220.247.227.6:8000/Tnsstream"
+    },
+    {
+      "id": 313,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"RadioCity FM",
+      "radiofq":"91.1",
+      "radiosummary":"Radio city chennai radio is a tamil radio broadcasting from India.Tune to Radio city chennai tamil radio to listen to your favourite tamil songs and top kollywood songs.Radio city chennai contains a huge variety of programs telecasting wonderful tamil songs.Tune to Radio city chennai radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/radiocity.jpg",
+      "radioaudio":"https://www.liveradio.es/http://tamil.crabdance.com:8002/5"
+    },
+    {
+      "id": 314,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"East FM",
+      "radiofq":"102.7",
+      "radiosummary":"East FM 102.7 radio is a tamil radio broadcasting from Canada.Tune to East FM 102.7 tamil radio to listen to your favourite tamil songs and top kollywood songs.East FM 102.7 contains a huge variety of programs telecasting wonderful tamil songs.Tune to East FM 102.7 radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/eastfm.jpg",
+      "radioaudio":"https://centova.radioservers.biz/proxy/eastfmc1/stream"
+    },
+    {
+      "id": 315,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"LankaSri Fm",
+      "radiofq":"",
+      "radiosummary":"Lankasri FM is a Tamil Fm radio having broadcasting from srilanka.Listen to lankasri Tamil FM to listen to your favourite tamil songs and top kollywood songs.Lankasri tamil contains a huge variety of programs telecasting wonderful tamil songs.Tune to Lankasri Fm to listen now.",
+      "image":"/src/assets/images/radio/lankasrifm.jpg",
+      "radioaudio":"https://rbx2.hnux.com/http://5984.cloudrad.io:8032/;stream.mp3"
+    },
+    {
+      "id": 316,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Thendral FM",
+      "radiofq":"",
+      "radiosummary":"Thendral FM radio is a tamil radio broadcasting from Srilanka.Tune to Thendral FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Thendral FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Thendral FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/thendralfm.jpg",
+      "radioaudio":"https://www.liveradio.es/http://220.247.227.20:8000/Threndralstream"
+    },
+    {
+      "id": 317,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Vasantham Fm",
+      "radiofq":"",
+      "radiosummary":"Vasantham FM radio is a tamil radio broadcasting from srilanka.Tune to vasantham FM tamil radio to listen to your favourite tamil songs and top kollywood songs.vasantham FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Vasantham FM radio to listen now.",
+      "image":"/src/assets/images/radio/vasanthamfm.jpg",
+      "radioaudio":"https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream"
+    },
+    {
+      "id": 318,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Capital FM",
+      "radiofq":"",
+      "radiosummary":"Capital FM radio is a tamil radio broadcasting from Srilanka.Tune to Capital FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Capital FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Capital FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/capitalfm.jpg",
+      "radioaudio":"https://www.liveradio.es/http://live2.rcast.net:8626/stream"
+    },
+    {
+      "id": 319,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Tamil 89.4 FM",
+      "radiofq":"",
+      "radiosummary":"Tamil 89.4 FM radio is a tamil radio broadcasting from Dubai UAE.Tune to Tamil 89.4 FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Tamil 89.4 FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Tamil 89.4 FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/tamilfm.jpg",
+      "radioaudio":"https://centova.aarenworld.com/proxy/894tamilfm/stream"
+    },
+    {
+      "id": 320,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"TRT TamilOli FM",
+      "radiofq":"",
+      "radiosummary":"TRT Tamil Oli FM radio is a tamil radio broadcasting from Europe.Tune to TRT Tamil Oli FM tamil radio to listen to your favourite tamil songs and top kollywood songs.TRT Tamil Oli FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to TRT Tamil Oli FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/trttamiloli.jpg",
+      "radioaudio":"https://radio13.pro-fhi.net:19236/stream.mp3"
+    },
+    {
+      "id": 321,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"IsaiTamil FM",
+      "radiofq":"",
+      "radiosummary":"Isai Tamil FM radio is a tamil radio broadcasting from Singmpuri Sivagangai district.Tune to Isai Tamil FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Isai Tamil FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Isai Tamil FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/isaitamilfm.jpg",
+      "radioaudio":"https://spserver.sscast2u.in/isaitamilfm/stream"
+    },
+    {
+      "id": 322,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Muthamil FM",
+      "radiofq":"88.9",
+      "radiosummary":"Muthamil Radio 88.9 HD3 radio is a tamil radio broadcasting from Toronto Canada.Tune to Muthamil Radio 88.9 HD3 tamil radio to listen to your favourite tamil songs and top kollywood songs.Muthamil Radio 88.9 HD3 contains a huge variety of programs telecasting wonderful tamil songs.Tune to Muthamil Radio 88.9 HD3 radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/muthamilradio.jpg",
+      "radioaudio":"https://ec2.yesstreaming.net:2540/stream"
+    },
+    {
+      "id": 323,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"US Tamil Fm",
+      "radiofq":"",
+      "radiosummary":"US Tamil FM radio is a tamil radio broadcasting from united states.Tune to US Tamil FM tamil radio to listen to your favourite tamil songs and top kollywood songs.US Tamil FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to US Tamil FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/ustamilfm.jpg",
+      "radioaudio":"https://streaming.radio.co/s0cfc93915/listen"
+    },
+    {
+      "id": 324,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Swedan Tamil Fm",
+      "radiofq":"",
+      "radiosummary":"Sweden Tamils FM radio is a tamil radio broadcasting from Sweden.Tune to Sweden Tamils FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Sweden Tamils FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Sweden Tamils FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/swedentamilsfm.jpg",
+      "radioaudio":"https://listen.radioking.com/radio/355330/stream/404626"
+    },
+    {
+      "id": 325,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"IBC Tamil FM",
+      "radiofq":"",
+      "radiosummary":"IBC Tamil radio is a tamil radio broadcasting from UK.Tune to IBC tamil radio to listen to your favourite tamil songs and top kollywood songs.IBC Tamil contains a huge variety of programs telecasting wonderful tamil songs.Tune to IBC Tamil radio to listen now.",
+      "image":"/src/assets/images/radio/ibctamil.jpg",
+      "radioaudio":"https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3"
+    },
+    {
+      "id": 326,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"KodaiRagam Fm",
+      "radiofq":"",
+      "radiosummary":"Kodai Ragam radio is a tamil radio broadcasting from Kodaikanal India.Tune to Kodai Ragam tamil radio to listen to your favourite tamil songs and top kollywood songs.Kodai Ragam contains a huge variety of programs telecasting wonderful tamil songs.Tune to Kodai Ragam radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/kodairagam.jpg",
+      "radioaudio":"https://sp.radiotamilonline.com/8006/stream"
+    },
+    {
+      "id": 327,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Natrinai FM",
+      "radiofq":"",
+      "radiosummary":"Natrinai FM radio is a tamil radio broadcasting from India.Tune to Natrinai FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Natrinai FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Natrinai FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/natrinai.jpg",
+      "radioaudio":"https://centova32.instainternet.com/proxy/sasi?mp=/1"
+    },
+    {
+      "id": 328,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Kathir FM",
+      "radiofq":"",
+      "radiosummary":"Kathir FM radio is a tamil radio broadcasting from Tirunelveli.Tune to Kathir FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Kathir FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Kathir FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/kathirfm.jpg",
+      "radioaudio":"https://stream-176.zeno.fm/ce1nxbxxnrquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjZTFueGJ4eG5ycXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkVBcmx1Mk02VDhtMlVJdF8ta3JIYkEiLCJpYXQiOjE3MjE0MDMzNzQsImV4cCI6MTcyMTQwMzQzNH0.1v-cX4gfVRi-iNIHF-rPBcArOZHMXZGVe_nNqV6evDY"
+    },
+    {
+      "id": 329,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Life FM Karur",
+      "radiofq":"",
+      "radiosummary":"Life FM radio is a tamil radio broadcasting from Karur Tamilnadu.Tune to Life FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Life FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Life FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/lifefmkarur.jpg",
+      "radioaudio":"https://stream-160.zeno.fm/k0qrmtts91zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrMHFybXR0czkxenV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im1BZDVyUlk0UU42eTYwWDFtMzRJZnciLCJpYXQiOjE3MjE0MDM0NzQsImV4cCI6MTcyMTQwMzUzNH0.mcCgw0VfdHPbT451aXg-3C-JZk9l-7qivpfxHtW7-2Q"
+    },
+    {
+      "id": 330,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Asal Fm",
+      "radiofq":"",
+      "radiosummary":"Asal FM radio is a tamil radio broadcasting from Sri Lanka.Tune to Asal FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Asal FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Asal FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/asalfmlk.jpg",
+      "radioaudio":"https://s4.voscast.com:8857/stream"
+    },
+    {
+      "id": 331,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Adirai FM",
+      "radiofq":"90.4",
+      "radiosummary":"Adirai FM 90.4 radio is a tamil radio broadcasting from Adirampattinam, Tamil Nadu, India.Tune to Adirai FM 90.4 tamil radio to listen to your favourite tamil songs and top kollywood songs.Adirai FM 90.4 contains a huge variety of programs telecasting wonderful tamil songs.Tune to Adirai FM 90.4 radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/adiraifm.jpg",
+      "radioaudio":"https://listen.radioking.com/radio/188161/stream/230320"
+    },
+    {
+      "id": 332,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Sirpi Fm",
+      "radiofq":"",
+      "radiosummary":"Sirpi FM radio is a tamil radio broadcasting from India.Tune to Sirpi FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Sirpi FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Sirpi FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/sirpifm.jpg",
+      "radioaudio":"https://sirpifmhd-unicast2u.radioca.st/stream"
+    },
+    {
+      "id": 333,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Maha FM",
+      "radiofq":"",
+      "radiosummary":"Maha FM radio is a tamil radio broadcasting from Ponnamaravathi,Pudukkottai,Tamilnadu India.Tune to Maha FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Maha FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Maha FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/mahafm.jpg",
+      "radioaudio":"https://centova57.instainternet.com/proxy/mahafmradio?mp=/stream"
+    },
+    {
+      "id": 334,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Radio Madurai",
+      "radiofq":"",
+      "radiosummary":"Radio Madurai radio is a tamil radio broadcasting from India.Tune to Radio Madurai tamil radio to listen to your favourite tamil songs and top kollywood songs.Radio Madurai contains a huge variety of programs telecasting wonderful tamil songs.Tune to Radio Madurai radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/radiomadurai.jpg",
+      "radioaudio":"https://stream-157.zeno.fm/1ycmepnthkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxeWNtZXBudGhraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InFDUUNDSndCUUpteHktNWZhVkstMFEiLCJpYXQiOjE3MjE0MDM4ODUsImV4cCI6MTcyMTQwMzk0NX0.O8V0c5c-DEu55j0pEiP0QaeDHcyYP_0h7uuObj2qdwU"
+    },
+    {
+      "id": 335,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Star FM",
+      "radiofq":"",
+      "radiosummary":"Star FM radio is a tamil radio broadcasting from Srilanka.Tune to Star FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Star FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Star FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/starfm.jpg",
+      "radioaudio":"https://stream.starfm.lk:12025/stream"
+    },
+    {
+      "id": 336,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Radio Petti",
+      "radiofq":"",
+      "radiosummary":"Radio Petti radio is a tamil radio broadcasting from Tamil nadu India.Tune to Radio Petti tamil radio to listen to your favourite tamil songs and top kollywood songs.Radio Petti contains a huge variety of programs telecasting wonderful tamil songs.Tune to Radio Petti radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/radiopetti1.jpg",
+      "radioaudio":"https://radiopetti.out.airtime.pro/radiopetti_a"
+    },
+    {
+      "id": 337,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Pothigai FM",
+      "radiofq":"",
+      "radiosummary":"Pothikai FM radio is a tamil radio broadcasting from Sri Lanka.Tune to Pothikai FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Pothikai FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Pothikai FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/pothikaifm.jpg",
+      "radioaudio":"https://mars.streamerr.co/8274/stream"
+    },
+    {
+      "id": 338,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"TamilThangam FM",
+      "radiofq":"",
+      "radiosummary":"Tamil Thangam FM radio is a tamil radio broadcasting from Dharapuram Tamilnadu India.Tune to Tamil Thangam FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Tamil Thangam FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Tamil Thangam FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/tamilthangam.jpg",
+      "radioaudio":"https://stream-153.zeno.fm/e2b3xgmdhuquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlMmIzeGdtZGh1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ii1kSlJjZ1F2VHBXeVEwV005b3JlMGciLCJpYXQiOjE3MjE0MDQ0MTYsImV4cCI6MTcyMTQwNDQ3Nn0.9PTF9HDQLrJXM_MN8dQEc5xKy8PMybuXO_dLOsAh28M"
+    },
+    {
+      "id": 339,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"TamilCholai FM",
+      "radiofq":"",
+      "radiosummary":"Tamil Cholai radio is a tamil radio broadcasting from Perth Australia.Tune to Tamil Cholai tamil radio to listen to your favourite tamil songs and top kollywood songs.Tamil Cholai contains a huge variety of programs telecasting wonderful tamil songs.Tune to Tamil Cholai radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/tamilcholai.jpg",
+      "radioaudio":"https://radio.perthtamiltalkies.com.au/radio/8010/tamilcholai"
+    },
+    {
+      "id": 340,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Yugam FM",
+      "radiofq":"",
+      "radiosummary":"Yugam Radio radio is a tamil radio broadcasting from Tamilnadu.Tune to Yugam Radio tamil radio to listen to your favourite tamil songs and top kollywood songs.Yugam Radio contains a huge variety of programs telecasting wonderful tamil songs.Tune to Yugam Radio radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/yugamradio.jpg",
+      "radioaudio":"https://s6.yesstreaming.net:19012/stream;"
+    },
+    {
+      "id": 341,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Dindugul FM",
+      "radiofq":"",
+      "radiosummary":"Dindigul Radio radio is a tamil radio broadcasting from India.Tune to Dindigul Radio tamil radio to listen to your favourite tamil songs and top kollywood songs.Dindigul Radio contains a huge variety of programs telecasting wonderful tamil songs.Tune to Dindigul Radio radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/dindigulradio.jpg",
+      "radioaudio":"https://spserver.sscast2u.in/dindigulcityfm/stream"
+    },
+    {
+      "id": 342,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Maduram FM",
+      "radiofq":"",
+      "radiosummary":"Madhuram Radio radio is a tamil radio broadcasting from Madurai Tamilnadu India.Tune to Madhuram Radio tamil radio to listen to your favourite tamil songs and top kollywood songs.Madhuram Radio contains a huge variety of programs telecasting wonderful tamil songs.Tune to Madhuram Radio radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/madhuramradio.jpg",
+      "radioaudio":"https://spserver.sscast2u.in/madhuramradio/stream"
+    },
+    {
+      "id": 343,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"GTR FM",
+      "radiofq":"",
+      "radiosummary":"German tamil FM radio is a tamil radio broadcasting from Germany.Tune to German tamil FM tamil radio to listen to your favourite tamil songs and top kollywood songs.German tamil FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to German tamil FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/gtrfm.jpg",
+      "radioaudio":"https://gtr-unicast2u.radioca.st/stream"
+    },
+    {
+      "id": 344,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Ullasam FM",
+      "radiofq":"",
+      "radiosummary":"Ullasam FM radio is a tamil radio broadcasting from Tamilnadu.Tune to Ullasam FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Ullasam FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Ullasam FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/ullasamfm.jpg",
+      "radioaudio":"https://eu10.fastcast4u.com:6740/stream"
+    },
+    {
+      "id": 345,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Samugam FM",
+      "radiofq":"",
+      "radiosummary":"Samugam FM radio is a tamil radio broadcasting from Sri Lanka.Tune to Samugam FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Samugam FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Samugam FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/samugam-fm.jpg",
+      "radioaudio":"https://usa19.fastcast4u.com/eftphimk"
+    },
+    {
+      "id": 346,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Arni FM",
+      "radiofq":"",
+      "radiosummary":"Arni City FM radio is a tamil radio broadcasting from India.Tune to Arni City FM tamil radio to listen to your favourite tamil songs and top kollywood songs.Arni City FM contains a huge variety of programs telecasting wonderful tamil songs.Tune to Arni City FM radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/arnicityfm.jpg",
+      "radioaudio":"https://usa9.fastcast4u.com/proxy/arnifm?mp=/1"
+    },
+    {
+      "id": 347,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Muslim FM",
+      "radiofq":"",
+      "radiosummary":"Muslim Vaanoli radio is a Islam tamil radio broadcasting from Sri Lanka.Tune to Muslim Vaanoli tamil radio to listen to your favourite tamil songs and top kollywood songs.Muslim Vaanoli contains a huge variety of programs telecasting wonderful tamil songs.Tune to Muslim Vaanoli radio to listen super hit songs.",
+      "image":"/src/assets/images/radio/muslimradio.jpg",
+      "radioaudio":"https://stream.muslimvanoli.com:1035/stream"
+    },
+    {
+      "id": 348,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Sivan FM",
+      "radiofq":"",
+      "radiosummary":"Sivan kovil fm radio is a tamil Hindu devotional radio broadcasting from India.Tune to Sivan kovil fm tamil radio to listen to your favourite tamil Hindu devotional songs and favourite hindu songs.Sivan kovil fm contains a huge variety of Hindu devotional programs telecasting wonderful tamil songs.Tune to Sivan kovil fm radio to listen super hit Hindu songs.",
+      "image":"/src/assets/images/radio/sivankovilfm.jpg",
+      "radioaudio":"https://stream-176.zeno.fm/hm9s230a4qzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJobTlzMjMwYTRxenV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkIteVJDdjVoVGhTQm1XOXpNTUFyZ0EiLCJpYXQiOjE3MjE0MDcxOTUsImV4cCI6MTcyMTQwNzI1NX0.V-DxrVaPel0VR7lVuMdTcf7DXnHBmVEJYtliaf_Ily8"
+    },
+    {
+      "id": 349,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"IyalisaiBakthi FM",
+      "radiofq":"",
+      "radiosummary":"iYaliSai Bhakti Radio radio is a tamil Hindu devotional radio broadcasting from India.Tune to iYaliSai Bhakti Radio tamil radio to listen to your favourite tamil Hindu devotional songs and favourite hindu songs.iYaliSai Bhakti Radio contains a huge variety of Hindu devotional programs telecasting wonderful tamil songs.Tune to iYaliSai Bhakti Radio radio to listen super hit Hindu songs.",
+      "image":"/src/assets/images/radio/iyalisaibakthiradio.jpg",
+      "radioaudio":"https://mhariraa.radioca.st/mp64"
+    },
+    {
+      "id": 350,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Ayyappa FM",
+      "radiofq":"",
+      "radiosummary":"Radio Ayyappa is a malayalam radio having broadcasting from Kerala.Listen to Radio Ayyappa malayalam FM to listen to your favourite Malayalam songs and top kollywood songs.Radio Ayyappa contains a huge variety of programs telecasting wonderful malayalam songs.Tune to Radio Ayyappa listen now.",
+      "image":"/src/assets/images/radio/radioayyappa.jpg",
+      "radioaudio":"https://stream-158.zeno.fm/cmncw0f84qzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjbW5jdzBmODRxenV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlVOaWYxMm5lVEo2M0s2TDh6QzU1NmciLCJpYXQiOjE3MjE0MDczMjksImV4cCI6MTcyMTQwNzM4OX0.VwPyMubgeRoY4gQPmznbS30ukyyLprY8tT6wMn4hedQ"
+    },
+    {
+      "id": 351,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"OM FM",
+      "radiofq":"",
+      "radiosummary":"OM Radio radio is a tamil Hindu devotional radio broadcasting from Singapore.Tune to OM Radio tamil radio to listen to your favourite tamil Hindu devotional songs and favourite hindu songs.OM Radio contains a huge variety of Hindu devotional programs telecasting wonderful tamil songs.Tune to OM Radio radio to listen super hit Hindu songs.",
+      "image":"/src/assets/images/radio/omradio.jpg",
+      "radioaudio":"https://25023.live.streamtheworld.com/OMRADIO_S01AAC_SC"
+    },
+    {
+      "id": 352,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"BakthiRaaga FM",
+      "radiofq":"",
+      "radiosummary":"bakthi raaga fm radio is a tamil Hindu devotional radio broadcasting from India.Tune to bakthi raaga fm tamil radio to listen to your favourite tamil Hindu devotional songs and favourite hindu songs.bakthi raaga fm contains a huge variety of Hindu devotional programs telecasting wonderful tamil songs.Tune to bakthi raaga fm radio to listen super hit Hindu songs.",
+      "image":"/src/assets/images/radio/bakthiraagafm.jpg",
+      "radioaudio":"https://strw3.openstream.co/540?aw_0_1st.collectionid%3D7017%26stationId%3D7017%26publisherId%3D564%26k%3D1721446209"
+    },
+    {
+      "id": 353,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Arulvakku FM",
+      "radiofq":"",
+      "radiosummary":"Arulvakku FM radio is a tamil christian radio broadcasting from India.Tune to Arulvakku FM tamil radio to listen to your favourite tamil christian songs and favourite jesus songs.Arulvakku FM contains a huge variety of christian programs telecasting wonderful tamil songs.Tune to Arulvakku FM radio to listen super hit Jesus songs.",
+      "image":"/src/assets/images/radio/arulvakku.jpg",
+      "radioaudio":"https://stream.arulvakku.com/radio/8000/radio.mp3"
+    },
+    {
+      "id": 354,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Amen FM",
+      "radiofq":"",
+      "radiosummary":"Amen FM radio is a tamil christian radio broadcasting from India.Tune to Amen FM tamil radio to listen to your favourite tamil christian songs and favourite jesus songs.Amen FM contains a huge variety of christian programs telecasting wonderful tamil songs.Tune to Amen FM radio to listen super hit Jesus songs.",
+      "image":"/src/assets/images/radio/amenfm.jpg",
+      "radioaudio":"https://ice7.securenetsystems.net/AMENFM"
+    },
+    {
+      "id": 355,
+      "category":"radio-tamil",
+      "genres":"common",
+      "radioname":"Galeed FM",
+      "radiofq":"",
+      "radiosummary":"Galeed FM radio is a tamil christian radio broadcasting from India.Tune to Galeed FM tamil radio to listen to your favourite tamil christian songs and favourite jesus songs.Galeed FM contains a huge variety of christian programs telecasting wonderful tamil songs.Tune to Galeed FM radio to listen super hit Jesus songs.",
+      "image":"/src/assets/images/radio/galeedfm.jpg",
+      "radioaudio":"https://eu2.fastcast4u.com/proxy/arunmedi?mp=/;"
+    
+    }
+
+]
+  

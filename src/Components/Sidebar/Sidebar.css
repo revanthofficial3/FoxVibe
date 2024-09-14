@@ -1,0 +1,224 @@
+@font-face {
+    font-family: high;
+    src: url(../../assets/fonts/highland-gothic/HighlandGothicFLF-Bold.ttf);
+}
+@font-face {
+    font-family: leo;
+    src: url(../../assets//fonts/leomond/LeomondDemoRegular.ttf);
+}
+@font-face {
+    font-family: camel;
+    src: url(../../assets/fonts/queen-of-camelot-2.0/Camelot.otf);
+}
+@font-face {
+    font-family: temo;
+    src: url(../../assets/fonts/queen-temoz/Temoz.ttf);
+}
+@font-face {
+    font-family: santa;
+    src: url(../../assets/fonts/santa-original/Santa.otf);
+}
+@font-face {
+    font-family: star;
+    src: url(../../assets/fonts/star-avenue/staravenue.ttf);
+}
+@font-face {
+    font-family: humble;
+    src: url(../../assets/fonts/stay-humble/Humble.otf);
+}
+@font-face {
+    font-family: valentine;
+    src: url(../../assets/fonts/valentine/Valentine.otf);
+}
+@font-face {
+    font-family: babish;
+    src: url(../../assets/fonts/New-folder/babish-face-personal/Babish.ttf);
+}
+@font-face { /*ok regular*/
+    font-family: cabin;
+    src: url(../../assets/fonts/New-folder/cabin/Cabin-MediumItalic-TTF.ttf);
+}
+@font-face {/*ok coco*/
+    font-family: coco;
+    src: url(../../assets/fonts/New-folder/cocogoose-pro/Cocogoose-Pro-SemiLight-Italic-Trial.ttf);
+}
+@font-face {
+    font-family: ethno;
+    src: url(../../assets/fonts/New-folder/ethnocentric/ethnocentric-rg-it.otf);
+}
+@font-face {
+    font-family: mode;
+    src: url(../../assets/fonts/New-folder/modeska-trial/ModeskaTrial-ExtraBold.ttf);
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.logo{
+    height:10em;
+    width:auto;
+    border-radius: 30%;
+    box-shadow: 3px 3px 10px rgb(246, 255, 0),-3px -3px 10px rgb(238, 109, 3);
+    cursor: pointer;
+    margin: 30% 0 20% 0;
+}
+.home-logo-cmn{
+    text-align: center;
+}
+@keyframes animate {
+    0%{
+        filter:hue-rotate(0deg);
+    }
+    100%{
+        filter: hue-rotate(360deg);
+    }
+    
+}
+
+.Sidebar-cmn {
+    width: 15%;
+    height: 100vh;
+    position: fixed;
+    background-color: black;
+    padding-top: 20px;
+    display: grid;
+    place-content: center;
+  }
+  
+  
+.sidebar-ul {
+    list-style-type: none;
+    margin-left: 1rem;
+    margin-right:.5em;
+  }
+  
+.sidebar-li {
+    margin: 1.3rem 0; 
+    
+  }
+
+  
+.sidebar-link {
+    text-decoration: none;
+    color: white;
+    font-weight:bold;
+    font-variant: small-caps;
+    font-style: italic;
+    font-size: 1.9rem;
+    padding:8px 15px;
+    letter-spacing: 3px;
+    cursor: pointer;
+    font-family: mode;
+  }
+.sidebar-link:hover,.active{
+    color:#FD5600;
+    background-color: white;
+    border-radius: 1em;
+    font-weight: bold;
+}
+.sidebar-link-span{
+    margin: 0 0 0 7px;
+    
+}
+  
+
+
+@media screen and (max-width:749px) {
+.home-logo-cmn{
+    display:none;
+    justify-content:center;
+    align-items:flex-end ;
+    position:absolute;
+    bottom:0px;
+
+}
+.Sidebar-cmn{
+    display:flex;
+    bottom:0;
+    width: 100%;
+    height:fit-content;
+    justify-content: center;
+    align-items: flex-end;
+    z-index: 99;
+    padding: .3em .2em;
+}
+.sidebar-ul{
+    display: flex;
+}
+.sidebar-icon{
+    display: none;
+}
+.sidebar-link{
+    padding:.2em .4em;
+}
+.sidebar-link-span{
+    font-size: 1.2rem;
+} 
+.sidebar-link-span{
+    margin: 0;
+
+} 
+.sidebar-li{
+    margin: 2em .2em;
+}
+
+}
+
+
+@media screen and (max-width:399px) {
+    .Sidebar-cmn{
+        display: grid;
+        place-content: center;
+        height: 100px;
+    }
+    .sidebar-link-span{
+        display: none;
+        background-color: none;
+    } 
+    .sidebar-link{
+        padding: 0px;
+        background-color: none;
+    }
+    .sidebar-icon{
+        font-size: 2rem;
+        display: block;
+        margin: 0 3px;
+        background-color: none;
+    }
+    .sidebar-ul{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .sidebar-li {
+        margin: .2rem 0; 
+        padding: 0 5px;
+    }
+    .sidebar-link:hover,.active{
+        color:#FD5600;
+        background-color: none;
+        border-radius: .5em;
+        font-weight: bold;
+    }
+
+}
+
+
+@media screen and (min-width:750px) and (max-width:1020px) {   
+    .logo{
+        height:7em;
+        width:auto;
+        min-width: fit-content;
+    }
+    .sidebar-link{
+        padding: .3rem .2rem;
+    }
+    .sidebar-link-span{
+        font-size: 1.2rem;
+        
+    } 
+    .sidebar-icon{
+        display: none;
+    }
+
+}
