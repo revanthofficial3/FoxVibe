@@ -1,4 +1,4 @@
-import React,{useState} from "react";
+import {useState} from "react";
 import Navbar from "../Navbar/Navbar";
 import lists from '../API_URL.json'
 import CustomAudioPlayer from "../AudioPlayer/AudioPlayer";
@@ -7,7 +7,7 @@ import './Language.css'
 
 function Language() {
     const [songCount, setSongcount] = useState<any>();
-    const [total, setTotal] = useState<any>(" ");
+    const [_total, setTotal] = useState<any>(" ");
     const [isPlaying,setIsplaying] = useState<any>(null);
 
     const handleClick=(index:any)=>{
@@ -23,7 +23,7 @@ function Language() {
         <div className='radio-cmn'>
             <div className="radio-container">
             {lists.map((element:any,index)=>{
-                const{image,id,category,radioname,radioaudio,radiofq,radiosummary}=element
+                const{image,id,category,radioname,radioaudio,radiofq}=element
                     return (category==="radio-tamil")&&<div className='radio-card'  key={id}>
                             <img src={image} className='radio-image'
                              title={radiofq} onClick={()=>{handleClick(index), setSongcount(radioaudio), setTotal(category=="radio-tamil")}}
