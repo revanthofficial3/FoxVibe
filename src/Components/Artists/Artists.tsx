@@ -25,7 +25,7 @@ function Artists() {
                             <h2 className='artists-movie'>{director}</h2>
                     </div>})}</div></div></div>
                     <div className='artists-common'>  
-        <h1 className='artists-h1'>North India</h1>
+        <h1 className='artists-h1'>North Indias</h1>
         <div className='artists-cmn'>
             <div className="artists-container">
             {lists.map((element:any)=>{
