@@ -5,7 +5,7 @@
       "movie":"indian-2",
       "musicdirector":"anirudh ravichander",
       "singer":"SUVI, Aishwarya Suresh,Abby V, Shruthika Samudhrala,Shruthika Samudhrala",
-      "image":"../../public/images/content/trending/indian2.jpg"
+      "image":"https://www.google.com/imgres?q=hero%20images&imgurl=https%3A%2F%2Fwallpapers.com%2Fimages%2Ffeatured%2Fsouth-hero-8ar741lhso29rxru.jpg&imgrefurl=https%3A%2F%2Fwallpapers.com%2Fsouth-hero&docid=HqEQcnH0vR3DOM&tbnid=GheBQLIsAnAqCM&vet=12ahUKEwi8kvjViceIAxVcS2cHHexIKioQM3oECGMQAA..i&w=886&h=1920&hcb=2&ved=2ahUKEwi8kvjViceIAxVcS2cHHexIKioQM3oECGMQAA"
       
     },
     {
@@ -14,7 +14,7 @@
       "movie":"aranmanai-4",
       "musicdirector":"hiphop tamizha",
       "singer":"Harmaan Nazim, Debanjali B Joshi, Tanu Srivastava, Kushboo Jain ",
-      "image":"../../public/images/content/trending/aranmanai.jpg"
+      "image":"/public/images/content/trending/aranmanai.jpg"
       
     },
     {
