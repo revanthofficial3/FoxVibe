@@ -4,7 +4,6 @@ import Navbar from "../Navbar/Navbar";
 import CustomAudioPlayer from "../AudioPlayer/AudioPlayer";
 import Footer from "../Footer/Footer";
 import { useState } from "react";
-import "./CommonSongs.css";
 
 
 interface valueAssign{

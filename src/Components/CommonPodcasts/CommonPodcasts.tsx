@@ -5,7 +5,7 @@ import Navbar from "../Navbar/Navbar";
 import CustomAudioPlayer from "../AudioPlayer/AudioPlayer";
 import Footer from "../Footer/Footer"
 import { useState } from "react";
-import './CommonPodcasts.css'
+import './CommonPodcasts.css';
 import { useLocation } from 'react-router-dom';
 
 interface valueAssign1{
