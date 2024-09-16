@@ -31,7 +31,7 @@
   .ganna-img{
     place-self: center;
     height:auto;
-    width:13rem;
+    width:10rem;
   }
   .gaana-head1-cmn{
     display: flex;
@@ -42,7 +42,7 @@
     
   }
   .gaana-category{
-    font-size:3rem;
+    font-size:2rem;
     font-weight: bold;
     font-family: cabin;
     letter-spacing: 2px;
@@ -51,7 +51,7 @@
 
   }
   .gaana-total{
-    font-size:2rem;
+    font-size:1.5rem;
     font-weight: bold;
     letter-spacing: 2px;
     font-family: cabin;
@@ -71,7 +71,7 @@
 
   .songlist-table{
     border-collapse:collapse;
-    margin:2em auto 0 auto;
+    margin:1em auto 0 auto;
     border:3px solid grey;
     min-width: 100%; 
     width: fit-content;
@@ -82,8 +82,8 @@
     border-bottom: 3px solid grey;
   }
  .songlist-th{
-    padding: 20px;
-    font-size: 1.5rem;
+    padding: 12px 3px;
+    font-size: 1.2rem;
     color:rgb(207, 199, 199);
   }
   .songlist-bd-cmn{
@@ -96,21 +96,21 @@
     
   }
   .songlist-bd,.songlist-bd-artist{
-    padding: 10px 5px;
+    padding: 10px 4px;
     cursor: pointer;
     font-weight: bold;
     text-align: center;
     
   }
   .songlist-index{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color:#f1edee;
     font-weight: bold;
     text-align: center;
     font-family: cabin;
   }
   .songlist-songname{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color:#f1edee;
     letter-spacing: 2px;
     font-family:cabin;
@@ -122,10 +122,10 @@
     margin: auto;
     white-space: nowrap;
     color:#f1edee;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-family: mode;
     letter-spacing: 1px;
-    padding: 10px 15px 10px 5px;
+    padding:  5px;
   }
   .songlist-singer,.songlist-singer1{
     text-overflow:ellipsis;
@@ -133,15 +133,15 @@
     white-space: nowrap;
     width:20rem;
     margin: auto;
-    padding: 10px 5px 10px 15px;
+    padding:5px;
     color:#f1edee;
     font-family: mode;
     letter-spacing: 1px; 
-    font-size:1.5rem;
+    font-size:1.2rem;
     font-weight: bold;
   }
   .songlist-duration{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-family: cabin;
     letter-spacing: 1px;
     
@@ -149,7 +149,7 @@
   .songlist-download,.songlist-download1{
     color:#f1edee;
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     text-align: center;
     z-index: 999;
   }
@@ -166,21 +166,21 @@
     display: grid;
     grid-template-columns: 1fr;
     margin: auto;
-    
+    padding: 2rem 0 0 0;
   }
   .gaana-head1-cmn{
     margin: auto;
   }
   .gaana-category{
-    font-size:1.7rem;
+    font-size:1.5rem;
     margin: 1rem 0;
   }
   .ganna-img{
-    width:10rem;   
+    width:8rem;   
     margin: auto;
   }
   .gaana-total{
-    font-size:1.5rem;
+    font-size:1.2rem;
   }
   .songlist-table{
     width: 100%;
@@ -188,7 +188,7 @@
   }
   .songlist-th{
     font-size: 1rem;
-    padding: .5rem .4rem;
+    padding: .5rem .2rem;
     
   }
   .songlist-bd{
@@ -196,20 +196,20 @@
     border: none;
   }
   .songlist-index{
-    font-size: 1.1rem;
+    font-size: 1rem;
   }
   .songlist-songname{
-    font-size: 1.1rem;
+    font-size: 1rem;
     
   }
   .songlist-musicdirector,.songlist-singer1{
-    font-size: 1.1rem;
+    font-size: 1rem;
     width: 5rem;
     padding:0;
   }
   .songlist-singer{
     width:3rem;
-    font-size: 1.1rem;
+    font-size: 1rem;
     padding: 0;
     display: none;
   }
@@ -221,18 +221,18 @@
     display: none;
   }
   .songlist-duration{
-    font-size: 1.1rem;
+    font-size: 1rem;
     width:5rem;
   }
   .songlist-download,.songlist-download1{
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
   .gaana-audio-cmn{
     position:fixed;
     
   }
   .gaana-footer-cmn,.artists-footer-cmn{
-    padding-bottom: 122px;
+    padding-bottom: 115px;
   }
   }
 
@@ -252,31 +252,38 @@
       margin: auto;
       
     }
+    .ganna-img{
+      width:8rem;
+      height: auto;
+    }
     .gaana-category{
-      font-size:2rem;
+      font-size:1.7rem;
       margin: 1rem 0;
     }
     .gaana-total{
-      font-size:1.8rem;
+      font-size:1.5rem;
     }
     .songlist-th{
-      font-size: 1.3rem;
+      font-size: 1.2rem;
       padding: 1rem .4rem;
     }
     .songlist-songname{
-      font-size: 1.3rem;
+      font-size: 1.2rem;
     }
     .songlist-musicdirector{
-      width:5rem;
+      width:8rem;
       margin: auto;
-      font-size: 1.3rem;
+      font-size: 1.2rem;
       padding: 0;
     }
     .songlist-singer,.songlist-singer1{
       width:5rem;
       margin: auto;
       padding:0;
-      font-size:1.3rem;
+      font-size:1.2rem;
+    }
+    .songlist-duration,.songlist-download{
+      font-size: 1.2rem;
     }
 
   }

@@ -6,8 +6,7 @@
     display: grid;
     place-items: center;
     background-color: rgb(20, 17, 17);
-    
-    padding: 2% 5%;
+    padding: 1rem 1rem;
     width:100%;
 }
 .footer-cmn1{
@@ -20,7 +19,7 @@
     font-variant: small-caps;
     font-style: italic;
     font-family: high;
-    font-size: 3rem;
+    font-size: 2.2rem;
     padding-bottom: 1rem;
      background-image: url(../../assets/gif/Music-GIF-Music-Discover&Share-GIFs.gif);
     background-size: cover;
@@ -34,16 +33,16 @@
     letter-spacing: 1.5px;
     word-spacing: 2px;
     font-family: high;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     color: silver;
-    padding-bottom: 1rem;
+    padding-bottom: .7rem;
 }
 .footer-cmn2{
     background-color: black;
     color: white;
     text-align: center;
-    padding: 1rem 0;
-    font-size: 1rem;
+    padding: 1rem .3rem;
+    font-size: .7rem;
     letter-spacing: 1.5px;
     word-spacing: 2px;
     font-family: high;
@@ -51,7 +50,7 @@
 .icons-cmn{
     display: grid;
     place-items: center;
-    margin: 1rem 2rem;
+    margin: 1.5rem 2rem;
 }
 .icons{
     display: inline-flex;
@@ -65,8 +64,8 @@
     position: relative;
   }
   .icons a .layer{
-    width: 55px;
-    height: 55px;
+    width: 45px;
+    height: 45px;
     transition: transform 0.3s;
   }
   .icons a:hover .layer{
@@ -83,8 +82,8 @@
     transition: all 0.3s;
   }
   .icons a .layer span.fab{
-    font-size: 30px;
-    line-height: 55px;
+    font-size: 25px;
+    line-height: 48px;
     text-align: center;
   }
   .icons a:hover .layer span:nth-child(1){
@@ -164,7 +163,7 @@
     letter-spacing: 1.5px;
     word-spacing: 2px;
     font-family: high;
-    font-size: 1.2rem;
+    font-size: 1rem;
     padding-top: 1rem;
 }
 
@@ -179,11 +178,12 @@
   padding: 0px;
 }
 .footer-h1{
-  font-size: 1.9rem;
+  font-size: 1.7rem;
   width:80%;
+  margin-top: 1rem;
 }
 .footer-h3{
-  font-size: 1.2rem;
+  font-size: 1rem;
   padding-bottom: 0rem;
   width:80%;
   margin: auto;
@@ -200,8 +200,8 @@
 .footer-cmn2{
   background-color: black;
   opacity: .9;
-  font-size: .7rem;
-  
+  font-size: .6rem;
+
 }
 
 }

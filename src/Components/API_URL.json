@@ -5,7 +5,7 @@
       "movie":"indian-2",
       "musicdirector":"anirudh ravichander",
       "singer":"SUVI, Aishwarya Suresh,Abby V, Shruthika Samudhrala,Shruthika Samudhrala",
-      "image":"/src/assets/images/content/trending/indian2.jpg"
+      "image":"../../public/images/content/trending/indian2.jpg"
       
     },
     {
@@ -14,7 +14,7 @@
       "movie":"aranmanai-4",
       "musicdirector":"hiphop tamizha",
       "singer":"Harmaan Nazim, Debanjali B Joshi, Tanu Srivastava, Kushboo Jain ",
-      "image":"/src/assets/images/content/trending/aranmanai.jpg"
+      "image":"../../public/images/content/trending/aranmanai.jpg"
       
     },
     {

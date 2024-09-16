@@ -22,18 +22,19 @@ function Sidebar() {
 
       <ul className='sidebar-ul'>
         <li className='sidebar-li'>
-          <Link to="/" className={getnavlink('/')}><i className='fa fa-home sidebar-icon'></i> <span className='sidebar-link-span'>Home</span></Link>
+          <Link to="/" className={getnavlink('/')}><span className=' sidebar-icon'><i className='fa fa-home'></i></span> <span className='sidebar-link-span'>Home</span></Link>
         </li>
         <li className='sidebar-li'>
           <Link to="/Podcasts" className={getnavlink('/Podcasts')}>
             <i className='fa fa-podcast sidebar-icon'></i> 
             <span className='sidebar-link-span'>Podcasts</span></Link>
         </li>
-        <li className='sidebar-li'>
-          <Link to="/Language" className={getnavlink('/Language')}><span className='sidebar-icon'><RadioIcon></RadioIcon></span><span className='sidebar-link-span'>Radio</span></Link>
+        <li className='sidebar-lit'>
+          <Link to="/Language" className={getnavlink('/Language')}><span className='sidebar-icon sidebar-icon-radio'><RadioIcon></RadioIcon></span><span className='sidebar-link-span'>Radio</span></Link>
         </li>
         <li className='sidebar-li'>
-          <Link to="/Artists" className={getnavlink('/Artists')}><i className='fa fa-user sidebar-icon'></i> <span className='sidebar-link-span'>Artists</span></Link>       
+          <Link to="/Artists" className={getnavlink('/Artists')}>
+            <span className='sidebar-icon'><i className='fa fa-user '></i></span> <span className='sidebar-link-span'>Artists</span></Link>       
         </li>
         <li>
           <i className='fa fa-user'></i>

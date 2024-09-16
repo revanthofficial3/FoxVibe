@@ -21,16 +21,16 @@
     color:white;
     
   }
-  .CommonPodcasts-grid{
+  .CommonPodcasts-grid-songs,.CommonPodcasts-grid{
     display: grid;
     grid-template-columns: .3fr 1fr;
-    column-gap:20px;
-    padding:4rem 2rem 1rem 0;
+    column-gap:15px;
+    padding:3rem 2rem 1rem 0;
   }
   .ganna-img{
     place-self: center;
     height:auto;
-    width:13rem;
+    width:10rem;
   }
   .CommonPodcasts-head1-cmn{
     display: flex;
@@ -41,7 +41,7 @@
     
   }
   .CommonPodcasts-category{
-    font-size:2rem;
+    font-size:1.5rem;
     font-weight: bold;
     font-family: cabin;
     letter-spacing: 2px;
@@ -50,16 +50,17 @@
 
   }
   .CommonPodcasts-total1{
-    font-size:1.25rem;
+    font-size:1.2rem;
     font-weight: bold;
     letter-spacing: 2px;
+    word-spacing: 3px;
     padding-top: .3rem;
     padding-bottom: 2rem;
     font-family: cabin;
     color:silver;
   }
   .CommonPodcasts-total{
-    font-size:1.6rem;
+    font-size:1.3rem;
     font-weight: bold;
     letter-spacing: 2px;
     font-family: cabin;
@@ -91,8 +92,8 @@
     border-bottom: 3px solid grey;
   }
  .CommonPodcasts-th{
-    padding: 20px;
-    font-size: 1.5rem;
+    padding: 10px;
+    font-size: 1.2rem;
     color:rgb(207, 199, 199);
   }
   .CommonPodcasts-bd-cmn{
@@ -105,21 +106,21 @@
     
   }
   .CommonPodcasts-bd{
-    padding: 10px 5px;
+    padding: 5px;
     cursor: pointer;
     font-weight: bold;
     text-align: center;
     
   }
   .CommonPodcasts-index{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color:#f1edee;
     font-weight: bold;
     text-align: center;
     font-family: cabin;
   }
   .CommonPodcasts-songname{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color:#f1edee;
     letter-spacing: 2px;
     font-family:cabin;
@@ -131,10 +132,10 @@
     margin: auto;
     white-space: nowrap;
     color:#f1edee;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-family: mode;
     letter-spacing: 1px;
-    padding: 10px 15px 10px 5px;
+    padding: 5px;
   }
   .CommonPodcasts-singer{
     text-overflow:ellipsis;
@@ -142,7 +143,7 @@
     white-space: nowrap;
     width:20rem;
     margin: auto;
-    padding: 10px 5px 10px 15px;
+    padding: 5px;
     color:#f1edee;
     font-family: mode;
     letter-spacing: 1px; 
@@ -150,15 +151,15 @@
     font-weight: bold;
   }
   .CommonPodcasts-duration{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-family: cabin;
     letter-spacing: 1px;
-    
+    padding: 10px 5px;
   }
   .CommonPodcasts-download,.CommonPodcasts-download1{
     color:#f1edee;
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     text-align: center;
     z-index: 999;
   }
@@ -168,42 +169,42 @@
   }
 
   @media screen and (max-width:749px) {
-    .CommonPodcasts-grid{
+    .CommonPodcasts-grid,.CommonPodcasts-grid-songs{
       display: grid;
       grid-template-columns: 1fr;
-      padding:2rem 2rem 0rem 2rem;
+      padding:1.5rem 1.5rem 0rem 1.5rem;
     }
     .CommonPodcasts-category{
-      font-size: 1.8rem;
+      font-size: 1.5rem;
       margin:1rem 0;
       display: flex;
       justify-content: center;
       align-items: center;
     }
     .CommonPodcasts-total1{
-      font-size:1.3rem;
+      font-size:1.2rem;
     }
     .CommonPodcasts-total{
-      font-size: 1.5rem;
+      font-size: 1.3rem;
     }
     .CommonPodcasts-th{
-      font-size: 1.3rem;
+      font-size: 1rem;
       padding: 20px 8px;
     }
     .CommonPodcasts-index{
-      font-size: 1.3rem;
+      font-size: 1rem;
     }
     .CommonPodcasts-songname{
-      font-size: 1.3rem;
+      font-size: 1rem;
     }
     .CommonPodcasts-duration{
-      font-size: 1.3rem;
+      font-size: 1rem;
     }
     .CommonPodcasts-download1{
-      font-size: 1.3rem;
+      font-size: 1rem;
     }
     .commonpodcasts-footer-cmn{
-      padding-bottom: 122px;
+      padding-bottom: 115px;
     }
     .CommonPodcasts-audio-cmn{
       position: fixed;
@@ -235,20 +236,25 @@
  @media screen and (min-width:750px) and (max-width:1010px) {
     .CommonPodcasts-grid{
       display: grid;
+      grid-template-columns: 1fr;
+      padding:2rem 2rem 0rem 2rem;
+    }
+    .CommonPodcasts-grid-songs{
+      display: grid;
       grid-template-columns: 1fr 1fr;
       padding:2rem 2rem 0rem 2rem;
     }
     .CommonPodcasts-category{
-      font-size: 2.2rem;
+      font-size: 1.8rem;
       margin:1rem 0;
       display: flex;
       justify-content: center;
       align-items: center;
     }
     .CommonPodcasts-total1{
-      font-size:1.5rem;
+      font-size:1.3rem;
     }
     .CommonPodcasts-total{
-      font-size: 1.8rem;
+      font-size: 1.5rem;
     }
   }

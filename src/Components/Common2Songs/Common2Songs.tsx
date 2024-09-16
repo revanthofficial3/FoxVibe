@@ -50,7 +50,7 @@ const Common2Songs: React.FC = () => {
                   style={{ backgroundImage: `url('${image}')` }}
                   >
                   <div className="CommonPodcasts-cmn2">
-                    <div className="CommonPodcasts-grid">
+                    <div className="CommonPodcasts-grid-songs">
                       <img
                         src={image}
                         alt="movie image"

@@ -3,7 +3,8 @@
   margin: 0px;
 }
 .content-main-common{
-  width:95%; 
+  width:88%; 
+  margin: auto;
   
 }
 .content-common{
@@ -12,24 +13,24 @@
 .content-cmn {
   margin-left: 5%;
   
-  padding:1.5rem 0 2rem 0;
+  padding:1rem 0 1rem 0;
 }
 .content-h1{
   color:white;
-  font-size:2.5rem;
+  font-size:2rem;
   margin-left: 5%;
   letter-spacing: 2px;
   font-family: mode;
 }
 .content-number{
   color:white;
-  font-size:2.5rem;
+  font-size:2rem;
   font-family: cabin;
 }
 .content-card {
   height:auto;
   cursor: pointer;
-  padding: 0 2rem 1rem 2rem; 
+  padding: 0 1rem .5rem 1rem; 
 }
 
 .content-card:hover,.content-image:hover,.content-card:hover > * {
@@ -51,22 +52,22 @@
 }
 
 .content-image {
-  height: 12rem;
+  height: 10rem;
   width: 100%;
   border-radius: 50%;
-  margin-bottom: .7rem;
+  margin-bottom: .3rem;
   transition: 1000ms;
   
 }
 .content-image1{
-  margin-bottom: 1rem;
+  margin-bottom: .2rem;
   letter-spacing: 3px;
 }
 .content-movie{
   text-align: center;
   color:white;
   font-family: coco;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   letter-spacing: 2px;
   text-overflow: ellipsis;
   text-transform: capitalize;
@@ -78,7 +79,7 @@ font-family: cabin;
 .content-director{
   font-family: cabin;
   text-overflow: ellipsis;
-  font-size: 1.4rem;
+  font-size: 1rem;
   text-transform: capitalize;
   overflow: hidden;
   width:100%;
@@ -90,7 +91,7 @@ font-family: cabin;
 .content-singer{
   font-family: cabin;
   letter-spacing: 1.4px;
-  font-size:1.4rem;
+  font-size:1rem;
   text-overflow: ellipsis;
   overflow: hidden;
   width:100%;
@@ -106,25 +107,26 @@ font-family: cabin;
 }
 .content-cmn {
   margin-left: 18%;
-  padding:1rem 0 1rem 0;
+  padding:1rem 0 .4rem 0;
 }
 .content-h1{
-  font-size:2rem;
+  font-size:1.5rem;
+  
 }
 .content-card {
-  padding: 0 1rem .7rem 1rem; 
+  padding: 0 .8rem .5rem .8rem; 
 }
 .content-image {
-  height: 10rem;
+  height: 8rem;
 }
 .content-movie{
   font-size: 1.2rem;
 }
 .content-director{
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 .content-singer{
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 }
 
@@ -136,9 +138,15 @@ font-family: cabin;
   margin: auto;
 }
 .content-h1{
-  font-size:2rem;
+  font-size:1.8rem;
 }
 .content-card {
   padding: 0 1rem .7rem 1rem; 
+}
+.content-movie{
+  font-size: 1.2rem;
+}
+.content-director,.content-singer{
+  font-size: 1.1rem;
 }
 }

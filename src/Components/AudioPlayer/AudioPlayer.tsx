@@ -16,7 +16,7 @@ const useStyles = makeStyles((_Theme:any) => ({
     '& .rhap_time': {
         color:"white",
         fontWeight:"bold",
-        fontSize:"1.3rem",
+        fontSize:"1.1rem",
     },
   },
 }));

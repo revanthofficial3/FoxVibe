@@ -55,12 +55,12 @@
     margin: 0px;
 }
 .logo{
-    height:10em;
+    height:7em;
     width:auto;
     border-radius: 30%;
     box-shadow: 3px 3px 10px rgb(246, 255, 0),-3px -3px 10px rgb(238, 109, 3);
     cursor: pointer;
-    margin: 30% 0 20% 0;
+    margin-bottom: 1rem;
 }
 .home-logo-cmn{
     text-align: center;
@@ -80,7 +80,6 @@
     height: 100vh;
     position: fixed;
     background-color: black;
-    padding-top: 20px;
     display: grid;
     place-content: center;
   }
@@ -93,8 +92,13 @@
   }
   
 .sidebar-li {
-    margin: 1.3rem 0; 
+    margin: 1.2rem 0; 
     
+  }
+  .sidebar-icon-radio{
+    position: relative;
+    top:.3rem;
+    left:-.2rem;
   }
 
   
@@ -104,8 +108,8 @@
     font-weight:bold;
     font-variant: small-caps;
     font-style: italic;
-    font-size: 1.9rem;
-    padding:8px 15px;
+    font-size: 1.1rem;
+    padding:8px 10px;
     letter-spacing: 3px;
     cursor: pointer;
     font-family: mode;
@@ -142,6 +146,11 @@
     z-index: 99;
     padding: .3em .2em;
 }
+.sidebar-lit {
+    display: grid;
+    place-items: center;
+    
+  }
 .sidebar-ul{
     display: flex;
 }
