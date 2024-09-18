@@ -23,7 +23,7 @@ function Language() {
         <div className='radio-cmn'>
             <div className="radio-container">
             {lists.map((element:any,index)=>{
-                const{image,id,category,radioname,radioaudio,radiofq}=element
+                const{image,id,category,radioname,radioaudio}=element
                     return (category==="radio-tamil")&&<div className='radio-card'  key={id}>
                             <img src={image} className='radio-image'
                              title={radioname} onClick={()=>{handleClick(index), setSongcount(radioaudio), setTotal(category=="radio-tamil")}}
