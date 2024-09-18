@@ -3,7 +3,7 @@
     "id": 1,
     "category": "Gaana Songs",
     "types":"Playlist",
-    "image": "/src/assets/images/songlist/gaana/gaana-image.jpg"
+    "image": "https://drive.google.com/thumbnail?id=1ZSP8DdZaAk_IB4WNBeYN-BRjaDHMntua"
   },
   {
     "id":2,
@@ -355,7 +355,7 @@
     "id": 36,
     "category": "Romantic Songs",
     "types":"Playlist",
-    "image": "/src/assets/images/songlist/gaana/romantic-songs.jpg"
+    "image": "https://drive.google.com/thumbnail?id=17SsIm7fTKr7ak3Y5qPkwC-QMLeL_oxMG"
   },
   {
     "id":37,
@@ -1036,7 +1036,7 @@
     "id": 104,
     "category": "Devotional Songs",
     "types":"Playlist",
-    "image": "/src/assets/images/songlist/gaana/devotee-songs.jpg"
+    "image": "https://drive.google.com/thumbnail?id=111AZ1V6KYi74es24rcYDuUVa0U7OMrR1"
   },
   {
     "id":105,
@@ -1338,7 +1338,7 @@
     "id": 134,
     "category": "Party Songs",
     "types":"Playlist",
-    "image": "/src/assets/images/songlist/gaana/party-songs.jpg"
+    "image": "https://drive.google.com/thumbnail?id=1FLla604xVdlzuK6v6a244YB3JXS6EgYR"
   },
   {
     "id":135,
@@ -1659,7 +1659,7 @@
     "id": 166,
     "category": "Motivation Songs",
     "types":"Playlist",
-    "image": "/src/assets/images/songlist/gaana/motivational-songs.jpg"
+    "image": "https://drive.google.com/thumbnail?id=1zTDD8_J0ZFob_YJbjbGk1wNjoQRysOiD"
   },
   {
     "id":167,
@@ -1930,7 +1930,7 @@
     "id": 193,
     "category": "Sad Songs",
     "types":"Playlist",
-    "image": "/src/assets/images/songlist/gaana/sad-songs.jpg"
+    "image": "https://drive.google.com/thumbnail?id=1AVpmVYrQEQsAC6klegFQtxa_PpSAEHBy"
   },
   {
     "id":194,
@@ -2251,7 +2251,7 @@
     "id": 225,
     "category": "Masala Songs",
     "types":"Playlist",
-    "image": "/src/assets/images/songlist/gaana/masala-songs.jpg"
+    "image": "https://drive.google.com/thumbnail?id=1kdac8aJd0Y85Yy5A4VUVlq5oAVgKmYa3"
   },
   {
     "id":226,

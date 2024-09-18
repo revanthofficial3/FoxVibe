@@ -35,7 +35,7 @@ function Podcasts() {
         infinite: false,
         speed: 1000,
         slidesToShow: 5,
-        slidesToScroll: 2,
+        slidesToScroll: 5,
         cssEase: "linear",
         nextArrow: <SampleNextArrow />,
         prevArrow: <SamplePrevArrow />,

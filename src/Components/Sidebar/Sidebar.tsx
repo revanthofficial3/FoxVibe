@@ -1,4 +1,3 @@
-import img2 from '../../assets/images/logo/logo1.jpg'
 import {Link, useLocation} from 'react-router-dom'
 import RadioIcon from '@mui/icons-material/Radio';
 import './Sidebar.css'
@@ -15,7 +14,7 @@ function Sidebar() {
 
     <nav className="Sidebar-cmn">
         <div className='home-logo-cmn'>
-                <img src={img2} className='logo' />
+                <img src="https://drive.google.com/thumbnail?id=1lXrO2BWKdHNmo556XqXkuUFsD_dbyPp1" className='logo' />
                 </div>
 
 

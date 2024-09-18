@@ -2,7 +2,6 @@ import { Link, useLocation, useNavigate } from 'react-router-dom';
 import './Navbar.css'
 import { useEffect,useState } from 'react';
 import SearchSong from '../SongList.json';
-import img2 from '../../assets/images/logo/logo1.jpg';
 
 interface data1{
     search:string;
@@ -91,7 +90,7 @@ let a = 0;
             
             <section className='section2'>
             <div className='home-logo-cmn-navbar'>
-                <img src={img2} className='logo-navbar' />
+                <img src="https://drive.google.com/thumbnail?id=1lXrO2BWKdHNmo556XqXkuUFsD_dbyPp1" className='logo-navbar' />
                 </div>
                 
 

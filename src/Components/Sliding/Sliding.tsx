@@ -65,22 +65,22 @@ function Sliding() {
     <div className="slider-container slider-cmn">
       <Slider {...settings}>
         <div className="slider-img-cmn">
-          <img src="/src/assets/images/slidshow/vijay1.jpg" className="slider-img"/>
+          <img src="https://drive.google.com/thumbnail?id=1Uzj5U4J9h6l5K27xLGdenNPdBERrX_oP" className="slider-img"/>
         </div>
         <div className="slider-img-cmn">
-          <img src="/src/assets/images/slidshow/Kanguva2.jpeg" className="slider-img"/>
+          <img src="https://drive.google.com/thumbnail?id=1N6a5jfX0VcqkMi1qM7Msc3b1fP_SXCdG" className="slider-img"/>
         </div>
         <div className="slider-img-cmn">
-          <img src="/src/assets/images/slidshow/mohanlal1.jpeg" className="slider-img"/>
+          <img src="https://drive.google.com/thumbnail?id=1dJ7Hyb58_xzkPAMyhX9XYRCha9IMBKLu" className="slider-img"/>
         </div>
         <div className="slider-img-cmn">
-          <img src="/src/assets/images/slidshow/pushpa.jpg" className="slider-img"/>
+          <img src="https://drive.google.com/thumbnail?id=14Mc3q7bYsww_ktWPpkHt0ClQSI60fOzW" className="slider-img"/>
         </div>
         <div className="slider-img-cmn">
-          <img src="/src/assets/images/slidshow/kalki1.jpg" className="slider-img"/>
+          <img src="https://drive.google.com/thumbnail?id=1q-btf8RVp5awu2qIgtB8cMEeiHhEUZn9" className="slider-img"/>
         </div>
         <div className="slider-img-cmn">
-          <img src="/src/assets/images/slidshow/Martin.jpg" className="slider-img"/>
+          <img src="https://drive.google.com/thumbnail?id=1D2VCkNBstz-B_l6MGNFUuwQTSQOeFE4N" className="slider-img"/>
         </div>
       </Slider>
     </div>
