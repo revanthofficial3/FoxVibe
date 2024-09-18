@@ -26,7 +26,7 @@ function Language() {
                 const{image,id,category,radioname,radioaudio,radiofq}=element
                     return (category==="radio-tamil")&&<div className='radio-card'  key={id}>
                             <img src={image} className='radio-image'
-                             title={radiofq} onClick={()=>{handleClick(index), setSongcount(radioaudio), setTotal(category=="radio-tamil")}}
+                             title={radioname} onClick={()=>{handleClick(index), setSongcount(radioaudio), setTotal(category=="radio-tamil")}}
                              style={{cursor:'pointer',border:isPlaying===index?"7px solid silver":"",}}/>
                             <h2 className='radio-movie'>{radioname}</h2>
                     </div>})}

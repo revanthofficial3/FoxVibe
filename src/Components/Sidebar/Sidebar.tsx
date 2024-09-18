@@ -28,7 +28,7 @@ function Sidebar() {
             <i className='fa fa-podcast sidebar-icon'></i> 
             <span className='sidebar-link-span'>Podcasts</span></Link>
         </li>
-        <li className='sidebar-lit'>
+        <li className='sidebar-li'>
           <Link to="/Language" className={getnavlink('/Language')}><span className='sidebar-icon sidebar-icon-radio'><RadioIcon></RadioIcon></span><span className='sidebar-link-span'>Radio</span></Link>
         </li>
         <li className='sidebar-li'>

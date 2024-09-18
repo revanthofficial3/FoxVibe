@@ -103,10 +103,11 @@ font-family: cabin;
 @media screen and (max-width:749px) {
 .content-common{
   width:90%; 
+  /* margin: auto; */
   
 }
 .content-cmn {
-  margin-left: 18%;
+  margin-left: 10%;
   padding:1rem 0 .4rem 0;
 }
 .content-h1{

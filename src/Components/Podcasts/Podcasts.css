@@ -119,6 +119,12 @@ font-family: cabin;
   font-size: 1.2rem;
 }
 }
+@media screen and (max-width:400px) {
+  .podcasts-common{
+    width:65%;
+    margin:auto;
+  }
+}
 
 @media screen and (min-width:750px) and (max-width:1010px) {
   .podcasts-common{

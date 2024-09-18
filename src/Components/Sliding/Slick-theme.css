@@ -215,3 +215,9 @@
         margin-bottom: 1rem;
     }
 }
+@media screen and (max-width:350px) {
+    .slick-dots{
+        position: relative;
+        top:-10px;
+    }
+}

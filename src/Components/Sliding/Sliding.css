@@ -33,3 +33,9 @@
     height: 14rem;
 } 
 }
+@media screen and (max-width:350px) {
+    .slider-cmn1{
+        padding-bottom: .2rem;
+        
+    }
+}
