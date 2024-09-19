@@ -36,7 +36,7 @@ function Sidebar() {
             <span className='sidebar-icon'><i className='fa fa-user '></i></span> <span className='sidebar-link-span'>Artists</span></Link>       
         </li>
         <li>
-          <i className='fa fa-user'></i>
+          <i className='fa fa-user sidebar-waste'></i>
         </li>
         
       </ul>
