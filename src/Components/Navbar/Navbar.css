@@ -159,6 +159,10 @@
     display: block;
     padding:1em 0;
 }
+.section2{
+    background-color: black;
+    opacity: .8;
+}
 .section2-first-cmn{
     padding-top: 0em;
 }

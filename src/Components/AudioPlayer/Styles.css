@@ -260,9 +260,11 @@
 
 @media screen and (max-width:749px) {
 .rhap_container{
-  margin-bottom: 90px;
+  margin-bottom: 67px;
   position: sticky;
   z-index: 99;
+  opacity: .7;
+  height: 6.5rem;
 }
 .rhap_additional-controls {
   display: flex;
